@@ -17,10 +17,11 @@
 去除哔哩哔哩，合并到国内媒体  
 去除奈非视频，合并到油管奈非  
 将负载均衡和故障转移原所有节点修改为使用地区节点分组的自动测速，尽可能使用到URLTest后的节点  
-![123](https://github.com/mphin/ACL4SSR/assets/59219235/fe1a93e6-0481-43e2-b999-37f6b7b330b8)
-![2](https://github.com/mphin/ACL4SSR/assets/59219235/acbf79ba-8fa3-41fa-bdf9-d2412cb0da83)
-![360截图20230702141538446](https://github.com/mphin/ACL4SSR/assets/59219235/43e3fa4c-0a7a-4e28-a8dc-3f21de3eed13)
-![360截图20230702141524630](https://github.com/mphin/ACL4SSR/assets/59219235/5a581a95-a01b-4b19-a434-47e67a504e0e)
+![250349472-fe1a93e6-0481-43e2-b999-37f6b7b330b8](https://github.com/mphin/ACL4SSR/assets/59219235/a1467478-e3ee-4764-9e28-98e77ce93b08)
+![250349479-acbf79ba-8fa3-41fa-bdf9-d2412cb0da83](https://github.com/mphin/ACL4SSR/assets/59219235/5133ff2f-a8b3-4590-a892-0f64aebb3336)
+![250338122-43e3fa4c-0a7a-4e28-a8dc-3f21de3eed13](https://github.com/mphin/ACL4SSR/assets/59219235/73e0c0a0-6bb1-4f42-be65-0a795ae92a99)
+![250338127-5a581a95-a01b-4b19-a434-47e67a504e0e](https://github.com/mphin/ACL4SSR/assets/59219235/268b2664-d1c0-44da-ab2b-b6c974f0f5a5)
+
 
 使用方法:  
 1.使用在线订阅转换，在订阅转换网站上填写远程配置参数：  
