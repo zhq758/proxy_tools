@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,ntp.org
 # github国内加速
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,fastgit.org
-DOMAIN-SUFFIX,fastgit.org
 
 # CDN
 DOMAIN-KEYWORD,akamaiedge
@@ -20,12 +19,12 @@ DOMAIN-SUFFIX,amazonwebservicesss.com
 
 # 网页服务
 DOMAIN,x1.c.lencr.org
-DOMAIN,ocsp.sectigo.com
 DOMAIN,ocsp.thawte.com
 DOMAIN,sv.symcb.com
 DOMAIN,polyfill.io
 DOMAIN,ts-ocsp.ws.symantec.com
 DOMAIN,digitalcertvalidation.com
+DOMAIN-SUFFIX,ocsp.sectigo.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-KEYWORD,verisign
