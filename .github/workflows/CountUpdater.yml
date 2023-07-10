@@ -1,4 +1,4 @@
-name: Update List
+name: CountUpdater
 on:
   push:
     branches:
@@ -18,12 +18,12 @@ jobs:
       - name: Get last commit files
         id: last_commit
         run: |
-          echo "::set-output name=sha::$(git rev-parse HEAD)"
+          echo "sha=$(git rev-parse HEAD)" >> $GITHUB_ENV
 
       - name: Get changed files
         id: file_list
         run: |
-          COMMIT=${{ steps.last_commit.outputs.sha }}
+          COMMIT=${{ env.sha }}
           URL="https://api.github.com/repos/${{ github.repository }}/compare/${COMMIT}^...${COMMIT}"
           FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[].filename')
           
@@ -34,10 +34,11 @@ jobs:
 
             # 统计非空行和非注释行的数量
             count=$(grep -v -e '^$' -e '^#' $file | wc -l)
+            count_with_unit="${count}条"
 
             # 更新文件内容
             sed -i "s/^# 更新：.*/# 更新：$current_date/" $file
-            sed -i "s/^# 数量：.*/# 数量：$count/" $file
+            sed -i "s/^# 数量：.*/# 数量：$count_with_unit/" $file
           done
 
       - name: Commit and push changes
