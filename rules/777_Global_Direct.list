@@ -49,6 +49,7 @@ DOMAIN,kr.kingran.cf
 DOMAIN,blog.dengxj.com
 
 # 工具类
+DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,pushplus.plus
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,raidrive.com
