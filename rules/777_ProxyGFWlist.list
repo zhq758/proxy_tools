@@ -1,0 +1,16 @@
+# 内容：✈️ 国外常规列表补充
+# 更新：2023年07月09日12:52:51
+# 数量：6
+
+# 学习网站
+DOMAIN-KEYWORD,bulianglin
+
+# ip查询
+DOMAIN,api.ipify.org
+DOMAIN,api-ipv4.ip.sb
+
+# 青龙
+DOMAIN-SUFFIX,ingest.sentry.io
+IP-CIDR,34.120.195.249/32
+
+DOMAIN-SUFFIX,gpt4all.io
