@@ -49,6 +49,7 @@ DOMAIN,blog.dengxj.com
 DOMAIN-SUFFIX,pushplus.plus
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,raidrive.com
+DOMAIN-SUFFIX,alerts.home-assistant.io
 
 # 过滤器
 DOMAIN,anti-ad.net
