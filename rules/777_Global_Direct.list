@@ -27,6 +27,7 @@ DOMAIN,polyfill.io
 DOMAIN,ts-ocsp.ws.symantec.com
 DOMAIN,digitalcertvalidation.com
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,optimizely.com
 DOMAIN-KEYWORD,verisign
 DOMAIN-KEYWORD,amazontrust
 
