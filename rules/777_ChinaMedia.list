@@ -10,12 +10,18 @@ DOMAIN,4l4ll.com
 DOMAIN,liangma.me
 DOMAIN,smdy91.com
 DOMAIN,szgpmy.com
-DOMAIN,xcyy668.com
 DOMAIN-SUFFIX,24xunlei.com
 DOMAIN-SUFFIX,xinsheng168.com
 DOMAIN-SUFFIX,javdb008.com
 DOMAIN-SUFFIX,zjhuishu.com
 DOMAIN-SUFFIX,dgbosun.com
+
+DOMAIN,xcyy668.com
+DOMAIN,pv.ip1398.com
+DOMAIN,wujinyun.yaokanyao.com
+DOMAIN,xcyy668.dnsserverhe.com
+DOMAIN,jx1.hangzhou-aliyun-oss.com
+DOMAIN,vip.lz-cdn1.com
 
 # 资讯
 DOMAIN-SUFFIX,ft.com
