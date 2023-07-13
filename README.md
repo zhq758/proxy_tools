@@ -2,6 +2,8 @@
 * 自用subconverter订阅转换配置文件含自用补充规则，修改自ACL4SSR https://github.com/ACL4SSR/ACL4SSR    
 * 适合多节点用户，不定时更新补充规则  
 * 本项目创建于2023年7月2日
+# 远程配置地址
+`https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini`
 # 修改内容
 * 增加油管奈非分组  
 * 增加国外常规分组   
@@ -25,6 +27,5 @@
 
 # 使用方法
 * 使用在线订阅转换，在订阅转换网站上填写远程配置参数：  
-https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini   
-* 使用本地搭建的订阅转换，将本项目的配置文件和补充规则copy下来  
-补充规则文件放入ACL4SSR规则集下即可既*/subconverter/rules/ACL4SSR/Clash/  
+`https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini`
+* 使用本地搭建的订阅转换，将本项目的配置文件和补充规则copy下来，放入ACL4SSR规则集同目录下
