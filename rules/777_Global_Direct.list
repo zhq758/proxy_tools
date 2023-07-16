@@ -6,16 +6,15 @@
 # 时间同步服务器
 DOMAIN-SUFFIX,ntp.org
 
-# github国内加速
-DOMAIN-SUFFIX,ghproxy.com
-DOMAIN-SUFFIX,fastgit.org
-
 # CDN
 DOMAIN-KEYWORD,akamaiedge
 DOMAIN-KEYWORD,jsdelivr
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
+DOMAIN-SUFFIX,netlify.com
 
 # 网页服务
 DOMAIN,x1.c.lencr.org
