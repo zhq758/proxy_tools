@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,pushplus.plus
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,alerts.home-assistant.io
+DOMAIN-SUFFIX,rclone.org
 
 # 过滤器
 DOMAIN,anti-ad.net
