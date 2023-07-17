@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,wpc.phicdn.net
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-KEYWORD,verisign
 DOMAIN-KEYWORD,amazontrust
