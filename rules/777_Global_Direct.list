@@ -7,14 +7,14 @@
 DOMAIN-SUFFIX,ntp.org
 
 # CDN
-DOMAIN-KEYWORD,akamaiedge
-DOMAIN-KEYWORD,jsdelivr
-DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,netlify.com
+DOMAIN-KEYWORD,akamaiedge
+DOMAIN-KEYWORD,jsdelivr
+DOMAIN-KEYWORD,cloudflare
 
 # 网页服务
 DOMAIN,x1.c.lencr.org
@@ -66,7 +66,6 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN,chatai.98dongman.com
 DOMAIN-KEYWORD,tdchat
 
-DOMAIN-KEYWORD,nvidia
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,logitech.com
 DOMAIN-SUFFIX,logitech.io
@@ -74,6 +73,7 @@ DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
+DOMAIN-KEYWORD,nvidia
 
 DOMAIN,xiazai.cab
 DOMAIN,gllto.glpals.com
