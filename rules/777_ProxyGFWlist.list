@@ -7,6 +7,7 @@ IP-CIDR,140.82.114.25/32,no-resolve
 
 # 学习网站
 DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,ffqla.net
 DOMAIN-KEYWORD,bulianglin
 
 # ip查询
