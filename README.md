@@ -25,8 +25,8 @@
 ![250338122-43e3fa4c-0a7a-4e28-a8dc-3f21de3eed13](https://github.com/mphin/ACL4SSR/assets/59219235/73e0c0a0-6bb1-4f42-be65-0a795ae92a99)
 ![250338127-5a581a95-a01b-4b19-a434-47e67a504e0e](https://github.com/mphin/ACL4SSR/assets/59219235/268b2664-d1c0-44da-ab2b-b6c974f0f5a5)
 
-
 # 使用方法
 * 使用在线订阅转换，在订阅转换网站上填写远程配置参数：  
 `https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini`
-* 使用本地搭建的订阅转换，将本项目的配置文件和补充规则copy下来，放入ACL4SSR规则集同目录下
+* 使用本地搭建的订阅转换，将配置文件放入subconverter目录下的config文件里，补充规则文件放入rules/ACL4SSR/Clash文件夹里，最后订阅转换网站上填写远程配置参数：  
+`config/ACL4SSR_Online_Full_MultiMode_777_local.ini`
