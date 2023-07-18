@@ -47,7 +47,7 @@ jobs:
           new_date=$(TZ='Asia/Shanghai' date +'%Y年%m月%d日%H:%M:%S')
 
           # 更新README.md内容的时间
-          sed -i "s/更新时间：.*/更新时间：$new_date/" README.md
+          sed -i "s/最近更新：.*/最近更新：$new_date/" README.md
           
       - name: Commit and push changes
         run: |
