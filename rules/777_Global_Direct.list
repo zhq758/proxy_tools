@@ -32,8 +32,8 @@ DOMAIN-SUFFIX,wpc.phicdn.net
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,fonts.com
+DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-KEYWORD,verisign
-DOMAIN-KEYWORD,amazontrust
 
 # IP查询
 DOMAIN-SUFFIX,ip125.com
