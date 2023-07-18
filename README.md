@@ -1,8 +1,7 @@
 # 介绍
 * 自用subconverter订阅转换配置文件含自用补充规则，修改自ACL4SSR https://github.com/ACL4SSR/ACL4SSR    
 * 适合多节点用户，不定时更新补充规则  
-* 本仓库创建于2023年7月2日  
-  
+   
 * 最近更新：2023年07月18日20:28:13
 # 远程配置地址
 `https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini`
@@ -31,3 +30,6 @@
 `https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini`
 * 使用本地搭建的订阅转换，将配置文件放入subconverter目录下的config文件里，补充规则文件放入rules/ACL4SSR/Clash文件夹里，最后订阅转换网站上填写远程配置参数：  
 `config/ACL4SSR_Online_Full_MultiMode_777_local.ini`
+   
+   
+# 本仓库创建于2023年7月2日
