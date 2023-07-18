@@ -24,6 +24,7 @@ DOMAIN,ts-ocsp.ws.symantec.com
 DOMAIN,digitalcertvalidation.com
 DOMAIN,browser.sentry-cdn.com
 DOMAIN,app.adjust.com
+DOMAIN,cdn.cookielaw.org
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
