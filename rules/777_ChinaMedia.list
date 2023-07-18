@@ -3,11 +3,11 @@
 # 数量：52条
 
 # 电影资源
-DOMAIN,ygdy8.net
 DOMAIN,dygod.net
-DOMAIN,www.btwuji.com
 DOMAIN,smdy91.com
 DOMAIN,szgpmy.com
+DOMAIN-SUFFIX,ygdy8.net
+DOMAIN-SUFFIX,btwuji.com
 DOMAIN-SUFFIX,24xunlei.com
 DOMAIN-SUFFIX,xinsheng168.com
 DOMAIN-SUFFIX,javdb008.com
