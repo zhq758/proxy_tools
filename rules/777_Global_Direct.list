@@ -22,6 +22,7 @@ DOMAIN,ocsp.thawte.com
 DOMAIN,polyfill.io
 DOMAIN,ts-ocsp.ws.symantec.com
 DOMAIN,digitalcertvalidation.com
+DOMAIN,browser.sentry-cdn.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
@@ -65,6 +66,11 @@ DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adtidy.org
 
+# BT下载
+DOMAIN-SUFFIX,loadbt.com
+DOMAIN-SUFFIX,abcvg.info
+DOMAIN-SUFFIX,stealth.si
+
 DOMAIN,chatai.98dongman.com
 DOMAIN-KEYWORD,tdchat
 
@@ -87,4 +93,3 @@ DOMAIN-SUFFIX,fiddler2.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,netify.ai
-
