@@ -7,6 +7,7 @@
 DOMAIN-SUFFIX,ntp.org
 
 # CDN
+IP-CIDR,172.224.26.144/32,no-resolve
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,edgekey.net
@@ -49,6 +50,7 @@ DOMAIN,nodejs.org
 DOMAIN,registry.npmjs.org
 DOMAIN,zlc1.chaoyi996.com
 DOMAIN,kr.kingran.cf
+DOMAIN,fakermetaverse.xyz
 
 # Blog
 DOMAIN,blog.dengxj.com
