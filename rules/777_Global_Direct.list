@@ -27,6 +27,7 @@ DOMAIN,browser.sentry-cdn.com
 DOMAIN,app.adjust.com
 DOMAIN,cdn.cookielaw.org
 DOMAIN,r3.o.lencr.org
+DOMAIN,utteranc.es
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
@@ -57,13 +58,14 @@ DOMAIN,git.metauniverse-cn.com
 
 # Blog
 DOMAIN,blog.dengxj.com
+DOMAIN-SUFFIX,caoayu.top
+DOMAIN-SUFFIX,ibruce.info
 
 # 工具类
 DOMAIN,dbcha.com
 DOMAIN,winscp.net
 DOMAIN,jabizb.com
 DOMAIN,jabi.cc
-DOMAIN,sub.ops.ci
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,pushplus.plus
 DOMAIN-SUFFIX,zerotier.com
@@ -71,6 +73,9 @@ DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,alerts.home-assistant.io
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
+
+DOMAIN,sub.ops.ci
+DOMAIN,renzheapi.com
 
 # 过滤器
 DOMAIN,anti-ad.net
