@@ -3,7 +3,7 @@
 * 适合多节点用户，ACL4SSR规则为基础，进行补充  
         
 * 补充数量：186条
-* 最近更新：2023年07月20日21:17:08
+* 最近更新：2023年07月20日21:18:01
 # 远程配置地址
         https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
 # 修改内容
