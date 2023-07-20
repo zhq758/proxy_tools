@@ -67,6 +67,10 @@ DOMAIN,winscp.net
 DOMAIN,jabizb.com
 DOMAIN,jabi.cc
 DOMAIN,api.nolanstore.cc
+DOMAIN,zwjpai.com
+DOMAIN,xz.ioszhi.com
+DOMAIN,sub.ops.ci
+DOMAIN,renzheapi.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,pushplus.plus
 DOMAIN-SUFFIX,zerotier.com
@@ -75,16 +79,13 @@ DOMAIN-SUFFIX,alerts.home-assistant.io
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
 
-DOMAIN,sub.ops.ci
-DOMAIN,renzheapi.com
-
 # 过滤器
 DOMAIN,anti-ad.net
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adtidy.org
 
-# BT下载
+
 DOMAIN-SUFFIX,loadbt.com
 DOMAIN-SUFFIX,abcvg.info
 DOMAIN-SUFFIX,stealth.si
