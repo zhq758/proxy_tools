@@ -79,6 +79,7 @@ DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,alerts.home-assistant.io
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
+DOMAIN-SUFFIX,hytto.com
 
 # 过滤器
 DOMAIN,anti-ad.net
