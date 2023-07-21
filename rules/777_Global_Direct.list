@@ -105,7 +105,8 @@ DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,gateworks.com
-DOMAIN-KEYWORD,nvidia
+DOMAIN-SUFFIX,amazon
+DOMAIN-SUFFIX,nvidia
 
 DOMAIN,xiazai.cab
 DOMAIN,gllto.glpals.com
