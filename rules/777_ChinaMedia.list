@@ -2,7 +2,7 @@
 # 更新：2023年07月20日15:21:12
 # 数量：53条
 
-# 电影资源
+# 影视资源
 DOMAIN,smdy91.com
 DOMAIN,szgpmy.com
 DOMAIN,bbs.zgogc.com
@@ -63,6 +63,13 @@ DOMAIN-SUFFIX,467.tv
 DOMAIN,dow.dowlz10.com
 DOMAIN-SUFFIX,liangzipic.com
 DOMAIN-KEYWORD,vip.lz-cdn
+
+DOMAIN-SUFFIX,gzhyhd.com
+DOMAIN,pic.feisuimg.com
+DOMAIN,mm.bdimg1.com
+DOMAIN,pic1.bdzyimg.com
+DOMAIN,s9.fsvod1.com
+DOMAIN-SUFFIX,bdzybf7.com
 
 # 资讯
 DOMAIN-SUFFIX,ft.com
