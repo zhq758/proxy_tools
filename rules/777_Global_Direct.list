@@ -60,9 +60,11 @@ DOMAIN,kr.kingran.cf
 DOMAIN,fakermetaverse.xyz
 DOMAIN,git.metauniverse-cn.com
 
-# Blog
+# blog、bbs
 DOMAIN,blog.dengxj.com
 DOMAIN,oliverhou.com
+DOMAIN,bbs.zsxwz.com
+DOMAIN,luvsia.com
 DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,ibruce.info
 
@@ -109,7 +111,7 @@ DOMAIN-SUFFIX,lenovomm.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,gateworks.com
 DOMAIN-SUFFIX,amazon
-DOMAIN-SUFFIX,nvidia
+DOMAIN-SUFFIX,nvidia.com
 DOMAIN-KEYWORD,logitech
 
 DOMAIN,xiazai.cab
