@@ -28,7 +28,7 @@ DOMAIN,app.adjust.com
 DOMAIN,cdn.cookielaw.org
 DOMAIN,r3.o.lencr.org
 DOMAIN,utteranc.es
-DOMAIN,crt.usertrust.com
+DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
