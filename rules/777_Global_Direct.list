@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,ntp.org
 
 # CDN
 IP-CIDR,172.224.26.144/32,no-resolve
+DOMAIN,code.jquery.com
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,edgekey.net
