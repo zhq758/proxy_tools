@@ -19,6 +19,7 @@ DOMAIN-KEYWORD,jsdelivr
 DOMAIN-KEYWORD,cloudflare
 
 # 网页服务
+IP-CIDR,152.195.38.76/32,no-resolve
 DOMAIN,x1.c.lencr.org
 DOMAIN,ocsp.thawte.com
 DOMAIN,polyfill.io
