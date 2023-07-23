@@ -95,6 +95,7 @@ DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
 DOMAIN-SUFFIX,similarcdn.com
+DOMAIN-SUFFIX,medallia.com
 
 # 过滤器
 DOMAIN,anti-ad.net
