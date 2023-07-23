@@ -60,13 +60,16 @@ DOMAIN,kr.kingran.cf
 DOMAIN,fakermetaverse.xyz
 DOMAIN,git.metauniverse-cn.com
 
-# blog、bbs
+# 博客论坛
 DOMAIN,blog.dengxj.com
 DOMAIN,oliverhou.com
 DOMAIN,bbs.zsxwz.com
 DOMAIN,luvsia.com
 DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,ibruce.info
+
+DOMAIN-SUFFIX,blueskyxn.com
+DOMAIN-SUFFIX,000714.xyz
 
 # 工具类
 DOMAIN,dbcha.com
