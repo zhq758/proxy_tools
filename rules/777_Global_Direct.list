@@ -92,6 +92,9 @@ DOMAIN-SUFFIX,alerts.home-assistant.io
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,hytto.com
+DOMAIN-SUFFIX,similarweb.com
+DOMAIN-SUFFIX,similarweb.io
+DOMAIN-SUFFIX,similarcdn.com
 
 # 过滤器
 DOMAIN,anti-ad.net
