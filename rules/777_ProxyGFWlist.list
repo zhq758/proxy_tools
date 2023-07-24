@@ -5,16 +5,17 @@
 # github
 IP-CIDR,140.82.114.25/32,no-resolve
 
-# 学习网站
+# 博客论坛
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,ffqla.net
-DOMAIN-KEYWORD,bulianglin
+DOMAIN-SUFFIX,bulianglin.com
 
-# ip查询
+# 工具
+# ＞ ip查询
 DOMAIN,api.ipify.org
 DOMAIN,api-ipv4.ip.sb
-
-# 青龙
+DOMAIN-SUFFIX,ipinfo.io
+# ＞ 青龙
 IP-CIDR,34.120.195.249/32,no-resolve
 DOMAIN-SUFFIX,ingest.sentry.io
 
