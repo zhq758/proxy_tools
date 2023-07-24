@@ -2,6 +2,7 @@
 # 更新：2023年07月23日13:13:16
 # 数量：18条
 
+IP-CIDR,104.19.128.100/32,no-resolve
 DOMAIN,battleship.sc-apps.com
 DOMAIN,cdn.strpst.com
 DOMAIN,thumb-v-lv.xhpingcdn.com
