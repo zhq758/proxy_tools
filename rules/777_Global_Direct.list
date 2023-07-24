@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,medallia.com
+DOMAIN-SUFFIX,urlencoder.org
 # > ipv6测试
 DOMAIN-KEYWORD,ipv4.test
 DOMAIN-KEYWORD,ipv4-test
