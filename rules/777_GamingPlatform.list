@@ -7,8 +7,9 @@ DOMAIN-SUFFIX,pubgbluehole.com
 DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,pubgha.com
 
-# dota
+# dota2
 DOMAIN-SUFFIX,dota2.com
+DOMAIN-SUFFIX,replay153.valve.net
 
 # xbox
 DOMAIN-SUFFIX,xbox.com
