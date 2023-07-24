@@ -2,22 +2,27 @@
 # 更新：2023年07月24日16:57:48
 # 数量：19条
 
-IP-CIDR,104.19.128.100/32,no-resolve
-DOMAIN,battleship.sc-apps.com
-DOMAIN,cdn.strpst.com
-DOMAIN,thumb-v-lv.xhpingcdn.com
+# > xhamster
 DOMAIN,xh.video
-DOMAIN-SUFFIX,megaxh.com
+DOMAIN,thumb-v-lv.xhpingcdn.com
+DOMAIN,battleship.sc-apps.com
+DOMAIN-SUFFIX,xlivesex.com
+DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,doppiocdn.org
+DOMAIN-SUFFIX,megaxh.com
 DOMAIN-SUFFIX,cdn13.com
-DOMAIN-SUFFIX,cdn.stripcash.com
 DOMAIN-SUFFIX,flixcdn.com
-DOMAIN-SUFFIX,img.stripst.com
+DOMAIN-KEYWORD,xhamster
+# > stripchat
+DOMAIN,cdn.strpst.com
 DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,img.stripst.com
+DOMAIN-SUFFIX,cdn.stripcash.com
+
+IP-CIDR,104.19.128.100/32,no-resolve
 DOMAIN-SUFFIX,lovense.com
 DOMAIN-SUFFIX,lovense-api.com
 DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,xlivesex.com
-DOMAIN-KEYWORD,xhamster
-DOMAIN-KEYWORD,xhcdn
+
+
