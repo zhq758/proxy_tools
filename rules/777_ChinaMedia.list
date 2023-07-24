@@ -5,7 +5,6 @@
 # 影视资源
 DOMAIN,smdy91.com
 DOMAIN,szgpmy.com
-DOMAIN,bbs.zgogc.com
 DOMAIN-SUFFIX,dygod.net
 DOMAIN-SUFFIX,ygdy8.net
 DOMAIN-SUFFIX,btwuji.com
@@ -15,7 +14,7 @@ DOMAIN-SUFFIX,javdb008.com
 DOMAIN-SUFFIX,zjhuishu.com
 DOMAIN-SUFFIX,dgbosun.com
 DOMAIN-SUFFIX,dy2018.com
-
+# > 星辰影院
 DOMAIN-SUFFIX,xcyy668.com
 DOMAIN,img.ffzypic.com
 DOMAIN,pv.ip1398.com
@@ -32,24 +31,22 @@ DOMAIN,pic.wujinpp.com
 DOMAIN,youku.youkuphoto.com
 DOMAIN,dy47.live
 DOMAIN,dy44.live
-
 DOMAIN,v.zdxtd.com
 DOMAIN,image.maimn.com
 DOMAIN,hey10.cjkypo.com
-
-DOMAIN,hshtcm.com
+# > 策驰影院
+DOMAIN-SUFFIX,hshtcm.com
 DOMAIN,hey03.cjkypo.com
-
-DOMAIN,hl91.one
-
-DOMAIN,bbs.zgogc.com
-DOMAIN,img.blr844.com
-
+# > 花蕾网
+DOMAIN-SUFFIX,hl91.one
+DOMAIN,video55.zdavsp.com
+DOMAIN,uyfjdnht.68243.cc
+# > 4楼
 DOMAIN-SUFFIX,4l4ll.com
 DOMAIN,cdn7.yzzy-tv1.com
 DOMAIN,dy2.yle888.vip
 DOMAIN-SUFFIX,qoqkkhy.com
-
+# > 91影院
 DOMAIN,liangma.me
 DOMAIN,img.kuaibozy.net
 DOMAIN,m3u8.mstopq.com
@@ -60,21 +57,35 @@ DOMAIN,v2.qoqliyu.com
 DOMAIN,vod6.bdzybf7.com
 DOMAIN-SUFFIX,dious.cc
 DOMAIN-SUFFIX,cjkypo.com
-
+# > 天天电影网
 DOMAIN-SUFFIX,tiantiandy.com
 DOMAIN-SUFFIX,467.tv
 DOMAIN,dow.dowlz10.com
 DOMAIN-SUFFIX,liangzipic.com
 DOMAIN-KEYWORD,vip.lz-cdn
-
+# > 天天影视
 DOMAIN-SUFFIX,gzhyhd.com
 DOMAIN,pic.feisuimg.com
 DOMAIN,mm.bdimg1.com
 DOMAIN,pic1.bdzyimg.com
-DOMAIN,s9.fsvod1.com
+DOMAIN-SUFFIX,fsvod1.com
 DOMAIN-SUFFIX,bdzybf7.com
-
+# > 美剧天堂
 DOMAIN-SUFFIX,meijutt.tv
+DOMAIN,t.nanlanling.com
+# > 影视大全
+DOMAIN-SUFFIX,chihuayu.com
+DOMAIN,pro.ip-api.com
+DOMAIN,ckzycdn2.com
+DOMAIN,ckzy2.com
+# > 影视大全
+DOMAIN-SUFFIX,jitaiwelding.com
+DOMAIN-SUFFIX,jisihan.com
+DOMAIN,jx.xmflv.com
+DOMAIN,jx.m3u8.tv
+DOMAIN,v.gsuus.com
+DOMAIN-SUFFIX,m3u8.pw
+
 
 # 资讯
 DOMAIN-SUFFIX,ft.com
