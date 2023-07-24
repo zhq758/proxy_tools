@@ -158,4 +158,5 @@ DOMAIN-SUFFIX,msn90.com
 DOMAIN-SUFFIX,bioscompass.com
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
-
+# > 收银台
+DOMAIN,u.mcashier.xyz
