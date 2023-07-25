@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,ghproxy.com
 
 # 网页服务
 IP-CIDR,152.195.38.76/32,no-resolve
-DOMAIN,x1.c.lencr.org
 DOMAIN,ocsp.thawte.com
 DOMAIN,polyfill.io
 DOMAIN,ts-ocsp.ws.symantec.com
@@ -33,8 +32,8 @@ DOMAIN,digitalcertvalidation.com
 DOMAIN,browser.sentry-cdn.com
 DOMAIN,app.adjust.com
 DOMAIN,cdn.cookielaw.org
-DOMAIN,r3.o.lencr.org
 DOMAIN,utteranc.es
+DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
