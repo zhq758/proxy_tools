@@ -3,9 +3,11 @@
 # 数量：9条
 
 # pubg
+DOMAIN,log-brofront.kraftonde.com
 DOMAIN-SUFFIX,pubgbluehole.com
 DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,pubgha.com
+DOMAIN-SUFFIX,pubwxp-mim.vivox.com
 
 # dota2
 DOMAIN-SUFFIX,dota2.com
