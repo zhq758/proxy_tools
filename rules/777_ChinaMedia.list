@@ -25,18 +25,15 @@ DOMAIN,vip.lz-cdn1.com
 DOMAIN,ukzy.ukubf4.com
 DOMAIN,baidu.sd-play.com
 DOMAIN,baidu.shanshanku.com
-DOMAIN,new.qoqkkhy.com
-DOMAIN,hey05.cjkypo.com
 DOMAIN,pic.wujinpp.com
 DOMAIN,youku.youkuphoto.com
 DOMAIN,dy47.live
 DOMAIN,dy44.live
 DOMAIN,v.zdxtd.com
 DOMAIN,image.maimn.com
-DOMAIN,hey10.cjkypo.com
 # > 策驰影院
 DOMAIN-SUFFIX,hshtcm.com
-DOMAIN,hey03.cjkypo.com
+DOMAIN-SUFFIX,cjkypo.com
 # > 花蕾网
 DOMAIN-SUFFIX,hl91.one
 DOMAIN,video55.zdavsp.com
@@ -54,9 +51,7 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,pic.huishij.com
 DOMAIN,deo.shopeemobile.com
 DOMAIN,v2.qoqliyu.com
-DOMAIN,vod6.bdzybf7.com
 DOMAIN-SUFFIX,dious.cc
-DOMAIN-SUFFIX,cjkypo.com
 # > 天天电影网
 DOMAIN-SUFFIX,tiantiandy.com
 DOMAIN-SUFFIX,467.tv
