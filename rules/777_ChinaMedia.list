@@ -2,6 +2,12 @@
 # 更新：2023年07月23日15:54:18
 # 数量：63条
 
+# 资讯
+DOMAIN-SUFFIX,ft.com
+
+# 动漫
+DOMAIN-SUFFIX,bangumi.tv
+
 # 影视资源
 DOMAIN,smdy91.com
 DOMAIN,szgpmy.com
@@ -80,7 +86,3 @@ DOMAIN,jx.xmflv.com
 DOMAIN,jx.m3u8.tv
 DOMAIN,v.gsuus.com
 DOMAIN-SUFFIX,m3u8.pw
-
-
-# 资讯
-DOMAIN-SUFFIX,ft.com
