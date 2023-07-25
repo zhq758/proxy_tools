@@ -109,6 +109,7 @@ DOMAIN-KEYWORD,ipv4-test
 DOMAIN-KEYWORD,ipv6-test
 DOMAIN-KEYWORD,test-ipv6
 DOMAIN,ip4.8n1.org
+DOMAIN,v4.ipv6.br
 DOMAIN,ipv4.jamieweb.net
 DOMAIN,ipv4.nop.hu
 DOMAIN,ipv4.duiadns.net
@@ -117,6 +118,10 @@ DOMAIN,ipv4.nsx.de
 DOMAIN,ipv4.stdio.be
 DOMAIN,ipv4.tunnelbroker.net
 DOMAIN,ipv4.excathedra.co
+DOMAIN,ipv4.mudgee.host
+DOMAIN,ipv4.joram.it
+DOMAIN,v4-only.steffann.nl
+DOMAIN,test4.vyncke.org
 # ＞ 域名服务
 DOMAIN-SUFFIX,namesilo.com
 # ＞ 订阅转换
