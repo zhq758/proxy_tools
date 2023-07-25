@@ -11,7 +11,6 @@ IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
 DOMAIN,code.jquery.com
 DOMAIN,cdn.cdnjson.com
-DOMAIN,s1.ax1x.com
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
@@ -19,6 +18,13 @@ DOMAIN-SUFFIX,netlify.com
 DOMAIN-KEYWORD,akamaiedge
 DOMAIN-KEYWORD,jsdelivr
 DOMAIN-KEYWORD,cloudflare
+# ＞ 图床
+DOMAIN,s1.ax1x.com
+DOMAIN,s3.bmp.ovh
+DOMAIN,p.sda1.dev
+DOMAIN-SUFFIX,imgurl.org
+DOMAIN-SUFFIX,postimg.cc
+DOMAIN-SUFFIX,postimages.org
 # > ghproxy
 IP-CIDR,192.9.149.24/32,no-resolve
 DOMAIN-SUFFIX,ghproxy.com
@@ -46,6 +52,8 @@ DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,webflow.com
 DOMAIN-KEYWORD,verisign
 DOMAIN-KEYWORD,squarespace
 
@@ -156,6 +164,7 @@ DOMAIN-SUFFIX,gateworks.com
 DOMAIN-SUFFIX,amazon
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,logi.com
 DOMAIN-KEYWORD,logitech
 
 DOMAIN,xiazai.cab
