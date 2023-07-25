@@ -2,14 +2,14 @@
 # 更新：2023年07月25日08:59:06
 # 数量：11条
 
-# pubg
+# Steam
+# ＞ Pubg
 DOMAIN,log-brofront.kraftonde.com
 DOMAIN-SUFFIX,pubgbluehole.com
 DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,pubgha.com
 DOMAIN-SUFFIX,pubwxp-mim.vivox.com
-
-# dota2
+# ＞ dota2
 DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,valve.net
 
@@ -17,5 +17,6 @@ DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxab.com
+
 
 DOMAIN-SUFFIX,king.com
