@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,pubwxp-mim.vivox.com
 # ＞ dota2
 DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,valve.net
+# ＞ Apex
+DOMAIN-SUFFIX,eac-cdn.com
+DOMAIN-SUFFIX,stryder.respawn.com
 
 # xbox
 DOMAIN-SUFFIX,xbox.com
