@@ -139,8 +139,10 @@ DOMAIN,sub.ops.ci
 DOMAIN,iosding.com
 DOMAIN,xz.ioszhi.com
 DOMAIN-SUFFIX,zwjpai.com
-
-# 过滤器
+# ＞ 导航
+DOMAIN,xiazai.cab
+DOMAIN-SUFFIX,xiazai.vin
+# ＞ 过滤器
 DOMAIN,anti-ad.net
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
@@ -167,7 +169,6 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,logi.com
 DOMAIN-KEYWORD,logitech
 
-DOMAIN,xiazai.cab
 DOMAIN,gllto.glpals.com
 DOMAIN,giscus.app
 DOMAIN,codenong.com
