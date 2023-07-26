@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,ygdy8.net
 DOMAIN-SUFFIX,btwuji.com
 DOMAIN-SUFFIX,24xunlei.com
 DOMAIN-SUFFIX,xinsheng168.com
-DOMAIN-SUFFIX,javdb008.com
 DOMAIN-SUFFIX,zjhuishu.com
 DOMAIN-SUFFIX,dgbosun.com
 DOMAIN-SUFFIX,dy2018.com
@@ -86,3 +85,10 @@ DOMAIN,jx.xmflv.com
 DOMAIN,jx.m3u8.tv
 DOMAIN,v.gsuus.com
 DOMAIN-SUFFIX,m3u8.pw
+# > 调侃网
+DOMAIN-SUFFIX,tiaokan.info
+DOMAIN-SUFFIX,tiaokan.love
+# > JavDB
+DOMAIN-SUFFIX,javdb008.com
+DOMAIN-SUFFIX,jdbstatic.com
+
