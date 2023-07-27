@@ -25,6 +25,7 @@ DOMAIN,p.sda1.dev
 DOMAIN-SUFFIX,imgurl.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postimages.org
+DOMAIN-SUFFIX,imagegoto.com
 # > ghproxy
 IP-CIDR,192.9.149.24/32,no-resolve
 DOMAIN-SUFFIX,ghproxy.com
