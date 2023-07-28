@@ -5,7 +5,8 @@
 # github
 IP-CIDR,140.82.114.25/32,no-resolve
 
-# 博客论坛
+# 学习分享
+DOMAIN,duangks.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,ffqla.net
 DOMAIN-SUFFIX,bulianglin.com
