@@ -75,7 +75,7 @@ DOMAIN,kr.kingran.cf
 DOMAIN,fakermetaverse.xyz
 DOMAIN,git.metauniverse-cn.com
 
-# 博客论坛
+# 博客/论坛/文档
 DOMAIN,blog.dengxj.com
 DOMAIN,oliverhou.com
 DOMAIN,bbs.zsxwz.com
@@ -84,6 +84,7 @@ DOMAIN,404world.in
 DOMAIN,404world.tk
 DOMAIN,docs.reiz.link
 DOMAIN,jichangtuijian.com
+DOMAIN,clash-meta.wiki
 DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,quchao.net
