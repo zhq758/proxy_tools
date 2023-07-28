@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,ffqla.net
 DOMAIN-SUFFIX,bulianglin.com
 
 # 工具
+DOMAIN-SUFFIX,gpt4all.io
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,wirewax.com
 # ＞ ip查询
 DOMAIN,api.ipify.org
 DOMAIN,api-ipv4.ip.sb
@@ -18,7 +21,5 @@ DOMAIN-SUFFIX,ipinfo.io
 # ＞ 青龙
 IP-CIDR,34.120.195.249/32,no-resolve
 DOMAIN-SUFFIX,ingest.sentry.io
-
-DOMAIN-SUFFIX,gpt4all.io
-DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-SUFFIX,wirewax.com
+# ＞ VPN
+DOMAIN,xfltd.org
