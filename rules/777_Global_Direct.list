@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,imgurl.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,imagegoto.com
+DOMAIN-SUFFIX,hostpic.org
 # > ghproxy
 IP-CIDR,192.9.149.24/32,no-resolve
 DOMAIN-SUFFIX,ghproxy.com
