@@ -75,7 +75,7 @@ DOMAIN,kr.kingran.cf
 DOMAIN,fakermetaverse.xyz
 DOMAIN,git.metauniverse-cn.com
 
-# 知识分享
+# 学习分享
 DOMAIN,blog.dengxj.com
 DOMAIN,oliverhou.com
 DOMAIN,bbs.zsxwz.com
@@ -95,6 +95,7 @@ DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,ioiox.com
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,codein.icu
+DOMAIN-SUFFIX,askahh.com
 
 # 工具类
 DOMAIN,dbcha.com
