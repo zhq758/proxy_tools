@@ -19,9 +19,10 @@ DOMAIN-KEYWORD,akamaiedge
 DOMAIN-KEYWORD,jsdelivr
 DOMAIN-KEYWORD,cloudflare
 # ＞ 图床
-DOMAIN,s1.ax1x.com
 DOMAIN,s3.bmp.ovh
 DOMAIN,p.sda1.dev
+DOMAIN,png.cm
+DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,imgurl.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postimages.org
@@ -82,6 +83,7 @@ DOMAIN,luvsia.com
 DOMAIN,404world.in
 DOMAIN,404world.tk
 DOMAIN,docs.reiz.link
+DOMAIN,jichangtuijian.com
 DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,quchao.net
@@ -153,6 +155,8 @@ DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adtidy.org
 # ＞ VPN
 DOMAIN,ciyy.cc
+DOMAIN,suying00.com
+DOMAIN,chiguayun.com
 DOMAIN-SUFFIX,xfltd.org
 
 
