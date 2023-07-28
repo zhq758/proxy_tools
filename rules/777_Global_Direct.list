@@ -151,6 +151,9 @@ DOMAIN,anti-ad.net
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adtidy.org
+# ＞ VPN
+DOMAIN,ciyy.cc
+DOMAIN-SUFFIX,xfltd.org
 
 
 DOMAIN-SUFFIX,loadbt.com
