@@ -10,4 +10,5 @@ IP-CIDR,52.140.118.28/32,no-resolve
 IP-CIDR,20.198.162.78/32,no-resolve
 IP-CIDR,40.91.80.89/32,no-resolve
 DOMAIN,click.linksynergy.com
+DOMAIN-SUFFIX,phicdn.net
 DOMAIN-SUFFIX,nelreports.net
