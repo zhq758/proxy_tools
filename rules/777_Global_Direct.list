@@ -3,15 +3,14 @@
 # 更新：2023年07月29日01:01:52
 # 数量：183条
 
-# 时间同步
-DOMAIN-SUFFIX,ntp.org
-
 # CDN
 IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
 DOMAIN,code.jquery.com
 DOMAIN,cdn.cdnjson.com
+DOMAIN,gravatar.wp-china-yes.net
 DOMAIN-SUFFIX,fastgit.org
+DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,netlify.com
@@ -22,59 +21,49 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN,s3.bmp.ovh
 DOMAIN,p.sda1.dev
 DOMAIN,png.cm
+DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,imgurl.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,imagegoto.com
 DOMAIN-SUFFIX,hostpic.org
-# > ghproxy
-IP-CIDR,192.9.149.24/32,no-resolve
-DOMAIN-SUFFIX,ghproxy.com
 
-# 网页服务
-IP-CIDR,152.195.38.76/32,no-resolve
-DOMAIN,ocsp.thawte.com
+# 网站服务
 DOMAIN,polyfill.io
-DOMAIN,ts-ocsp.ws.symantec.com
-DOMAIN,digitalcertvalidation.com
 DOMAIN,browser.sentry-cdn.com
 DOMAIN,app.adjust.com
 DOMAIN,cdn.cookielaw.org
 DOMAIN,utteranc.es
-DOMAIN-SUFFIX,lencr.org
-DOMAIN-SUFFIX,usertrust.com
-DOMAIN-SUFFIX,symcb.com
-DOMAIN-SUFFIX,symcd.com
-DOMAIN-SUFFIX,ocsp.sectigo.com
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,digicert-cn.com
-DOMAIN-SUFFIX,wpc.phicdn.net
+DOMAIN,giscus.app
+DOMAIN,bing.myan.cf
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,fonts.com
-DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,webflow.com
-DOMAIN-KEYWORD,verisign
+DOMAIN-SUFFIX,telerik.com
+DOMAIN-SUFFIX,crisp.chat
+DOMAIN-SUFFIX,openresty.com
+DOMAIN-SUFFIX,medallia.com
+DOMAIN-SUFFIX,abetterinternet.org
+DOMAIN-SUFFIX,gangguana.com
 DOMAIN-KEYWORD,squarespace
-
-# IP查询
-DOMAIN-SUFFIX,ip125.com
-DOMAIN-SUFFIX,jsonp-ip.com
-
-# 加速器
-DOMAIN,ahaspeed.com
-
-# 青龙
-DOMAIN,version.pm2.io
-DOMAIN,nodejs.org
-DOMAIN,registry.npmjs.org
-DOMAIN,zlc1.chaoyi996.com
-DOMAIN,kr.kingran.cf
-DOMAIN,fakermetaverse.xyz
-DOMAIN,git.metauniverse-cn.com
+# ＞ 证书验证
+IP-CIDR,152.195.38.76/32,no-resolve
+DOMAIN,ocsp.thawte.com
+DOMAIN,ts-ocsp.ws.symantec.com
+DOMAIN,digitalcertvalidation.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,usertrust.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,ocsp.sectigo.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,digicert-cn.com
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-KEYWORD,verisign
 
 # 学习分享
 DOMAIN,blog.dengxj.com
@@ -88,6 +77,8 @@ DOMAIN,jichangtuijian.com
 DOMAIN,clash-meta.wiki
 DOMAIN,jiasupanda.com
 DOMAIN,g-suite.cc
+DOMAIN,idappblog.com
+DOMAIN,codenong.com
 DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,quchao.net
@@ -101,28 +92,34 @@ DOMAIN-SUFFIX,920.im
 DOMAIN-SUFFIX,ffq.la
 
 # 工具类
-DOMAIN,dbcha.com
 DOMAIN,winscp.net
-DOMAIN,jabizb.com
-DOMAIN,jabi.cc
 DOMAIN,api.nolanstore.cc
-DOMAIN,op.supes.top
-DOMAIN,webrate.org
-DOMAIN,cron.qqe2.com
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,pushplus.plus
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,raidrive.com
-DOMAIN-SUFFIX,alerts.home-assistant.io
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
-DOMAIN-SUFFIX,hytto.com
+DOMAIN-SUFFIX,fiddler2.com
+DOMAIN-SUFFIX,home-assistant.io
+# ＞ 时间同步
+DOMAIN-SUFFIX,ntp.org
+# ＞ 统计分析
+DOMAIN,webrate.org
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
 DOMAIN-SUFFIX,similarcdn.com
-DOMAIN-SUFFIX,medallia.com
+DOMAIN-SUFFIX,netify.ai
+# ＞ 在线工具
+DOMAIN,cron.qqe2.com
+DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
-DOMAIN-SUFFIX,ibb.co
+# ＞ 消息推送
+DOMAIN-SUFFIX,pushplus.plus
+# ＞ 测速
+DOMAIN-SUFFIX,speedtest.net
+# ＞ 查询
+DOMAIN,dbcha.com
+DOMAIN-SUFFIX,ip125.com
+DOMAIN-SUFFIX,jsonp-ip.com
 # > ipv6测试
 DOMAIN-KEYWORD,ipv4.test
 DOMAIN-KEYWORD,ipv4-test
@@ -152,11 +149,14 @@ DOMAIN,dy.v-too.cloud
 DOMAIN,dy.xftld.xyz
 DOMAIN,api-subscribe.lycoris.cam
 # ＞ IOS工具
+DOMAIN,jabizb.com
+DOMAIN,jabi.cc
 DOMAIN,iosding.com
 DOMAIN,xz.ioszhi.com
 DOMAIN-SUFFIX,zwjpai.com
 # ＞ 导航
 DOMAIN,xiazai.cab
+DOMAIN-SUFFIX,msn90.com
 DOMAIN-SUFFIX,xiazai.vin
 # ＞ 过滤器
 DOMAIN,anti-ad.net
@@ -169,19 +169,23 @@ DOMAIN,suying00.com
 DOMAIN,chiguayun.com
 DOMAIN,xfltd.net
 DOMAIN,xfltd.top
+DOMAIN,ahaspeed.com
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,sakuras.cloud
-# ＞ 短链
-DOMAIN,suo.yt
-
-DOMAIN-SUFFIX,loadbt.com
-DOMAIN-SUFFIX,abcvg.info
-DOMAIN-SUFFIX,stealth.si
-
+# ＞ GPT
 DOMAIN,chatai.98dongman.com
 DOMAIN-KEYWORD,tdchat
+# ＞ 青龙面板
+DOMAIN,version.pm2.io
+DOMAIN,nodejs.org
+DOMAIN,registry.npmjs.org
+DOMAIN,zlc1.chaoyi996.com
+DOMAIN,kr.kingran.cf
+DOMAIN,fakermetaverse.xyz
+DOMAIN,git.metauniverse-cn.com
 
+# 全球化
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,godaddy.com
@@ -189,31 +193,29 @@ DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,gateworks.com
-DOMAIN-SUFFIX,amazon
+DOMAIN-SUFFIX,.amazon
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,logi.com
 DOMAIN-KEYWORD,logitech
 
-DOMAIN,gllto.glpals.com
-DOMAIN,giscus.app
-DOMAIN,codenong.com
-DOMAIN,ios.sxqifeng.com
-DOMAIN,cdn.nz.lu
-DOMAIN,1-b.net
-DOMAIN,outreach.abetterinternet.org
-DOMAIN,bing.myan.cf
-DOMAIN-SUFFIX,fiddler2.com
-DOMAIN-SUFFIX,telerik.com
-DOMAIN-SUFFIX,crisp.chat
-DOMAIN-SUFFIX,netify.ai
-DOMAIN-SUFFIX,thetradersden.org
-DOMAIN-SUFFIX,gangguana.com
-DOMAIN-SUFFIX,msn90.com
+# 生活出行
 DOMAIN-SUFFIX,bioscompass.com
-DOMAIN-SUFFIX,agoda.com
-DOMAIN-SUFFIX,agoda.net
-# > 收银台
+DOMAIN-SUFFIX,.agoda
+
+# 收银台
 DOMAIN,u.mcashier.xyz
 DOMAIN,shop.ioiox.xyz
 
+# 下载
+DOMAIN,op.supes.top
+DOMAIN-SUFFIX,abcvg.info
+DOMAIN-SUFFIX,loadbt.com
+DOMAIN-SUFFIX,stealth.si
+DOMAIN-SUFFIX,thetradersden.org
+
+# 其他
+DOMAIN,1-b.net
+DOMAIN,ios.sxqifeng.com
+DOMAIN,gllto.glpals.com
+DOMAIN-SUFFIX,cdn.nz.lu
