@@ -25,3 +25,4 @@ IP-CIDR,34.120.195.249/32,no-resolve
 DOMAIN-SUFFIX,ingest.sentry.io
 # ＞ VPN
 DOMAIN,xfltd.org
+DOMAIN-SUFFIX,bajie.pw
