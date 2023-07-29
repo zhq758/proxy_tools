@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,imagegoto.com
 DOMAIN-SUFFIX,hostpic.org
+DOMAIN-SUFFIX,imgbox.com
 
 # 网站服务
 DOMAIN,polyfill.io
@@ -38,6 +39,7 @@ DOMAIN,utteranc.es
 DOMAIN,giscus.app
 DOMAIN,bing.myan.cf
 DOMAIN,use.typekit.net
+DOMAIN,api.paugram.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,fonts.com
