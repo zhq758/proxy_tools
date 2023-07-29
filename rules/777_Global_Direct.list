@@ -37,6 +37,7 @@ DOMAIN,cdn.cookielaw.org
 DOMAIN,utteranc.es
 DOMAIN,giscus.app
 DOMAIN,bing.myan.cf
+DOMAIN,use.typekit.net
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,fonts.com
@@ -101,6 +102,7 @@ DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,fiddler2.com
 DOMAIN-SUFFIX,home-assistant.io
 # ＞ 时间同步
+DOMAIN,time.is
 DOMAIN-SUFFIX,ntp.org
 # ＞ 统计分析
 DOMAIN,webrate.org
