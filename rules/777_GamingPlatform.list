@@ -5,8 +5,8 @@
 # Steam
 # ＞ Pubg
 DOMAIN,log-brofront.kraftonde.com
-DOMAIN-SUFFIX,pubgbluehole.com
 DOMAIN-SUFFIX,playbattlegrounds.com
+DOMAIN-SUFFIX,pubgbluehole.com
 DOMAIN-SUFFIX,pubgha.com
 DOMAIN-SUFFIX,pubwxp-mim.vivox.com
 # ＞ dota2
@@ -20,8 +20,8 @@ DOMAIN-SUFFIX,easebar.com
 
 # xbox
 DOMAIN-SUFFIX,xbox.com
-DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxlive.com
 
 
 DOMAIN-SUFFIX,king.com

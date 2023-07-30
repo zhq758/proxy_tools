@@ -4,31 +4,31 @@
 
 # 影视资源
 # > xhamster
-DOMAIN,xh.video
-DOMAIN,thumb-v-lv.xhpingcdn.com
 DOMAIN,battleship.sc-apps.com
 DOMAIN,hotpics.mom
 DOMAIN,hotvids.space
-DOMAIN-SUFFIX,xlivesex.com
-DOMAIN-SUFFIX,xhcdn.com
+DOMAIN,thumb-v-lv.xhpingcdn.com
+DOMAIN,xh.video
+DOMAIN-KEYWORD,xhamster
+DOMAIN-SUFFIX,cdn13.com
 DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,doppiocdn.org
-DOMAIN-SUFFIX,megaxh.com
-DOMAIN-SUFFIX,cdn13.com
 DOMAIN-SUFFIX,flixcdn.com
-DOMAIN-KEYWORD,xhamster
+DOMAIN-SUFFIX,megaxh.com
+DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xlivesex.com
 # > stripchat
-DOMAIN-SUFFIX,strpst.com
-DOMAIN-SUFFIX,stripchat.com
-DOMAIN-SUFFIX,img.stripst.com
 DOMAIN-SUFFIX,cdn.stripcash.com
+DOMAIN-SUFFIX,img.stripst.com
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,strpst.com
 # ＞ javdb
 DOMAIN-SUFFIX,javdb.com
 
 IP-CIDR,104.19.128.100/32,no-resolve
 DOMAIN-SUFFIX,hytto.com
-DOMAIN-SUFFIX,lovense.com
 DOMAIN-SUFFIX,lovense-api.com
+DOMAIN-SUFFIX,lovense.com
 
 
 
