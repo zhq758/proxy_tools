@@ -11,31 +11,31 @@ DOMAIN-SUFFIX,bangumi.tv
 # 影视资源
 DOMAIN,smdy91.com
 DOMAIN,szgpmy.com
-DOMAIN-SUFFIX,dygod.net
-DOMAIN-SUFFIX,ygdy8.net
-DOMAIN-SUFFIX,btwuji.com
 DOMAIN-SUFFIX,24xunlei.com
-DOMAIN-SUFFIX,xinsheng168.com
-DOMAIN-SUFFIX,zjhuishu.com
+DOMAIN-SUFFIX,btwuji.com
 DOMAIN-SUFFIX,dgbosun.com
 DOMAIN-SUFFIX,dy2018.com
+DOMAIN-SUFFIX,dygod.net
+DOMAIN-SUFFIX,xinsheng168.com
+DOMAIN-SUFFIX,ygdy8.net
+DOMAIN-SUFFIX,zjhuishu.com
 # > 星辰影院
 DOMAIN-SUFFIX,xcyy668.com
-DOMAIN,img.ffzypic.com
-DOMAIN,pv.ip1398.com
-DOMAIN,wujinyun.yaokanyao.com
-DOMAIN,xcyy668.dnsserverhe.com
-DOMAIN,jx1.hangzhou-aliyun-oss.com
-DOMAIN,vip.lz-cdn1.com
-DOMAIN,ukzy.ukubf4.com
 DOMAIN,baidu.sd-play.com
 DOMAIN,baidu.shanshanku.com
-DOMAIN,pic.wujinpp.com
-DOMAIN,youku.youkuphoto.com
-DOMAIN,dy47.live
 DOMAIN,dy44.live
-DOMAIN,v.zdxtd.com
+DOMAIN,dy47.live
 DOMAIN,image.maimn.com
+DOMAIN,img.ffzypic.com
+DOMAIN,jx1.hangzhou-aliyun-oss.com
+DOMAIN,pic.wujinpp.com
+DOMAIN,pv.ip1398.com
+DOMAIN,ukzy.ukubf4.com
+DOMAIN,v.zdxtd.com
+DOMAIN,vip.lz-cdn1.com
+DOMAIN,wujinyun.yaokanyao.com
+DOMAIN,xcyy668.dnsserverhe.com
+DOMAIN,youku.youkuphoto.com
 # > 策驰影院
 DOMAIN-SUFFIX,hshtcm.com
 DOMAIN-SUFFIX,cjkypo.com
@@ -50,11 +50,11 @@ DOMAIN,dy2.yle888.vip
 DOMAIN-SUFFIX,qoqkkhy.com
 # > 91影院
 DOMAIN,liangma.me
+DOMAIN,deo.shopeemobile.com
 DOMAIN,img.kuaibozy.net
 DOMAIN,m3u8.mstopq.com
 DOMAIN,ok.zuidapic.com
 DOMAIN,pic.huishij.com
-DOMAIN,deo.shopeemobile.com
 DOMAIN,v2.qoqliyu.com
 DOMAIN-SUFFIX,dious.cc
 # > 天天电影网
@@ -92,21 +92,35 @@ DOMAIN-SUFFIX,tiaokan.love
 DOMAIN-SUFFIX,javdb008.com
 DOMAIN-SUFFIX,jdbstatic.com
 # ＞ SiFang Club
+DOMAIN,fabu2023a01.xyz
+DOMAIN,heavyucuc321ucz.xyz
+DOMAIN,herehere000aaa.xyz
 DOMAIN,mmpp111h.xyz
 DOMAIN,mmpp222h.xyz
 DOMAIN,mmpp999h.xyz
-DOMAIN,fabu2023a01.xyz
-DOMAIN,herehere000aaa.xyz
-DOMAIN,heavyucuc321ucz.xyz
+DOMAIN,octavius0315qrdt.life
+DOMAIN,octavius1954afrc.life
 DOMAIN,osmond1594ufyd.life
 DOMAIN,osmond2345yhsj.life
-DOMAIN,octavius1954afrc.life
-DOMAIN,octavius0315qrdt.life
-DOMAIN-SUFFIX,sfpic2023c.xyz
-DOMAIN-SUFFIX,kefw355s.online
 DOMAIN-SUFFIX,fghio3456sa.online
+DOMAIN-SUFFIX,kefw355s.online
 DOMAIN-SUFFIX,laban4652rznc.online
+DOMAIN-SUFFIX,sfpic2023c.xyz
 # ＞ 天狼影院
 DOMAIN-SUFFIX,jsdrtzn.com
 DOMAIN,c2.monidai.com
-
+# ＞ 66m.io
+DOMAIN-SUFFIX,660kqhm.top
+DOMAIN-SUFFIX,661wwhm.top
+DOMAIN-SUFFIX,664cfzm.top
+DOMAIN-SUFFIX,665tvam.top
+DOMAIN-SUFFIX,667kfmm.top
+DOMAIN-SUFFIX,66dkmcy.top
+DOMAIN-SUFFIX,6d7eudw.top
+DOMAIN-SUFFIX,6d8awvv.top
+DOMAIN-SUFFIX,82tevhj.top
+DOMAIN-SUFFIX,82tkzqi.top
+DOMAIN-SUFFIX,82zydaa.top
+DOMAIN-SUFFIX,8hznvd.top
+DOMAIN-SUFFIX,8pxxrs.top
+DOMAIN-SUFFIX,8rrhwg.top
