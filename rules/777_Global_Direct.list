@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,unpkg.com
 DOMAIN,p.sda1.dev
 DOMAIN,png.cm
 DOMAIN,s3.bmp.ovh
+DOMAIN-SUFFIX,666546.xyz
 DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,hostpic.org
 DOMAIN-SUFFIX,ibb.co
@@ -38,6 +39,7 @@ DOMAIN,bing.myan.cf
 DOMAIN,browser.sentry-cdn.com
 DOMAIN,cdn.cookielaw.org
 DOMAIN,giscus.app
+DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
@@ -53,6 +55,7 @@ DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,openresty.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,telerik.com
+DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
 # ＞ 证书验证
 IP-CIDR,152.195.38.76/32,no-resolve
@@ -100,6 +103,7 @@ DOMAIN-SUFFIX,shuyz.com
 # 工具类
 DOMAIN,api.nolanstore.cc
 DOMAIN,winscp.net
+DOMAIN-SUFFIX,citrix.com
 DOMAIN-SUFFIX,fiddler2.com
 DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,raidrive.com
@@ -148,6 +152,7 @@ DOMAIN-KEYWORD,ipv4.test
 DOMAIN-KEYWORD,ipv6-test
 DOMAIN-KEYWORD,test-ipv6
 # ＞ 域名服务
+DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,namesilo.com
 # ＞ 订阅转换
 DOMAIN,api-subscribe.lycoris.cam
@@ -175,6 +180,7 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN,ahaspeed.com
 DOMAIN,chiguayun.com
 DOMAIN,ciyy.cc
+DOMAIN,dearyou.one
 DOMAIN,suying00.com
 DOMAIN,xfeugfyb.com
 DOMAIN,xfltd.cc
@@ -196,22 +202,21 @@ DOMAIN,registry.npmjs.org
 DOMAIN,version.pm2.io
 DOMAIN,zlc1.chaoyi996.com
 
-# 全球化
-DOMAIN-KEYWORD,logitech
-DOMAIN-SUFFIX,.amazon
+# 厂商
+DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,gateworks.com
 DOMAIN-SUFFIX,geforce.com
-DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,intel.com
+# ＞ 罗技
+DOMAIN-KEYWORD,logitech
+DOMAIN-SUFFIX,logi.com
+# ＞ 联想
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,logi.com
-DOMAIN-SUFFIX,nvidia.com
 
 # 生活出行
-DOMAIN-SUFFIX,.agoda
+DOMAIN-KEYWORD,agoda.
 DOMAIN-SUFFIX,bioscompass.com
 
 # 收银台
@@ -230,3 +235,5 @@ DOMAIN,1-b.net
 DOMAIN,gllto.glpals.com
 DOMAIN,ios.sxqifeng.com
 DOMAIN-SUFFIX,cdn.nz.lu
+
+DOMAIN-KEYWORD,amazon.
