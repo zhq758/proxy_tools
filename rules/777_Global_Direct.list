@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,unpkg.com
 DOMAIN-KEYWORD,akamaiedge
 DOMAIN-KEYWORD,jsdelivr
 DOMAIN-KEYWORD,cloudflare
