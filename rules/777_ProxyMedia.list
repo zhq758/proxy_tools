@@ -24,6 +24,9 @@ DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,strpst.com
 # ＞ javdb
 DOMAIN-SUFFIX,javdb.com
+# ＞ SiFang Club
+DOMAIN,sifangclub.com
+
 
 IP-CIDR,104.19.128.100/32,no-resolve
 DOMAIN-SUFFIX,hytto.com
