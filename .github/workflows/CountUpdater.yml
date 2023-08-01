@@ -37,8 +37,8 @@ jobs:
             count_with_unit="${count}条"
 
             # 更新文件内容
-            sed -i "s/^# 更新：.*/# 更新：$current_date/" $file
-            sed -i "s/^# 数量：.*/# 数量：$count_with_unit/" $file
+            sed -i "s/^# 更新: .*/# 更新: $current_date/" $file
+            sed -i "s/^# 数量: .*/# 数量: $count_with_unit/" $file
           done
 
       - name: Update README
@@ -48,8 +48,8 @@ jobs:
           count_1=$(grep -v -e '^$' -e '^#' rules/*.list | wc -l)
 
           # 更新README.md内容
-          sed -i "s/最近更新：.*/最近更新：$new_date/" README.md
-          sed -i "s/补充数量：.*/补充数量：$count_1条/" README.md
+          sed -i "s/最近更新: .*/最近更新: $new_date/" README.md
+          sed -i "s/补充数量: .*/补充数量: $count_1条/" README.md
           
       - name: Commit and push changes
         run: |
