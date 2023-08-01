@@ -1,6 +1,6 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月01日19:03:13
+# 更新: 2023年08月01日20:58:23
 # 数量: 204条
 
 # CDN
@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,unpkg.com
-# ＞ 图床
+# > 图床
 DOMAIN,p.sda1.dev
 DOMAIN,png.cm
 DOMAIN,s3.bmp.ovh
@@ -57,7 +57,7 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
-# ＞ 证书验证
+# > 证书验证
 IP-CIDR,152.195.38.76/32,no-resolve
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
@@ -113,25 +113,25 @@ DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,zerotier.com
-# ＞ 时间同步
+# > 时间同步
 DOMAIN,time.is
 DOMAIN-SUFFIX,ntp.org
-# ＞ 统计分析
+# > 统计分析
 DOMAIN,webrate.org
 DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
-# ＞ 在线工具
+# > 在线工具
 DOMAIN,cron.qqe2.com
 DOMAIN-SUFFIX,metools.info
 DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
-# ＞ 消息推送
+# > 消息推送
 DOMAIN-SUFFIX,pushplus.plus
-# ＞ 测速
+# > 测速
 DOMAIN-SUFFIX,speedtest.net
-# ＞ 查询
+# > 查询
 DOMAIN,dbcha.com
 DOMAIN-SUFFIX,ip125.com
 DOMAIN-SUFFIX,jsonp-ip.com
@@ -154,32 +154,32 @@ DOMAIN-KEYWORD,ipv4-test
 DOMAIN-KEYWORD,ipv4.test
 DOMAIN-KEYWORD,ipv6-test
 DOMAIN-KEYWORD,test-ipv6
-# ＞ 域名服务
+# > 域名服务
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,namesilo.com
-# ＞ 订阅转换
+# > 订阅转换
 DOMAIN,api-subscribe.lycoris.cam
 DOMAIN,dy.v-too.cloud
 DOMAIN,dy.xftld.xyz
 DOMAIN,renzheapi.com
 DOMAIN,sub.ops.ci
 DOMAIN,sub1.smallstrawberry.com
-# ＞ IOS工具
+# > IOS工具
 DOMAIN,iosding.com
 DOMAIN,jabi.cc
 DOMAIN,jabizb.com
 DOMAIN,xz.ioszhi.com
 DOMAIN-SUFFIX,zwjpai.com
-# ＞ 导航
+# > 导航
 DOMAIN,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
 DOMAIN-SUFFIX,xiazai.vin
-# ＞ 过滤器
+# > 过滤器
 DOMAIN,anti-ad.net
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adtidy.org
-# ＞ VPN
+# > VPN
 DOMAIN,ahaspeed.com
 DOMAIN,chiguayun.com
 DOMAIN,ciyy.cc
@@ -197,10 +197,10 @@ DOMAIN,store.kakocloud.pro
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
-# ＞ GPT
+# > GPT
 DOMAIN,chatai.98dongman.com
 DOMAIN-KEYWORD,tdchat
-# ＞ 青龙面板
+# > 青龙面板
 DOMAIN,fakermetaverse.xyz
 DOMAIN,git.metauniverse-cn.com
 DOMAIN,kr.kingran.cf
@@ -215,10 +215,10 @@ DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,gateworks.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,intel.com
-# ＞ 罗技
+# > 罗技
 DOMAIN-KEYWORD,logitech
 DOMAIN-SUFFIX,logi.com
-# ＞ 联想
+# > 联想
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
 
