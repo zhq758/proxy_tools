@@ -100,6 +100,7 @@ DOMAIN-SUFFIX,ioiox.com
 DOMAIN-SUFFIX,pc841.com
 DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
+DOMAIN-SUFFIX,machbbs.com
 
 # 工具类
 DOMAIN,api.nolanstore.cc
@@ -188,6 +189,8 @@ DOMAIN,xfltd.cc
 DOMAIN,xfltd.net
 DOMAIN,xfltd.top
 DOMAIN,xfltd.xyz
+DOMAIN,xsus.io
+DOMAIN,xsus.buzz
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
