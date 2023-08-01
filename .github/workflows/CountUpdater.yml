@@ -39,6 +39,8 @@ jobs:
             # 更新文件内容
             sed -i "s/^# 更新: .*/# 更新: $current_date/" $file
             sed -i "s/^# 数量: .*/# 数量: $count_with_unit/" $file
+            # 修正字符
+            sed -i "s/# ＞/# >/" $file
           done
 
       - name: Update README
