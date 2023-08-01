@@ -7,6 +7,9 @@ IP-CIDR,140.82.114.25/32,no-resolve
 IP-CIDR,140.82.113.26/32,no-resolve
 IP-CIDR,20.205.243.166/32,no-resolve
 
+# 图床
+DOMAIN,sm.ms
+
 # 学习分享
 DOMAIN,duangks.com
 DOMAIN-SUFFIX,bulianglin.com
@@ -26,5 +29,6 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ingest.sentry.io
 IP-CIDR,34.120.195.249/32,no-resolve
 # ＞ VPN
+DOMAIN,xf.gl
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN-SUFFIX,xfltd.org
