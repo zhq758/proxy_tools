@@ -1,21 +1,21 @@
 # 内容: 🎮游戏平台列表补充
-# 更新: 2023年07月30日18:14:20
+# 更新: 2023年08月01日20:56:55
 # 数量: 14条
 
 # Steam
-# ＞ Pubg
+# > Pubg
 DOMAIN,log-brofront.kraftonde.com
 DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,pubgbluehole.com
 DOMAIN-SUFFIX,pubgha.com
 DOMAIN-SUFFIX,pubwxp-mim.vivox.com
-# ＞ dota2
+# > dota2
 DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,valve.net
-# ＞ Apex
+# > Apex
 DOMAIN-SUFFIX,eac-cdn.com
 DOMAIN-SUFFIX,stryder.respawn.com
-# ＞ 永劫无间
+# > 永劫无间
 DOMAIN-SUFFIX,easebar.com
 
 # xbox
