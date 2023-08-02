@@ -1,7 +1,7 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月02日15:13:39
-# 数量: 205条
+# 更新: 2023年08月02日21:14:16
+# 数量: 206条
 
 # CDN
 IP-CIDR,172.224.26.144/32,no-resolve
@@ -209,7 +209,7 @@ DOMAIN,nodejs.org
 DOMAIN,registry.npmjs.org
 DOMAIN,version.pm2.io
 DOMAIN,zlc1.chaoyi996.com
-# ＞ 磁力搜索
+# > 磁力搜索
 DOMAIN-SUFFIX,cll46.top
 
 # 厂商
