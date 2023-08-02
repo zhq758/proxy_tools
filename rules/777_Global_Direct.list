@@ -20,7 +20,7 @@ IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
 # > 图床
 DOMAIN,p.sda1.dev
-DOMAIN,png.cm
+DOMAIN-SUFFIX,png.cm
 DOMAIN,s3.bmp.ovh
 DOMAIN-SUFFIX,666546.xyz
 DOMAIN-SUFFIX,ax1x.com
