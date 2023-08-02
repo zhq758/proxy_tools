@@ -33,21 +33,39 @@ jobs:
             current_date=$(TZ=Asia/Shanghai date '+%Y年%m月%d日%H:%M:%S')
 
             # 统计非空行和非注释行的数量
-            count=$(grep -v -e '^$' -e '^#' $file | wc -l)
+            count=$(grep -v -e '^$' -e '^#' -e '^!^ $file | wc -l)
             count_with_unit="${count}条"
 
-            # 更新文件内容
+            # 修改数量和日期
             sed -i "s/^# 更新: .*/# 更新: $current_date/" $file
             sed -i "s/^# 数量: .*/# 数量: $count_with_unit/" $file
             # 修正字符
             sed -i "s/# ＞/# >/" $file
+            # 修改规则正序
+            temp_file=$(mktemp)
+            domain_list=""
+            while IFS= read -r line; do
+              if [[ ! $line =~ ^[!#[:space:]]*$ && $line =~ /^(IP|DOMAIN).*([a-zA-Z0-9.-]+)$/ ]]; then
+                domain_list="$domain_list"$'\n'"$line"
+              else
+                if [[ $domain_list ]]; then
+                  echo "$domain_list" | sort | sed '/^$/d' >> "$temp_file"
+                  domain_list=""
+                fi
+                echo "$line" >> "$temp_file"
+              fi
+            done < "$file"
+            if [[ $domain_list ]]; then
+              echo "$domain_list" | sort | sed '/^$/d' >> "$temp_file"
+            fi
+            mv "$temp_file" "$file"
           done
 
       - name: Update README
         run: |
-          # 获取变量
+          # 获取当前时间和规则总数
           new_date=$(TZ='Asia/Shanghai' date +'%Y年%m月%d日%H:%M:%S')
-          count_1=$(grep -v -e '^$' -e '^#' rules/*.list | wc -l)
+          count_1=$(grep -v -e '^$' -e '^#' -e '^!' rules/*.list | wc -l)
 
           # 更新README.md内容
           sed -i "s/最近更新: .*/最近更新: $new_date/" README.md
