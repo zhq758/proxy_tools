@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,machbbs.com
 DOMAIN-SUFFIX,clashios.com
+DOMAIN-SUFFIX,pianshen.com
 
 # 工具类
 DOMAIN,api.nolanstore.cc
@@ -212,7 +213,10 @@ DOMAIN,zlc1.chaoyi996.com
 # > 磁力搜索
 DOMAIN-SUFFIX,cll46.top
 
-# 厂商
+# 手机类
+DOMAIN-SUFFIX,comcsoft.com
+
+# 电脑类
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,gateworks.com
