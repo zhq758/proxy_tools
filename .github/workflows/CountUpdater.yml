@@ -45,7 +45,7 @@ jobs:
             temp_file=$(mktemp)
             domain_list=""
             while IFS= read -r line; do
-              if [[ ! $line =~ ^[!#[:space:]]*$ && $line =~ /^(IP|DOMAIN).*([a-zA-Z0-9.-]+)$/ ]]; then
+              if [[ ! $line =~ ^[!#[:space:]]*$ && $line =~ ^(IP|DOMAIN).* ]]; then
                 domain_list="$domain_list"$'\n'"$line"
               else
                 if [[ $domain_list ]]; then
