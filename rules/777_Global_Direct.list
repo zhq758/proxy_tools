@@ -209,6 +209,8 @@ DOMAIN,nodejs.org
 DOMAIN,registry.npmjs.org
 DOMAIN,version.pm2.io
 DOMAIN,zlc1.chaoyi996.com
+# ＞ 磁力搜索
+DOMAIN-SUFFIX,cll46.top
 
 # 厂商
 DOMAIN-SUFFIX,nvidia.com
