@@ -1,7 +1,7 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月03日20:29:21
-# 数量: 209条
+# 更新: 2023年08月04日13:58:36
+# 数量: 210条
 
 # CDN
 DOMAIN,cdn.cdnjson.com
@@ -84,6 +84,7 @@ DOMAIN,g-suite.cc
 DOMAIN,idappblog.com
 DOMAIN,jiasupanda.com
 DOMAIN,jichangtuijian.com
+DOMAIN,kejileida.net
 DOMAIN,luvsia.com
 DOMAIN,oliverhou.com
 DOMAIN,stash.wiki
@@ -104,7 +105,6 @@ DOMAIN-SUFFIX,pc841.com
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
-DOMAIN,kejileida.net
 
 # 工具类
 DOMAIN,api.nolanstore.cc
