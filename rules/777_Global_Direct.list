@@ -130,6 +130,7 @@ DOMAIN,cron.qqe2.com
 DOMAIN-SUFFIX,metools.info
 DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
+DOMAIN-SUFFIX,mermaid.live
 # > 消息推送
 DOMAIN-SUFFIX,pushplus.plus
 # > 测速
