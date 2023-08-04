@@ -1,7 +1,7 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月04日13:58:36
-# 数量: 210条
+# 更新: 2023年08月04日14:11:22
+# 数量: 211条
 
 # CDN
 DOMAIN,cdn.cdnjson.com
@@ -127,10 +127,10 @@ DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
 # > 在线工具
 DOMAIN,cron.qqe2.com
+DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
 DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
-DOMAIN-SUFFIX,mermaid.live
 # > 消息推送
 DOMAIN-SUFFIX,pushplus.plus
 # > 测速
