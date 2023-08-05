@@ -3,7 +3,7 @@
 # 更新: 2023年08月04日14:11:22
 # 数量: 211条
 
-# CDN
+# CDN托管
 DOMAIN,cdn.cdnjson.com
 DOMAIN,code.jquery.com
 DOMAIN,gravatar.wp-china-yes.net
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,cdn77.org
 IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
 # > 图床
@@ -57,6 +58,7 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
+DOMAIN-SUFFIX,algolia.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
