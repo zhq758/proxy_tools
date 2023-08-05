@@ -1,7 +1,7 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月04日14:11:22
-# 数量: 211条
+# 更新: 2023年08月05日11:01:03
+# 数量: 213条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -11,12 +11,12 @@ DOMAIN-KEYWORD,akamaiedge
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,jsdelivr
 DOMAIN-SUFFIX,amazonwebservicesss.com
+DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,unpkg.com
-DOMAIN-SUFFIX,cdn77.org
 IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
 # > 图床
@@ -46,6 +46,7 @@ DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
 DOMAIN-KEYWORD,squarespace
 DOMAIN-SUFFIX,abetterinternet.org
+DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,fonts.com
@@ -58,7 +59,6 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
-DOMAIN-SUFFIX,algolia.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
