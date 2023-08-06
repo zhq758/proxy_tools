@@ -60,6 +60,10 @@ DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
+DOMAIN-SUFFIX,arcade.software
+DOMAIN,t.arcade.show
+DOMAIN-SUFFIX,website-files.com
+DOMAIN-SUFFIX,mux.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
@@ -128,6 +132,8 @@ DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
+# ＞ ＞codecov
+DOMAIN-SUFFIX,codecov.io
 # > 在线工具
 DOMAIN,cron.qqe2.com
 DOMAIN-SUFFIX,mermaid.live
