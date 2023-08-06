@@ -7,9 +7,9 @@
 DOMAIN,cdn.cdnjson.com
 DOMAIN,code.jquery.com
 DOMAIN,gravatar.wp-china-yes.net
-DOMAIN-KEYWORD,akamaiedge
-DOMAIN-KEYWORD,cloudflare
-DOMAIN-KEYWORD,jsdelivr
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,edgekey.net
@@ -44,7 +44,8 @@ DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
-DOMAIN-KEYWORD,squarespace
+DOMAIN-SUFFIX,squarespace.com
+DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,comodoca.com
@@ -63,7 +64,7 @@ DOMAIN-SUFFIX,webflow.com
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
 DOMAIN,ts-ocsp.ws.symantec.com
-DOMAIN-KEYWORD,verisign
+DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert.com
@@ -204,9 +205,11 @@ DOMAIN,xsus.io
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
-# > GPT
+# > 国产GPT
 DOMAIN,chatai.98dongman.com
-DOMAIN-KEYWORD,tdchat
+# ＞ ＞ TDChat
+DOMAIN-SUFFIX,tdchatapp.us
+DOMAIN-SUFFIX,tdvip.us
 # > 青龙面板
 DOMAIN,fakermetaverse.xyz
 DOMAIN,git.metauniverse-cn.com
@@ -218,6 +221,9 @@ DOMAIN,zlc1.chaoyi996.com
 # > 磁力搜索
 DOMAIN-SUFFIX,cll46.top
 
+# DNS
+DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
+
 # 手机类
 DOMAIN-SUFFIX,comcsoft.com
 
@@ -228,15 +234,18 @@ DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,nvidia.com
 # > 罗技
-DOMAIN-KEYWORD,logitech
+DOMAIN-SUFFIX,logitech.io
+DOMAIN-SUFFIX,logitechg.com
 DOMAIN-SUFFIX,logi.com
 # > 联想
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
 
 # 生活出行
-DOMAIN-KEYWORD,agoda.
 DOMAIN-SUFFIX,bioscompass.com
+# ＞ agoda
+DOMAIN-SUFFIX,agoda.com
+DOMAIN-SUFFIX,agoda.net
 
 # 收银台
 DOMAIN,shop.ioiox.xyz
@@ -254,5 +263,3 @@ DOMAIN,1-b.net
 DOMAIN,gllto.glpals.com
 DOMAIN,ios.sxqifeng.com
 DOMAIN-SUFFIX,cdn.nz.lu
-
-DOMAIN-KEYWORD,amazon.
