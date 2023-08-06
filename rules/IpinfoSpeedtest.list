@@ -12,4 +12,6 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jsonp-ip.com
 
 # Speedtest
-DOMAIN-SUFFIX,speedtest.net
+DOMAIN,cdn.ziffstatic.com
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-KEYWORD,speedtest
