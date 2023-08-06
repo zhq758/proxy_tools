@@ -1,7 +1,7 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月06日16:14:33
-# 数量: 222条
+# 更新: 2023年08月06日17:12:42
+# 数量: 223条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,gangguana.com
 DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,mux.com
 DOMAIN-SUFFIX,openresty.com
@@ -64,7 +65,6 @@ DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,website-files.com
-DOMAIN-SUFFIX,launchdarkly.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
