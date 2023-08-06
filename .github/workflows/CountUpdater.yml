@@ -44,7 +44,7 @@ jobs:
             # 修改规则正序
             temp_file=$(mktemp)
             domain_list=""
-            while IFS= read -r line; do
+            while IFS= read -r line || [[ -n $line ]]; do
               if [[ ! $line =~ ^[!#[:space:]]*$ && $line =~ ^(IP|DOMAIN).* ]]; then
                 domain_list="$domain_list"$'\n'"$line"
               else
