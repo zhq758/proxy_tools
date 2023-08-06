@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,website-files.com
+DOMAIN-SUFFIX,launchdarkly.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
