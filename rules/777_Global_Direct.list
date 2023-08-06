@@ -137,18 +137,13 @@ DOMAIN-SUFFIX,similarweb.io
 DOMAIN-SUFFIX,codecov.io
 # > 在线工具
 DOMAIN,cron.qqe2.com
+DOMAIN,dbcha.com
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
 DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
 # > 消息推送
 DOMAIN-SUFFIX,pushplus.plus
-# > 测速
-DOMAIN-SUFFIX,speedtest.net
-# > 查询
-DOMAIN,dbcha.com
-DOMAIN-SUFFIX,ip125.com
-DOMAIN-SUFFIX,jsonp-ip.com
 # > ipv6测试
 DOMAIN,ip4.8n1.org
 DOMAIN,ipv4.antradar.com
