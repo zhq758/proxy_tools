@@ -1,13 +1,13 @@
 # 内容: IP查询和speedtest列表
-# 更新: 2023年08月06日17:43:44
-# 数量: 3条
+# 更新: 2023年08月06日18:18:07
+# 数量: 6条
 
 # IP查询
-DOMAIN-SUFFIX,ip125.com
-DOMAIN-SUFFIX,jsonp-ip.com
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ip125.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,jsonp-ip.com
 
 # Speedtest
 DOMAIN-SUFFIX,speedtest.net
