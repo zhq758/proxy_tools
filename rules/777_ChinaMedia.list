@@ -1,6 +1,6 @@
 # 内容: 🌏国内媒体列表补充
-# 更新: 2023年08月02日14:15:51
-# 数量: 112条
+# 更新: 2023年08月06日18:36:29
+# 数量: 113条
 
 # 资讯
 DOMAIN-SUFFIX,ft.com
@@ -16,12 +16,11 @@ DOMAIN-SUFFIX,btwuji.com
 DOMAIN-SUFFIX,dgbosun.com
 DOMAIN-SUFFIX,dy2018.com
 DOMAIN-SUFFIX,dygod.net
+DOMAIN-SUFFIX,dytt8.com
 DOMAIN-SUFFIX,xinsheng168.com
 DOMAIN-SUFFIX,ygdy8.net
 DOMAIN-SUFFIX,zjhuishu.com
-DOMAIN-SUFFIX,dytt8.com
 # > 星辰影院
-DOMAIN-SUFFIX,xcyy668.com
 DOMAIN,baidu.sd-play.com
 DOMAIN,baidu.shanshanku.com
 DOMAIN,dy44.live
@@ -37,54 +36,55 @@ DOMAIN,vip.lz-cdn1.com
 DOMAIN,wujinyun.yaokanyao.com
 DOMAIN,xcyy668.dnsserverhe.com
 DOMAIN,youku.youkuphoto.com
+DOMAIN-SUFFIX,xcyy668.com
 # > 策驰影院
-DOMAIN-SUFFIX,hshtcm.com
 DOMAIN-SUFFIX,cjkypo.com
+DOMAIN-SUFFIX,hshtcm.com
 # > 花蕾网
-DOMAIN-SUFFIX,hl91.one
 DOMAIN,uyfjdnht.68243.cc
 DOMAIN,video55.zdavsp.com
+DOMAIN-SUFFIX,hl91.one
 # > 4楼
-DOMAIN-SUFFIX,4l4ll.com
 DOMAIN,cdn7.yzzy-tv1.com
 DOMAIN,dy2.yle888.vip
+DOMAIN-SUFFIX,4l4ll.com
 DOMAIN-SUFFIX,qoqkkhy.com
 # > 91影院
-DOMAIN,liangma.me
 DOMAIN,deo.shopeemobile.com
 DOMAIN,img.kuaibozy.net
+DOMAIN,liangma.me
 DOMAIN,m3u8.mstopq.com
 DOMAIN,ok.zuidapic.com
 DOMAIN,pic.huishij.com
 DOMAIN,v2.qoqliyu.com
 DOMAIN-SUFFIX,dious.cc
 # > 天天电影网
-DOMAIN-SUFFIX,tiantiandy.com
 DOMAIN,dow.dowlz10.com
 DOMAIN-KEYWORD,vip.lz-cdn
 DOMAIN-SUFFIX,467.tv
 DOMAIN-SUFFIX,liangzipic.com
+DOMAIN-SUFFIX,tiantiandy.com
 # > 天天影视
-DOMAIN-SUFFIX,gzhyhd.com
 DOMAIN,mm.bdimg1.com
 DOMAIN,pic.feisuimg.com
 DOMAIN,pic1.bdzyimg.com
 DOMAIN-SUFFIX,bdzybf7.com
 DOMAIN-SUFFIX,fsvod1.com
+DOMAIN-SUFFIX,gzhyhd.com
 # > 美剧天堂
-DOMAIN-SUFFIX,meijutt.tv
 DOMAIN,t.nanlanling.com
+DOMAIN-SUFFIX,meijutt.tv
 # > 影视大全
-DOMAIN-SUFFIX,chihuayu.com
 DOMAIN,ckzy2.com
 DOMAIN,ckzycdn2.com
 DOMAIN,pro.ip-api.com
+DOMAIN-SUFFIX,chihuayu.com
 # > 影视大全
-DOMAIN-SUFFIX,jitaiwelding.com
-DOMAIN-SUFFIX,jisihan.com
 DOMAIN,jx.m3u8.tv
 DOMAIN,jx.xmflv.com
 DOMAIN,v.gsuus.com
+DOMAIN-SUFFIX,jisihan.com
+DOMAIN-SUFFIX,jitaiwelding.com
 DOMAIN-SUFFIX,m3u8.pw
 # > 调侃网
 DOMAIN-SUFFIX,tiaokan.info
@@ -110,8 +110,8 @@ DOMAIN-SUFFIX,laban4652rznc.online
 DOMAIN-SUFFIX,pipisf.xyz
 DOMAIN-SUFFIX,sfpic2023c.xyz
 # > 天狼影院
-DOMAIN-SUFFIX,jsdrtzn.com
 DOMAIN,c2.monidai.com
+DOMAIN-SUFFIX,jsdrtzn.com
 # > 66m.io
 DOMAIN-SUFFIX,660kqhm.top
 DOMAIN-SUFFIX,661wwhm.top
@@ -133,7 +133,7 @@ DOMAIN-SUFFIX,dsg.bio
 # > 2048
 DOMAIN,bbs.zgogc.com
 DOMAIN,d4j7dvjq.net
-DOMAIN,iuy.zxcvbnasd.cfd
 DOMAIN,get.datapps.org
+DOMAIN,iuy.zxcvbnasd.cfd
 # > 杏吧视频
 DOMAIN,h5xb.me
