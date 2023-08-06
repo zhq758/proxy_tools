@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jsonp-ip.com
+DOMAIN-SUFFIX,ip-api.com
 
 # Speedtest
 DOMAIN-SUFFIX,speedtest.net
