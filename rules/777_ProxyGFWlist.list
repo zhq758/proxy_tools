@@ -21,10 +21,6 @@ DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,wirewax.com
-# > ip查询
-DOMAIN,api-ipv4.ip.sb
-DOMAIN,api.ipify.org
-DOMAIN-SUFFIX,ipinfo.io
 # > 青龙
 DOMAIN-SUFFIX,ingest.sentry.io
 IP-CIDR,34.120.195.249/32,no-resolve

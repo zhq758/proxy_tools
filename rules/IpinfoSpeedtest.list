@@ -5,5 +5,9 @@
 # IP查询
 DOMAIN-SUFFIX,ip125.com
 DOMAIN-SUFFIX,jsonp-ip.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ipinfo.io
 
 # Speedtest
+DOMAIN-SUFFIX,speedtest.net
