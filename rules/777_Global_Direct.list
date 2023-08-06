@@ -1,20 +1,20 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月05日11:01:03
-# 数量: 213条
+# 更新: 2023年08月06日15:25:00
+# 数量: 217条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
 DOMAIN,code.jquery.com
 DOMAIN,gravatar.wp-china-yes.net
 DOMAIN-SUFFIX,akamaiedge.net
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,unpkg.com
 IP-CIDR,172.224.26.144/32,no-resolve
@@ -44,8 +44,6 @@ DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
-DOMAIN-SUFFIX,squarespace.com
-DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,comodoca.com
@@ -57,6 +55,8 @@ DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,openresty.com
 DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,squarespace-cdn.com
+DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
@@ -64,7 +64,6 @@ DOMAIN-SUFFIX,webflow.com
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
 DOMAIN,ts-ocsp.ws.symantec.com
-DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert.com
@@ -73,6 +72,7 @@ DOMAIN-SUFFIX,ocsp.sectigo.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,usertrust.com
+DOMAIN-SUFFIX,verisign.com
 IP-CIDR,152.195.38.76/32,no-resolve
 
 # 学习分享
@@ -207,7 +207,7 @@ DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
 # > 国产GPT
 DOMAIN,chatai.98dongman.com
-# ＞ ＞ TDChat
+# > ＞ TDChat
 DOMAIN-SUFFIX,tdchatapp.us
 DOMAIN-SUFFIX,tdvip.us
 # > 青龙面板
@@ -234,16 +234,16 @@ DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,nvidia.com
 # > 罗技
+DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,logitechg.com
-DOMAIN-SUFFIX,logi.com
 # > 联想
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
 
 # 生活出行
 DOMAIN-SUFFIX,bioscompass.com
-# ＞ agoda
+# > agoda
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
 
