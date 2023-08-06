@@ -1,7 +1,7 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月06日15:25:54
-# 数量: 217条
+# 更新: 2023年08月06日16:14:33
+# 数量: 222条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -42,10 +42,12 @@ DOMAIN,cdn.cookielaw.org
 DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
+DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
+DOMAIN-SUFFIX,arcade.software
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,fonts.com
@@ -53,6 +55,7 @@ DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,gangguana.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,medallia.com
+DOMAIN-SUFFIX,mux.com
 DOMAIN-SUFFIX,openresty.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,squarespace-cdn.com
@@ -60,10 +63,7 @@ DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
-DOMAIN-SUFFIX,arcade.software
-DOMAIN,t.arcade.show
 DOMAIN-SUFFIX,website-files.com
-DOMAIN-SUFFIX,mux.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
@@ -132,7 +132,7 @@ DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
-# ＞ ＞codecov
+# > ＞codecov
 DOMAIN-SUFFIX,codecov.io
 # > 在线工具
 DOMAIN,cron.qqe2.com
