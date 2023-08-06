@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,ip125.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jsonp-ip.com
+DOMAIN-SUFFIX,ipapi.co
 
 # Speedtest
 DOMAIN-SUFFIX,speedtest.net
