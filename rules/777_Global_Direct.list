@@ -1,7 +1,7 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月06日17:41:26
-# 数量: 220条
+# 更新: 2023年08月07日11:37:43
+# 数量: 224条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -105,16 +105,16 @@ DOMAIN-SUFFIX,clashios.com
 DOMAIN-SUFFIX,codein.icu
 DOMAIN-SUFFIX,ffq.la
 DOMAIN-SUFFIX,ffqla.com
+DOMAIN-SUFFIX,getupnote.com
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,ioiox.com
 DOMAIN-SUFFIX,lmlphp.com
 DOMAIN-SUFFIX,machbbs.com
+DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,pc841.com
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
-DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,getupnote.com
 
 # 工具类
 DOMAIN,api.nolanstore.cc
@@ -128,13 +128,13 @@ DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,zerotier.com
 # > 时间同步
 DOMAIN,time.is
-DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,codecov.io
+DOMAIN-SUFFIX,ntp.org
 # > 统计分析
-DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN,webrate.org
 DOMAIN-SUFFIX,netify.ai
-# ＞ ＞ similarweb
+DOMAIN-SUFFIX,splunkcloud.com
+# > ＞ similarweb
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
@@ -182,8 +182,8 @@ DOMAIN,jabi.cc
 DOMAIN,jabizb.com
 DOMAIN,stash.ws
 DOMAIN,xz.ioszhi.com
-DOMAIN-SUFFIX,zwjpai.com
 DOMAIN-SUFFIX,nsloon.com
+DOMAIN-SUFFIX,zwjpai.com
 # > 导航
 DOMAIN,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
