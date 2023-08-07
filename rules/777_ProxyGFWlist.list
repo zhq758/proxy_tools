@@ -1,6 +1,6 @@
 # 内容: ✈️ 国外常规列表补充
-# 更新: 2023年08月06日18:18:07
-# 数量: 17条
+# 更新: 2023年08月07日09:01:07
+# 数量: 18条
 
 # github
 IP-CIDR,140.82.113.26/32,no-resolve
@@ -12,11 +12,11 @@ DOMAIN,sm.ms
 
 # 学习分享
 DOMAIN,duangks.com
+DOMAIN,ishowutv.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,ffqla.net
 DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN,ishowutv.com
 
 # 工具
 DOMAIN-SUFFIX,gpt4all.io
