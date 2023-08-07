@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,website-files.com
+DOMAIN-SUFFIX,postmarkapp.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
@@ -184,6 +185,7 @@ DOMAIN,stash.ws
 DOMAIN,xz.ioszhi.com
 DOMAIN-SUFFIX,nsloon.com
 DOMAIN-SUFFIX,zwjpai.com
+DOMAIN-SUFFIX,nssurge.com
 # > 导航
 DOMAIN,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
@@ -253,9 +255,11 @@ DOMAIN-SUFFIX,bioscompass.com
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
 
-# 收银台
+# 支付
 DOMAIN,shop.ioiox.xyz
 DOMAIN,u.mcashier.xyz
+# ＞ stripe
+DOMAIN-SUFFIX,stripe.network
 
 # 下载
 DOMAIN,op.supes.top
