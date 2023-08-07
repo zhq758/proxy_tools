@@ -69,7 +69,7 @@ jobs:
 
           # 更新README.md内容
           sed -i "s/最近更新: .*/最近更新: $new_date/" README.md
-          sed -i "s/补充数量: .*/补充数量: $count_1条/" README.md
+          sed -i "s/规则数量: .*/规则数量: $count_1条/" README.md
           
       - name: Commit and push changes
         run: |
