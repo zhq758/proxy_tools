@@ -16,13 +16,15 @@ DOMAIN-SUFFIX,ffqla.net
 DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,v2rayssr.com
 
+# 网站服务
+# > sentry
+DOMAIN-SUFFIX,sentry.io
+IP-CIDR,34.120.195.249/32,no-resolve
+
 # 工具
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,wirewax.com
-# > 青龙
-DOMAIN-SUFFIX,ingest.sentry.io
-IP-CIDR,34.120.195.249/32,no-resolve
 # > VPN
 DOMAIN,xf.gl
 DOMAIN-SUFFIX,bajie.pw
