@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jsonp-ip.com
+DOMAIN-SUFFIX,wtfismyip.com
 
 # Speedtest
 DOMAIN,cdn.ziffstatic.com
