@@ -1,7 +1,7 @@
 # 内容: 🎯全球直连列表补充
 # 本列表优先级高
-# 更新: 2023年08月07日11:37:43
-# 数量: 224条
+# 更新: 2023年08月07日12:34:29
+# 数量: 227条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -59,13 +59,13 @@ DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,mux.com
 DOMAIN-SUFFIX,openresty.com
 DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,website-files.com
-DOMAIN-SUFFIX,postmarkapp.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
@@ -135,7 +135,7 @@ DOMAIN-SUFFIX,ntp.org
 DOMAIN,webrate.org
 DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,splunkcloud.com
-# > ＞ similarweb
+# > > similarweb
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
@@ -184,8 +184,8 @@ DOMAIN,jabizb.com
 DOMAIN,stash.ws
 DOMAIN,xz.ioszhi.com
 DOMAIN-SUFFIX,nsloon.com
-DOMAIN-SUFFIX,zwjpai.com
 DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,zwjpai.com
 # > 导航
 DOMAIN,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
@@ -215,7 +215,7 @@ DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
 # > 国产GPT
 DOMAIN,chatai.98dongman.com
-# > ＞ TDChat
+# > > TDChat
 DOMAIN-SUFFIX,tdchatapp.us
 DOMAIN-SUFFIX,tdvip.us
 # > 青龙面板
@@ -258,7 +258,7 @@ DOMAIN-SUFFIX,agoda.net
 # 支付
 DOMAIN,shop.ioiox.xyz
 DOMAIN,u.mcashier.xyz
-# ＞ stripe
+# > stripe
 DOMAIN-SUFFIX,stripe.network
 
 # 下载
