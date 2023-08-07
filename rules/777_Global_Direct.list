@@ -113,6 +113,8 @@ DOMAIN-SUFFIX,pc841.com
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,getupnote.com
 
 # 工具类
 DOMAIN,api.nolanstore.cc
@@ -127,14 +129,15 @@ DOMAIN-SUFFIX,zerotier.com
 # > 时间同步
 DOMAIN,time.is
 DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,codecov.io
 # > 统计分析
+DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN,webrate.org
 DOMAIN-SUFFIX,netify.ai
+# ＞ ＞ similarweb
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
-# > ＞codecov
-DOMAIN-SUFFIX,codecov.io
 # > 在线工具
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
@@ -180,6 +183,7 @@ DOMAIN,jabizb.com
 DOMAIN,stash.ws
 DOMAIN,xz.ioszhi.com
 DOMAIN-SUFFIX,zwjpai.com
+DOMAIN-SUFFIX,nsloon.com
 # > 导航
 DOMAIN,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
