@@ -182,25 +182,6 @@ DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
 # > 消息推送
 DOMAIN-SUFFIX,pushplus.plus
-# > ipv6测试
-DOMAIN,ip4.8n1.org
-DOMAIN,ipv4.antradar.com
-DOMAIN,ipv4.duiadns.net
-DOMAIN,ipv4.excathedra.co
-DOMAIN,ipv4.jamieweb.net
-DOMAIN,ipv4.joram.it
-DOMAIN,ipv4.mudgee.host
-DOMAIN,ipv4.nop.hu
-DOMAIN,ipv4.nsx.de
-DOMAIN,ipv4.stdio.be
-DOMAIN,ipv4.tunnelbroker.net
-DOMAIN,test4.vyncke.org
-DOMAIN,v4-only.steffann.nl
-DOMAIN,v4.ipv6.br
-DOMAIN-KEYWORD,ipv4-test
-DOMAIN-KEYWORD,ipv4.test
-DOMAIN-KEYWORD,ipv6-test
-DOMAIN-KEYWORD,test-ipv6
 # > 域名服务
 DOMAIN-SUFFIX,f3322.net
 DOMAIN-SUFFIX,godaddy.com
