@@ -1,8 +1,9 @@
-# 内容: Telegram列表
+# 内容: 📲 电报消息 规则集
 # 更新: 2023年08月07日16:49:34
 # 数量: 12条
+
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR
+# 以下规则来源为ACL4SSR，仅修改部分内容
 # Telegram
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger

@@ -1,9 +1,8 @@
-# 内容: 🎯全球直连列表
+# 内容: 🎯 全球直连 规则集
 # 本列表优先级高
 # 更新: 2023年08月07日18:02:59
 # 数量: 1107条
-# ------------------------------------------------
-# 以下规则来源为ACL4SSR
+
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
@@ -22,7 +21,8 @@ IP-CIDR6,::1/128,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
-# Router managed 路由器管理域名
+
+# 路由器管理域名
 DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
@@ -40,8 +40,6 @@ DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
-# ------------------------------------------------
-
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -309,7 +307,7 @@ DOMAIN-SUFFIX,cdn.nz.lu
 
 
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR
+# 以下规则来源为ACL4SSR，仅修改部分内容
 # SteamCN
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com

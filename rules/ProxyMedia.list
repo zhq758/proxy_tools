@@ -1,6 +1,7 @@
-# 内容: 🌍国外媒体列表补充
+# 内容: 🎥 国外媒体 规则集
 # 更新: 2023年08月01日21:01:45
 # 数量: 23条
+
 IP-CIDR,104.19.128.100/32,no-resolve
 DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,lovense-api.com
@@ -34,7 +35,7 @@ DOMAIN,sifangclub.com
 
 
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR
+# 以下规则来源为ACL4SSR，仅修改部分内容
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com

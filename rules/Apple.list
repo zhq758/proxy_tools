@@ -1,13 +1,13 @@
-# 内容: 🍎苹果服务列表
+# 内容: 🍎 苹果服务 规则集
 # 更新: 2023年08月07日18:02:59
 # 数量: 31条
-# 规则补充:
+
 IP-CIDR,172.224.18.6/32,no-resolve
 IP-CIDR,18.136.166.61/32,no-resolve
 
 
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR
+# 以下规则来源为ACL4SSR，仅修改部分内容
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
