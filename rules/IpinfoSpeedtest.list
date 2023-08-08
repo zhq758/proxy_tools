@@ -33,6 +33,7 @@ DOMAIN,ipv4.tunnelbroker.net
 DOMAIN,test4.vyncke.org
 DOMAIN,v4-only.steffann.nl
 DOMAIN,v4.ipv6.br
+DOMAIN,ipv6.mudgee.host
 DOMAIN-KEYWORD,ipv4-test
 DOMAIN-KEYWORD,ipv4.test
 DOMAIN-KEYWORD,ipv6-test
