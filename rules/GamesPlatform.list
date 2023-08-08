@@ -1,6 +1,6 @@
 # 内容: 🎮 游戏平台 规则集
-# 更新: 2023年08月01日20:56:55
-# 数量: 14条
+# 更新: 2023年08月08日17:39:55
+# 数量: 67条
 
 DOMAIN-SUFFIX,king.com
 
@@ -78,10 +78,10 @@ DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.nl
 DOMAIN-SUFFIX,nintendowifi.net
 # xbox
+DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,xboxab.net
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,xboxservices.com
-DOMAIN-SUFFIX,gamepass.com

@@ -1,7 +1,10 @@
 # 内容: Ⓜ️ 微软服务 规则集
-# 更新: 2023年08月01日20:59:54
-# 数量: 10条
+# 更新: 2023年08月08日17:39:55
+# 数量: 107条
 
+DOMAIN,click.linksynergy.com
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,phicdn.net
 IP-CIDR,13.107.3.254/32,no-resolve
 IP-CIDR,20.198.162.78/32,no-resolve
 IP-CIDR,204.79.197.200/32,no-resolve
@@ -9,9 +12,6 @@ IP-CIDR,204.79.197.222/32,no-resolve
 IP-CIDR,40.91.80.89/32,no-resolve
 IP-CIDR,52.137.110.235/32,no-resolve
 IP-CIDR,52.140.118.28/32,no-resolve
-DOMAIN,click.linksynergy.com
-DOMAIN-SUFFIX,nelreports.net
-DOMAIN-SUFFIX,phicdn.net
 
 
 # ------------------------------------------------
