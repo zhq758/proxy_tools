@@ -204,6 +204,7 @@ DOMAIN-KEYWORD,test-ipv6
 # > 域名服务
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,namesilo.com
+DOMAIN-SUFFIX,f3322.net
 # > 订阅转换
 DOMAIN,api-subscribe.lycoris.cam
 DOMAIN,dy.v-too.cloud
