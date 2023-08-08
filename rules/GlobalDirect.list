@@ -433,13 +433,10 @@ DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 # Bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
@@ -630,7 +627,6 @@ DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # SteamCN
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com

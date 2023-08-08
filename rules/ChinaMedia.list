@@ -76,7 +76,6 @@ DOMAIN-SUFFIX,meijutt.tv
 # > 影视大全
 DOMAIN,ckzy2.com
 DOMAIN,ckzycdn2.com
-DOMAIN,pro.ip-api.com
 DOMAIN-SUFFIX,chihuayu.com
 # > 影视大全
 DOMAIN,jx.m3u8.tv
@@ -144,10 +143,8 @@ DOMAIN,h5xb.me
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
 USER-AGENT,bili-inter*
-DOMAIN,apiintl.biliapi.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
