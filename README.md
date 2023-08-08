@@ -1,34 +1,42 @@
 # 介绍
-* 自用subconverter订阅转换配置文件含自用补充规则，修改自[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/)  
-* ACL4SSR规则为基础，进行补充修改剔除重复  
+* 自用subconverter订阅转换配置文件，修改自[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/)  
+* ACL4SSR规则为基础，进行合并补充修改剔除重复  
         
 * 规则数量: 8281条
 * 最近更新: 2023年08月08日17:40:03
 # 远程配置地址
         https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
-# 修改内容
-* 增加油管奈非分组  
-* 增加国外常规分组   
-* 去除广告拦截  
-* 去除应用净化  
-* 去除OpenAi  
-* 去除巴哈姆特  
-* 去除节点选择，合并到国外常规  
-* 去除网易音乐，合并到国内媒体  
-* 去除哔哩哔哩，合并到国内媒体  
-* 去除奈非视频，合并到油管奈非  
-* 将负载均衡和故障转移原所有节点修改为使用地区节点分组的自动测速
+# 策略组内容
+* 🕹 手动切换
+* ♻️ 自动选择
+* 🚧 故障转移
+* ⚖️ 负载均衡
+* ✈️ 国外常规=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyGFWlist.list
+* 📲 电报消息=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Telegram.list
+* 🎥 国外媒体=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyMedia.list
+* 🤖 AI｜奈飞=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/OpenaiNetflix.list
+* 📡 IP｜测速=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/IpinfoSpeedtest.list
+* 📢 谷歌服务=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Google.list
+* Ⓜ️ 微软服务=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Microsoft.list
+* 🍎 苹果服务=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Apple.list
+* 📺 国内媒体=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ChinaMedia.list
+* 🎮 游戏平台=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GamesPlatform.list
+* 🎯 全球直连=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GlobalDirect.list
+* 🐟 漏网之鱼
+* 🇭🇰 香港节点
+* 🇨🇳 台湾节点
+* 🇸🇬 狮城节点
+* 🇺🇲 美国节点
+* 🇯🇵 日本节点
+* 🇰🇷 韩国节点
+  
 # 截图
-![250349472-fe1a93e6-0481-43e2-b999-37f6b7b330b8](https://github.com/mphin/ACL4SSR/assets/59219235/a1467478-e3ee-4764-9e28-98e77ce93b08)
-![250349479-acbf79ba-8fa3-41fa-bdf9-d2412cb0da83](https://github.com/mphin/ACL4SSR/assets/59219235/5133ff2f-a8b3-4590-a892-0f64aebb3336)
-![250338122-43e3fa4c-0a7a-4e28-a8dc-3f21de3eed13](https://github.com/mphin/ACL4SSR/assets/59219235/73e0c0a0-6bb1-4f42-be65-0a795ae92a99)
-![250338127-5a581a95-a01b-4b19-a434-47e67a504e0e](https://github.com/mphin/ACL4SSR/assets/59219235/268b2664-d1c0-44da-ab2b-b6c974f0f5a5)
 
 # 使用方法
 1. 使用在线订阅转换，在订阅转换网站上填写远程配置参数：
    
         https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
-1. 使用本地搭建的订阅转换，将配置文件放入subconverter目录下的config文件里，补充规则文件放入rules/ACL4SSR/Clash文件夹里，最后订阅转换网站上填写远程配置参数：
+1. 使用本地搭建的订阅转换，将配置文件放入subconverter目录下的config文件里，规则文件放入rules文件夹里，最后订阅转换网站上填写远程配置参数：
  
         config/ACL4SSR_Online_Full_MultiMode_777_local.ini
     
