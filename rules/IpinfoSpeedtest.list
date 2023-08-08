@@ -1,6 +1,6 @@
 # 内容: 📡 IP｜测速 规则集
-# 更新: 2023年08月08日17:39:55
-# 数量: 11条
+# 更新: 2023年08月08日23:25:44
+# 数量: 30条
 
 # IP查询
 DOMAIN-SUFFIX,ip-api.com
@@ -27,12 +27,12 @@ DOMAIN,ipv4.joram.it
 DOMAIN,ipv4.mudgee.host
 DOMAIN,ipv4.nop.hu
 DOMAIN,ipv4.nsx.de
+DOMAIN,ipv4.sixte.st
 DOMAIN,ipv4.stdio.be
 DOMAIN,ipv4.tunnelbroker.net
 DOMAIN,test4.vyncke.org
 DOMAIN,v4-only.steffann.nl
 DOMAIN,v4.ipv6.br
-DOMAIN,ipv4.sixte.st
 DOMAIN-KEYWORD,ipv4-test
 DOMAIN-KEYWORD,ipv4.test
 DOMAIN-KEYWORD,ipv6-test
