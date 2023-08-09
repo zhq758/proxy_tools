@@ -119,7 +119,6 @@ DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,dcblivedazn.akamaized.net
 DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
-DOMAIN-SUFFIX,sentry.io
 # Deezer
 USER-AGENT,Deezer*
 DOMAIN-SUFFIX,deezer.com
