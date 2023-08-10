@@ -226,7 +226,7 @@ DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adtidy.org
-# > VPN相关
+# > VPN
 DOMAIN,ahaspeed.com
 DOMAIN,chiguayun.com
 DOMAIN,ciyy.cc
@@ -241,6 +241,7 @@ DOMAIN,xfltd.top
 DOMAIN,xfltd.xyz
 DOMAIN,xsus.buzz
 DOMAIN,xsus.io
+DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
@@ -263,9 +264,6 @@ DOMAIN,zlc1.chaoyi996.com
 DOMAIN-SUFFIX,cll46.top
 # > Bot
 DOMAIN-SUFFIX,nmteam.xyz
-
-# 中文域名
-DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
 
 # DNS
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
