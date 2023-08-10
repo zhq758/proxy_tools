@@ -1,6 +1,6 @@
 # 内容: 🎥 国外媒体 规则集
-# 更新: 2023年08月10日14:09:13
-# 数量: 375条
+# 更新: 2023年08月10日19:14:09
+# 数量: 376条
 
 DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,lovense-api.com
@@ -19,10 +19,10 @@ DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,flixcdn.com
 DOMAIN-SUFFIX,megaxh.com
+DOMAIN-SUFFIX,xhaccess.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
-DOMAIN-SUFFIX,xhaccess.com
 DOMAIN-SUFFIX,xlivesex.com
 # > stripchat
 DOMAIN-SUFFIX,cdn.stripcash.com

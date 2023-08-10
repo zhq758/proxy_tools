@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 本列表优先级高
-# 更新: 2023年08月08日23:24:09
-# 数量: 1086条
+# 更新: 2023年08月10日19:14:00
+# 数量: 1112条
 
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
@@ -77,47 +77,47 @@ DOMAIN,app.adjust.com
 DOMAIN,bing.myan.cf
 DOMAIN,browser.sentry-cdn.com
 DOMAIN,cdn.cookielaw.org
+DOMAIN,click.linksynergy.com
 DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
+DOMAIN,rsms.me
 DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
-DOMAIN,rsms.me
-DOMAIN-SUFFIX,yoti.com
-DOMAIN-SUFFIX,sprig.com
-DOMAIN-SUFFIX,userleap.com
-DOMAIN-SUFFIX,postmarkapp.com
-DOMAIN-SUFFIX,ctfassets.net
-DOMAIN,click.linksynergy.com
-DOMAIN-SUFFIX,freshping.io
-DOMAIN-SUFFIX,sitefinity.com
-DOMAIN-SUFFIX,ravenjs.com
-DOMAIN-SUFFIX,imgix.com
-DOMAIN-SUFFIX,qualified.com
-DOMAIN-SUFFIX,swiftypecdn.com
-DOMAIN-SUFFIX,swiftype.com
-DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,arcade.software
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,crisp.chat
+DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fortawesome.com
+DOMAIN-SUFFIX,freshping.io
 DOMAIN-SUFFIX,gangguana.com
 DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,imgix.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,mux.com
 DOMAIN-SUFFIX,openresty.com
 DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,postmarkapp.com
+DOMAIN-SUFFIX,prismic.io
+DOMAIN-SUFFIX,qualified.com
+DOMAIN-SUFFIX,ravenjs.com
+DOMAIN-SUFFIX,sitefinity.com
+DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,squarespace.com
+DOMAIN-SUFFIX,swiftype.com
+DOMAIN-SUFFIX,swiftypecdn.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,trustarc.com
+DOMAIN-SUFFIX,userleap.com
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,website-files.com
+DOMAIN-SUFFIX,yoti.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ocsp.thawte.com
@@ -213,8 +213,8 @@ DOMAIN,iosding.com
 DOMAIN,jabi.cc
 DOMAIN,jabizb.com
 DOMAIN,stash.ws
-DOMAIN-SUFFIX,nssurge.com
 DOMAIN,xz.ioszhi.com
+DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,zwjpai.com
 # > 导航
 DOMAIN,xiazai.cab
@@ -224,8 +224,8 @@ DOMAIN-SUFFIX,xiazai.vin
 DOMAIN,anti-ad.net
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
-DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adguard.info
+DOMAIN-SUFFIX,adtidy.org
 # > VPN相关
 DOMAIN,ahaspeed.com
 DOMAIN,chiguayun.com
@@ -245,9 +245,9 @@ DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
 # > 国产GPT
-# ＞ ＞ Chat8
-DOMAIN,lexiao66.com
+# > > Chat8
 DOMAIN,chatai.98dongman.com
+DOMAIN,lexiao66.com
 # > > TDChat
 DOMAIN-SUFFIX,tdchatapp.us
 DOMAIN-SUFFIX,tdvip.us
@@ -261,7 +261,7 @@ DOMAIN,version.pm2.io
 DOMAIN,zlc1.chaoyi996.com
 # > 磁力搜索
 DOMAIN-SUFFIX,cll46.top
-# ＞ Bot
+# > Bot
 DOMAIN-SUFFIX,nmteam.xyz
 
 # DNS
@@ -275,9 +275,9 @@ DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,gateworks.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,intel.com
-# ＞ Nvidia
-DOMAIN-SUFFIX,nvidia.com
+# > Nvidia
 DOMAIN,static.nvidiagrid.net
+DOMAIN-SUFFIX,nvidia.com
 # > 罗技
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logitech.io
@@ -295,27 +295,27 @@ DOMAIN-SUFFIX,agoda.net
 # 支付平台
 DOMAIN,shop.ioiox.xyz
 DOMAIN,u.mcashier.xyz
-# ＞ stripe
-DOMAIN-SUFFIX,stripe.com
+# > stripe
 DOMAIN,m.stripe.network
+DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripecdn.com
 
 # 下载
+DOMAIN,cs.ioc.ee
+DOMAIN,img1.wsimg.com
 DOMAIN,op.supes.top
 DOMAIN-SUFFIX,abcvg.info
 DOMAIN-SUFFIX,loadbt.com
 DOMAIN-SUFFIX,stealth.si
 DOMAIN-SUFFIX,thetradersden.org
-DOMAIN,img1.wsimg.com
-DOMAIN,cs.ioc.ee
 
 # 其他
 DOMAIN,1-b.net
 DOMAIN,api.revenuecat.com
+DOMAIN,data.osdknw.com
 DOMAIN,gllto.glpals.com
 DOMAIN,ios.sxqifeng.com
 DOMAIN-SUFFIX,cdn.nz.lu
-DOMAIN,data.osdknw.com
 
 
 # ------------------------------------------------
