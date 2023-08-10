@@ -1,6 +1,6 @@
 # 内容: 📡 IP｜测速 规则集
-# 更新: 2023年08月08日23:45:33
-# 数量: 31条
+# 更新: 2023年08月10日21:25:15
+# 数量: 33条
 
 # IP查询
 DOMAIN-SUFFIX,ip-api.com
@@ -11,9 +11,9 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jsonp-ip.com
 DOMAIN-SUFFIX,wtfismyip.com
-# ＞ ip138
-DOMAIN,6.ipchaxun.net
+# > ip138
 DOMAIN,2023.ip138.com
+DOMAIN,6.ipchaxun.net
 
 # Speedtest
 DOMAIN,cdn.ziffstatic.com
