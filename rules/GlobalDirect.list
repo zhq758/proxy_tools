@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 本列表优先级高
-# 更新: 2023年08月10日21:51:28
-# 数量: 1113条
+# 更新: 2023年08月10日22:58:22
+# 数量: 1114条
 
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
@@ -138,11 +138,11 @@ DOMAIN,404world.in
 DOMAIN,404world.tk
 DOMAIN,bbs.zsxwz.com
 DOMAIN,blog.dengxj.com
+DOMAIN,blog.dingtone.me
 DOMAIN,clash-meta.wiki
 DOMAIN,codenong.com
 DOMAIN,docs.reiz.link
 DOMAIN,g-suite.cc
-DOMAIN,blog.dingtone.me
 DOMAIN,idappblog.com
 DOMAIN,jiasupanda.com
 DOMAIN,jichangtuijian.com
