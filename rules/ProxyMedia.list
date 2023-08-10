@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,megaxh.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhaccess.com
 DOMAIN-SUFFIX,xlivesex.com
 # > stripchat
 DOMAIN-SUFFIX,cdn.stripcash.com
@@ -35,7 +36,7 @@ DOMAIN,sifangclub.com
 
 
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR，仅修改部分内容
+# 以下规则来源为ACL4SSR，仅删除部分重复
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com

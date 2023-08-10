@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,v2rayssr.com
 
 # 网站服务
+DOMAIN-SUFFIX,zendesk.com
 # > sentry
 DOMAIN-SUFFIX,sentry.io
 IP-CIDR,34.120.195.249/32,no-resolve
@@ -26,14 +27,14 @@ IP-CIDR,34.120.195.249/32,no-resolve
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,wirewax.com
-# > VPN
+# > VPN相关
 DOMAIN,xf.gl
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN-SUFFIX,xfltd.org
 
 
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR，仅修改部分内容
+# 以下规则来源为ACL4SSR，仅删除部分重复
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org

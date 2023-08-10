@@ -22,7 +22,7 @@ IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 
-# 路由器管理域名
+# 路由器管理
 DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
@@ -83,6 +83,21 @@ DOMAIN,polyfill.io
 DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
+DOMAIN,rsms.me
+DOMAIN-SUFFIX,yoti.com
+DOMAIN-SUFFIX,sprig.com
+DOMAIN-SUFFIX,userleap.com
+DOMAIN-SUFFIX,postmarkapp.com
+DOMAIN-SUFFIX,ctfassets.net
+DOMAIN,click.linksynergy.com
+DOMAIN-SUFFIX,freshping.io
+DOMAIN-SUFFIX,sitefinity.com
+DOMAIN-SUFFIX,ravenjs.com
+DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,qualified.com
+DOMAIN-SUFFIX,swiftypecdn.com
+DOMAIN-SUFFIX,swiftype.com
+DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,arcade.software
@@ -198,6 +213,7 @@ DOMAIN,iosding.com
 DOMAIN,jabi.cc
 DOMAIN,jabizb.com
 DOMAIN,stash.ws
+DOMAIN-SUFFIX,nssurge.com
 DOMAIN,xz.ioszhi.com
 DOMAIN-SUFFIX,zwjpai.com
 # > 导航
@@ -209,7 +225,8 @@ DOMAIN,anti-ad.net
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adtidy.org
-# > VPN
+DOMAIN-SUFFIX,adguard.info
+# > VPN相关
 DOMAIN,ahaspeed.com
 DOMAIN,chiguayun.com
 DOMAIN,ciyy.cc
@@ -228,6 +245,8 @@ DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
 # > 国产GPT
+# ＞ ＞ Chat8
+DOMAIN,lexiao66.com
 DOMAIN,chatai.98dongman.com
 # > > TDChat
 DOMAIN-SUFFIX,tdchatapp.us
@@ -242,6 +261,8 @@ DOMAIN,version.pm2.io
 DOMAIN,zlc1.chaoyi996.com
 # > 磁力搜索
 DOMAIN-SUFFIX,cll46.top
+# ＞ Bot
+DOMAIN-SUFFIX,nmteam.xyz
 
 # DNS
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
@@ -254,7 +275,9 @@ DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,gateworks.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,intel.com
+# ＞ Nvidia
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN,static.nvidiagrid.net
 # > 罗技
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logitech.io
@@ -269,9 +292,13 @@ DOMAIN-SUFFIX,bioscompass.com
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
 
-# 收银台
+# 支付平台
 DOMAIN,shop.ioiox.xyz
 DOMAIN,u.mcashier.xyz
+# ＞ stripe
+DOMAIN-SUFFIX,stripe.com
+DOMAIN,m.stripe.network
+DOMAIN-SUFFIX,stripecdn.com
 
 # 下载
 DOMAIN,op.supes.top
@@ -279,6 +306,8 @@ DOMAIN-SUFFIX,abcvg.info
 DOMAIN-SUFFIX,loadbt.com
 DOMAIN-SUFFIX,stealth.si
 DOMAIN-SUFFIX,thetradersden.org
+DOMAIN,img1.wsimg.com
+DOMAIN,cs.ioc.ee
 
 # 其他
 DOMAIN,1-b.net
@@ -286,10 +315,11 @@ DOMAIN,api.revenuecat.com
 DOMAIN,gllto.glpals.com
 DOMAIN,ios.sxqifeng.com
 DOMAIN-SUFFIX,cdn.nz.lu
+DOMAIN,data.osdknw.com
 
 
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR，仅修改部分内容
+# 以下规则来源为ACL4SSR，仅删除部分重复
 # SteamCN
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com

@@ -3,7 +3,7 @@
 # 数量: 64条
 
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR，仅修改部分内容
+# 以下规则来源为ACL4SSR，仅删除部分重复
 # 谷歌推送服务
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
