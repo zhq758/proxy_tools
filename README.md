@@ -3,7 +3,7 @@
 * ACL4SSR规则为基础，进行合并补充修改剔除重复  
         
 * 规则数量: 8326条
-* 最近更新: 2023年08月10日21:49:19
+* 最近更新: 2023年08月10日21:51:28
 # 远程配置地址
         https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
 # 策略组内容

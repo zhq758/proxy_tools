@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 规则集
 # 本列表优先级高
-# 更新: 2023年08月10日21:49:19
+# 更新: 2023年08月10日21:51:28
 # 数量: 1113条
 
 # 本地/局域网地址
@@ -241,10 +241,10 @@ DOMAIN,xfltd.top
 DOMAIN,xfltd.xyz
 DOMAIN,xsus.buzz
 DOMAIN,xsus.io
-DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
+DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
 # > 国产GPT
 # > > Chat8
 DOMAIN,chatai.98dongman.com
