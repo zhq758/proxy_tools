@@ -2,8 +2,11 @@
 # 更新: 2023年08月08日17:40:03
 # 数量: 12条
 
+IP-CIDR,5.28.195.80/32,no-resolve
+
+
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR，仅修改部分内容
+# 以下规则来源为ACL4SSR，仅删除部分重复
 # Telegram
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger

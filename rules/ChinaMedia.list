@@ -129,6 +129,11 @@ DOMAIN-SUFFIX,8hznvd.top
 DOMAIN-SUFFIX,8pxxrs.top
 DOMAIN-SUFFIX,8rrhwg.top
 DOMAIN-SUFFIX,dsg.bio
+DOMAIN-SUFFIX,6mjrmc.top
+DOMAIN-SUFFIX,6msbek.top
+DOMAIN-SUFFIX,6mtfrc.top
+DOMAIN-SUFFIX,6mpmge.top
+DOMAIN-SUFFIX,6mpxqh.top
 # > 2048
 DOMAIN,bbs.zgogc.com
 DOMAIN,d4j7dvjq.net
@@ -139,7 +144,7 @@ DOMAIN,h5xb.me
 
 
 # ------------------------------------------------
-# 以下规则来源为ACL4SSR，仅修改部分内容
+# 以下规则来源为ACL4SSR，仅删除部分重复
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
