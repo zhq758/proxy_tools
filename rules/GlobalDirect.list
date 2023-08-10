@@ -264,6 +264,9 @@ DOMAIN-SUFFIX,cll46.top
 # > Bot
 DOMAIN-SUFFIX,nmteam.xyz
 
+# 中文域名
+DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
+
 # DNS
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
 
