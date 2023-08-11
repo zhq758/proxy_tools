@@ -1,45 +1,6 @@
 # 内容: 🎯 全球直连 规则集
-# 本列表优先级高
 # 更新: 2023年08月10日22:58:22
 # 数量: 1114条
-
-# 本地/局域网地址
-DOMAIN-SUFFIX,ip6-localhost
-DOMAIN-SUFFIX,ip6-loopback
-DOMAIN-SUFFIX,lan
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,localhost
-IP-CIDR,0.0.0.0/8,no-resolve
-IP-CIDR,10.0.0.0/8,no-resolve
-IP-CIDR,100.64.0.0/10,no-resolve
-IP-CIDR,127.0.0.0/8,no-resolve
-IP-CIDR,172.16.0.0/12,no-resolve
-IP-CIDR,192.168.0.0/16,no-resolve
-IP-CIDR,198.18.0.0/16,no-resolve
-IP-CIDR,224.0.0.0/4,no-resolve
-IP-CIDR6,::1/128,no-resolve
-IP-CIDR6,fc00::/7,no-resolve
-IP-CIDR6,fd00::/8,no-resolve
-IP-CIDR6,fe80::/10,no-resolve
-
-# 路由器管理
-DOMAIN,instant.arubanetworks.com
-DOMAIN,router.asus.com
-DOMAIN,setmeup.arubanetworks.com
-DOMAIN,www.asusrouter.com
-DOMAIN-SUFFIX,hiwifi.com
-DOMAIN-SUFFIX,leike.cc
-DOMAIN-SUFFIX,miwifi.com
-DOMAIN-SUFFIX,my.router
-DOMAIN-SUFFIX,p.to
-DOMAIN-SUFFIX,peiluyou.com
-DOMAIN-SUFFIX,phicomm.me
-DOMAIN-SUFFIX,router.ctc
-DOMAIN-SUFFIX,routerlogin.com
-DOMAIN-SUFFIX,tendawifi.com
-DOMAIN-SUFFIX,tplogin.cn
-DOMAIN-SUFFIX,wifi.cmcc
-DOMAIN-SUFFIX,zte.home
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -52,7 +13,6 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,ghproxy.com
-DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,unpkg.com
 IP-CIDR,172.224.26.144/32,no-resolve
@@ -150,6 +110,7 @@ DOMAIN,kejileida.net
 DOMAIN,luvsia.com
 DOMAIN,oliverhou.com
 DOMAIN,stash.wiki
+DOMAIN-SUFFIX,zengqiangwl.com
 DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,920.im
 DOMAIN-SUFFIX,askahh.com
@@ -246,6 +207,7 @@ DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
 DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
+DOMAIN-SUFFIX,xn--4gq62f52gdss.com
 # > 国产GPT
 # > > Chat8
 DOMAIN,chatai.98dongman.com
@@ -331,8 +293,6 @@ DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.pinyuncloud.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,steamstatic.com.8686c.com
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,cm.steampowered.com
@@ -430,7 +390,6 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
 # Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -444,19 +403,6 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
-# Bilibili
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,smtcdns.net
 # Blizzard
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
@@ -521,12 +467,6 @@ DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyutv.com
-# Epic
-DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,epicgames.dev
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,paragon.com
-DOMAIN-SUFFIX,unrealengine.com
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,hc-cdn.com
@@ -597,7 +537,6 @@ DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
@@ -635,25 +574,16 @@ DOMAIN-SUFFIX,sohuno.com
 DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
 # Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 # SteamCN
-DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
-DOMAIN,dota2.wmsj.cn
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.pinyuncloud.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,steamstatic.com.8686c.com
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
-DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 # Tencent
@@ -667,7 +597,7 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,smtcdns.com
-DOMAIN-SUFFIX,smtcdns.net
+#DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com

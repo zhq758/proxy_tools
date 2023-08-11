@@ -338,7 +338,6 @@ DOMAIN-SUFFIX,alwaysvpn.com
 DOMAIN-SUFFIX,am730.com.hk
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,ameblo.jp
 DOMAIN-SUFFIX,america.gov
 DOMAIN-SUFFIX,american.edu
@@ -1288,10 +1287,6 @@ DOMAIN-SUFFIX,dipity.com
 DOMAIN-SUFFIX,directcreative.com
 DOMAIN-SUFFIX,discoins.com
 DOMAIN-SUFFIX,disconnect.me
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discuss.com.hk
 DOMAIN-SUFFIX,discuss4u.com
 DOMAIN-SUFFIX,dish.com
@@ -1326,7 +1321,6 @@ DOMAIN-SUFFIX,dnset.com
 DOMAIN-SUFFIX,dnsrd.com
 DOMAIN-SUFFIX,dnssec.net
 DOMAIN-SUFFIX,dnvod.tv
-DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,doctorvoice.org
 DOMAIN-SUFFIX,documentingreality.com
 DOMAIN-SUFFIX,dogfartnetwork.com
@@ -2478,7 +2472,6 @@ DOMAIN-SUFFIX,himemix.net
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,hitbtc.com
 DOMAIN-SUFFIX,hitomi.la
-DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,hizb-ut-tahrir.info
 DOMAIN-SUFFIX,hizb-ut-tahrir.org
 DOMAIN-SUFFIX,hizbuttahrir.org
@@ -3281,7 +3274,6 @@ DOMAIN-SUFFIX,media.org.hk
 DOMAIN-SUFFIX,mediachinese.com
 DOMAIN-SUFFIX,mediafire.com
 DOMAIN-SUFFIX,mediafreakcity.com
-DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meetav.com
 DOMAIN-SUFFIX,meetup.com
 DOMAIN-SUFFIX,mefeedia.com
@@ -4051,7 +4043,6 @@ DOMAIN-SUFFIX,pornbase.org
 DOMAIN-SUFFIX,pornerbros.com
 DOMAIN-SUFFIX,pornhd.com
 DOMAIN-SUFFIX,pornhost.com
-DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubdeutsch.net
 DOMAIN-SUFFIX,pornmm.net
 DOMAIN-SUFFIX,pornoxo.com
@@ -4255,7 +4246,6 @@ DOMAIN-SUFFIX,redbubble.com
 DOMAIN-SUFFIX,redchinacn.net
 DOMAIN-SUFFIX,redchinacn.org
 DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditlist.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
@@ -4681,7 +4671,6 @@ DOMAIN-SUFFIX,sss.camp
 DOMAIN-SUFFIX,sstm.moe
 DOMAIN-SUFFIX,sstmlt.moe
 DOMAIN-SUFFIX,sstmlt.net
-DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,stage64.hk
 DOMAIN-SUFFIX,standupfortibet.org
 DOMAIN-SUFFIX,standwithhk.org
@@ -4697,8 +4686,6 @@ DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,statueofdemocracy.org
 DOMAIN-SUFFIX,stboy.net
 DOMAIN-SUFFIX,stc.com.sa
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steel-storm.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,steganos.com
@@ -4874,18 +4861,13 @@ DOMAIN-SUFFIX,techviz.net
 DOMAIN-SUFFIX,teck.in
 DOMAIN-SUFFIX,teco-hk.org
 DOMAIN-SUFFIX,teco-mo.org
-DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,teeniefuck.net
 DOMAIN-SUFFIX,teensinasia.com
 DOMAIN-SUFFIX,tehrantimes.com
 DOMAIN-SUFFIX,telecomspace.com
-DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.dog
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegramdownload.com
 DOMAIN-SUFFIX,telegraph.co.uk
-DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tellme.pw
 DOMAIN-SUFFIX,tenacy.com
 DOMAIN-SUFFIX,tensorflow.org
@@ -5147,7 +5129,6 @@ DOMAIN-SUFFIX,tsunagarumon.com
 DOMAIN-SUFFIX,tt1069.com
 DOMAIN-SUFFIX,tttan.com
 DOMAIN-SUFFIX,ttv.com.tw
-DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tu8964.com
 DOMAIN-SUFFIX,tubaholic.com
 DOMAIN-SUFFIX,tube.com
@@ -5186,7 +5167,6 @@ DOMAIN-SUFFIX,tuzaijidi.com
 DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,tv.google
 DOMAIN-SUFFIX,tvants.com
-DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tvboxnow.com
 DOMAIN-SUFFIX,tvbs.com.tw
 DOMAIN-SUFFIX,tvider.com
@@ -5254,7 +5234,6 @@ DOMAIN-SUFFIX,twit2d.com
 DOMAIN-SUFFIX,twitbrowser.net
 DOMAIN-SUFFIX,twitcause.com
 DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitgether.com
 DOMAIN-SUFFIX,twitgoo.com
 DOMAIN-SUFFIX,twitiq.com
@@ -5665,7 +5644,6 @@ DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,wikiwiki.jp
@@ -5918,17 +5896,11 @@ DOMAIN-SUFFIX,youthnetradio.org
 DOMAIN-SUFFIX,youthwant.com.tw
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubecn.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youversion.com
 DOMAIN-SUFFIX,youwin.com
 DOMAIN-SUFFIX,youxu.info
-DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytht.net
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ytn.co.kr
 DOMAIN-SUFFIX,yuanming.net
 DOMAIN-SUFFIX,yuanzhengtang.org
@@ -6053,7 +6025,6 @@ DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,quay.io
-DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redhat.com
 DOMAIN-SUFFIX,sonatype.org
 DOMAIN-SUFFIX,sourcegraph.com
@@ -6112,8 +6083,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
@@ -6193,7 +6162,6 @@ DOMAIN-SUFFIX,dditscdn.com
 DOMAIN-SUFFIX,livejasmin.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,rdtcdn.com
 DOMAIN-SUFFIX,redtube.com
@@ -6215,28 +6183,12 @@ DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,smartmailcloud.com
-# Steam
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steamstore-a.akamaihd.net
-DOMAIN,steamusercontent-a.akamaihd.net
-DOMAIN,steamuserimages-a.akamaihd.net
-DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamstat.us
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,underlords.com
-DOMAIN-SUFFIX,valvesoftware.com
 # TapTap
 DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,taptap.tw
 # Twitch
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch.tv
 # Twitter
 DOMAIN-SUFFIX,t.co
@@ -6246,10 +6198,6 @@ DOMAIN-SUFFIX,twimg.org
 # Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,91.108.0.0/16,no-resolve
