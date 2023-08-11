@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 本地/局域网 规则集
-# 更新: 2023年08月10日22:58:22
-# 数量: 1114条
+# 更新: 2023年08月11日17:15:07
+# 数量: 35条
 
 
 # ------------------------------------------------
@@ -24,12 +24,12 @@ IP-CIDR,198.18.0.0/16,no-resolve
 IP-CIDR,224.0.0.0/4,no-resolve
 IP-CIDR6,::1/128,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
-IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
 # Router managed 路由器管理域名
 DOMAIN,instant.arubanetworks.com
-DOMAIN,setmeup.arubanetworks.com
 DOMAIN,router.asus.com
+DOMAIN,setmeup.arubanetworks.com
 DOMAIN,www.asusrouter.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,leike.cc
@@ -41,6 +41,6 @@ DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
-DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
+DOMAIN-SUFFIX,zte.home

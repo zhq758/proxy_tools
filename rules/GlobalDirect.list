@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 规则集
-# 更新: 2023年08月10日22:58:22
-# 数量: 1114条
+# 更新: 2023年08月11日17:15:07
+# 数量: 1050条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -110,7 +110,6 @@ DOMAIN,kejileida.net
 DOMAIN,luvsia.com
 DOMAIN,oliverhou.com
 DOMAIN,stash.wiki
-DOMAIN-SUFFIX,zengqiangwl.com
 DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,920.im
 DOMAIN-SUFFIX,askahh.com
@@ -128,6 +127,7 @@ DOMAIN-SUFFIX,pc841.com
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
+DOMAIN-SUFFIX,zengqiangwl.com
 
 # 工具类
 DOMAIN,api.nolanstore.cc
@@ -206,8 +206,8 @@ DOMAIN,xsus.io
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
-DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
 DOMAIN-SUFFIX,xn--4gq62f52gdss.com
+DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
 # > 国产GPT
 # > > Chat8
 DOMAIN,chatai.98dongman.com
