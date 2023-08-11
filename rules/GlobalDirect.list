@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 规则集
-# 更新: 2023年08月11日17:15:07
-# 数量: 1050条
+# 更新: 2023年08月11日17:56:56
+# 数量: 1051条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,verisign.com
 IP-CIDR,152.195.38.76/32,no-resolve
 
 # 学习分享
+DOMAIN,1024.day
 DOMAIN,404world.in
 DOMAIN,404world.tk
 DOMAIN,bbs.zsxwz.com
@@ -101,7 +102,6 @@ DOMAIN,blog.dengxj.com
 DOMAIN,blog.dingtone.me
 DOMAIN,clash-meta.wiki
 DOMAIN,codenong.com
-DOMAIN,1024.day
 DOMAIN,docs.reiz.link
 DOMAIN,g-suite.cc
 DOMAIN,idappblog.com
