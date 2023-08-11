@@ -1,6 +1,6 @@
 # 内容: ✈️ 国外常规 规则集
-# 更新: 2023年08月11日17:15:07
-# 数量: 6198条
+# 更新: 2023年08月11日22:31:04
+# 数量: 6199条
 
 # github
 IP-CIDR,140.82.113.26/32,no-resolve
@@ -30,8 +30,8 @@ DOMAIN-SUFFIX,wirewax.com
 # > VPN相关
 DOMAIN,xf.gl
 DOMAIN-SUFFIX,bajie.pw
-DOMAIN-SUFFIX,xfltd.org
 DOMAIN-SUFFIX,kuromis.com
+DOMAIN-SUFFIX,xfltd.org
 
 
 # ------------------------------------------------
