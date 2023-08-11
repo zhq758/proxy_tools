@@ -21,7 +21,8 @@
 * 🍎 苹果服务=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Apple.list
 * 📺 国内媒体=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ChinaMedia.list
 * 🎮 游戏平台=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GamesPlatform.list
-* 🎯 全球直连=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GlobalDirect.list
+* 🎯 全球直连=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GlobalDirect.list                
+  本地/局域网=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/LocalAreaNetwork.list
 * 🐟 漏网之鱼
 * 🇭🇰 香港节点
 * 🇨🇳 台湾节点
