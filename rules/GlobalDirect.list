@@ -578,17 +578,6 @@ DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
 # Sony
 DOMAIN-SUFFIX,sony.com
-# SteamCN
-DOMAIN,dl.steam.clngaa.com
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,st.dl.eccdnx.com
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,wmsjsteam.com
-DOMAIN,xz.pphimalayanrt.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamusercontent.com
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
@@ -656,7 +645,6 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com
 #DOMAIN-SUFFIX,cdnjs.cloudflare.com
-#DOMAIN-SUFFIX,code.jquery.com
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
