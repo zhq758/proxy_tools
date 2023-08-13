@@ -4,7 +4,7 @@
         
 * 规则数量: 8085条
 * 最近更新: 2023年08月13日16:10:22
-# 远程配置地址
+# clash订阅转换远程配置:
         https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
 # 策略组内容
 * 🕹 手动切换
