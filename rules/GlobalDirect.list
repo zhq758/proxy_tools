@@ -1,5 +1,5 @@
 # 内容: 🎯 全球直连 规则集
-# 更新: 2023年08月13日12:26:41
+# 更新: 2023年08月13日16:10:14
 # 数量: 1044条
 
 # CDN托管
@@ -237,8 +237,8 @@ DOMAIN-SUFFIX,cll46.top
 DOMAIN-SUFFIX,nmteam.xyz
 
 # DNS
-DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
 DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
 
 # 手机类
 DOMAIN-SUFFIX,comcsoft.com
