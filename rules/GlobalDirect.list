@@ -191,26 +191,31 @@ DOMAIN-SUFFIX,adtidy.org
 # > VPN
 DOMAIN,ahaspeed.com
 DOMAIN,chiguayun.com
-DOMAIN,ciyy.cc
-DOMAIN,dearyou.one
 DOMAIN,store.kakocloud.pro
 DOMAIN,store.kk-proxy.pro
 DOMAIN,suying00.com
 DOMAIN,xfeugfyb.com
-DOMAIN,xfltd.cc
-DOMAIN,xfltd.net
-DOMAIN,xfltd.top
-DOMAIN,xfltd.xyz
-DOMAIN,xsus.buzz
-DOMAIN,xsus.io
-DOMAIN-SUFFIX,bajie.run
-DOMAIN-SUFFIX,bajie.wiki
 DOMAIN-SUFFIX,bygcloud.com
+DOMAIN-SUFFIX,paopao.dog
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,sakuras.cloud
 DOMAIN-SUFFIX,xn--4gq62f52gdss.com
 DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
+# ＞ ＞ 次元雲
+DOMAIN,ciyy.cc
+DOMAIN,dearyou.one
+# ＞ ＞ XFLTD
+DOMAIN,xfltd.cc
+DOMAIN,xfltd.net
+DOMAIN,xfltd.top
+DOMAIN,xfltd.xyz
+# ＞ ＞ XSUS
+DOMAIN,xsus.buzz
+DOMAIN,xsus.io
+# ＞ ＞ 八戒
+DOMAIN-SUFFIX,bajie.run
+DOMAIN-SUFFIX,bajie.wiki
 # > 国产GPT
 # > > Chat8
 DOMAIN,chatai.98dongman.com
@@ -258,11 +263,10 @@ DOMAIN-SUFFIX,bioscompass.com
 # > agoda
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
-
-# 支付平台
+# > 支付平台
 DOMAIN,shop.ioiox.xyz
 DOMAIN,u.mcashier.xyz
-# > stripe
+# > >stripe
 DOMAIN,m.stripe.network
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripecdn.com
