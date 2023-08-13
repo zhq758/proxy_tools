@@ -9,7 +9,6 @@ IP-CIDR,5.28.195.80/32,no-resolve
 # 以下规则来源为ACL4SSR，仅删除部分重复
 # Telegram
 #PROCESS-NAME,Telegram.exe
-#PROCESS-NAME,org.telegram.messenger
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph

@@ -4174,7 +4174,6 @@ DOMAIN-SUFFIX,realraptalk.com
 DOMAIN-SUFFIX,realsexpass.com
 DOMAIN-SUFFIX,reason.com
 DOMAIN-SUFFIX,rebatesrule.net
-DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,recordhistory.org
 DOMAIN-SUFFIX,recovery.org.tw
 DOMAIN-SUFFIX,recoveryversion.com.tw
@@ -4480,7 +4479,6 @@ DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,skybet.com
 DOMAIN-SUFFIX,skykiwi.com
 DOMAIN-SUFFIX,skynet.be
-DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skyvegas.com
 DOMAIN-SUFFIX,skyxvpn.com
 DOMAIN-SUFFIX,slacker.com
@@ -5976,7 +5974,6 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 # Google
 DOMAIN-SUFFIX,1e100.net
-DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,ggpht.com
@@ -5989,7 +5986,6 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,youtube.com
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
@@ -6048,8 +6044,6 @@ DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,skydrive.wns.windows.com
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-#DOMAIN-SUFFIX,aria.microsoft.com
 # Porn
 DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,8teenxxx.com

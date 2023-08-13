@@ -129,7 +129,6 @@ DOMAIN-SUFFIX,6msbek.top
 DOMAIN-SUFFIX,6mtfrc.top
 DOMAIN-SUFFIX,6rtym.top
 DOMAIN-SUFFIX,6scefu.top
-DOMAIN-SUFFIX,6scefu.top
 DOMAIN-SUFFIX,82tevhj.top
 DOMAIN-SUFFIX,82tkzqi.top
 DOMAIN-SUFFIX,82zydaa.top
@@ -241,7 +240,6 @@ IP-CIDR,59.111.238.29/32,no-resolve
 # 哔哩哔哩 港澳台番剧
 DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,p.bstarstatic.com
-DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acgvideo.com

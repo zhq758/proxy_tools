@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,wac.phicdn.net
 
 # Microsoft-365
 DOMAIN,sharepoint-df.com
-DOMAIN,sharepoint.com
 
 # Azure
 DOMAIN-SUFFIX,azurefd.net
@@ -33,7 +32,6 @@ DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
 DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,assets-yammer.com
 DOMAIN-SUFFIX,azure.com
@@ -84,8 +82,6 @@ DOMAIN-SUFFIX,phonefactor.net
 DOMAIN-SUFFIX,public-trust.com
 DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeforbusiness.com
@@ -124,4 +120,3 @@ DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,skydrive.wns.windows.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.live.com
-#DOMAIN-SUFFIX,aria.microsoft.com
