@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 规则集
-# 更新: 2023年08月13日17:13:05
-# 数量: 1045条
+# 更新: 2023年08月13日18:16:02
+# 数量: 1046条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -195,9 +195,9 @@ DOMAIN,store.kakocloud.pro
 DOMAIN,store.kk-proxy.pro
 DOMAIN,suying00.com
 DOMAIN,xfeugfyb.com
-DOMAIN-SUFFIX,jscloud.cc
 DOMAIN-SUFFIX,bygcloud.com
 DOMAIN-SUFFIX,efcloud.bio
+DOMAIN-SUFFIX,jscloud.cc
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,paopao.dog
 DOMAIN-SUFFIX,sakuras.cloud
