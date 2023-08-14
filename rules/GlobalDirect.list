@@ -270,9 +270,10 @@ DOMAIN-SUFFIX,bioscompass.com
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
 # > 支付平台
+DOMAIN-SUFFIX,payment.dog
 DOMAIN,shop.ioiox.xyz
 DOMAIN,u.mcashier.xyz
-# > >stripe
+# > > stripe
 DOMAIN,m.stripe.network
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripecdn.com
