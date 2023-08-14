@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 规则集
-# 更新: 2023年08月14日10:14:12
-# 数量: 1048条
+# 更新: 2023年08月14日16:37:50
+# 数量: 1049条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -270,9 +270,9 @@ DOMAIN-SUFFIX,bioscompass.com
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
 # > 支付平台
-DOMAIN-SUFFIX,payment.dog
 DOMAIN,shop.ioiox.xyz
 DOMAIN,u.mcashier.xyz
+DOMAIN-SUFFIX,payment.dog
 # > > stripe
 DOMAIN,m.stripe.network
 DOMAIN-SUFFIX,stripe.com

@@ -2,8 +2,8 @@
 * 自用subconverter订阅转换配置文件，修改自原作者[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/)  
 * ACL4SSR规则为基础，进行合并补充修改剔除重复  
         
-* 规则数量: 8089条
-* 最近更新: 2023年08月14日10:14:12
+* 规则数量: 8090条
+* 最近更新: 2023年08月14日16:37:51
 # clash订阅转换远程配置:
         https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
 # 策略组内容
