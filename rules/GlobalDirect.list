@@ -42,6 +42,7 @@ DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
 DOMAIN,rsms.me
+DOMAIN-SUFFIX,6sense.com
 DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
@@ -176,8 +177,12 @@ DOMAIN,jabi.cc
 DOMAIN,jabizb.com
 DOMAIN,stash.ws
 DOMAIN,xz.ioszhi.com
-DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,zwjpai.com
+DOMAIN-SUFFIX,nsloon.com
+# ＞ ＞ Surge
+IP-CIDR,35.190.88.7/32,no-resolve
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,surge-activation.com
 # > 导航
 DOMAIN,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
@@ -282,6 +287,7 @@ DOMAIN-SUFFIX,stripecdn.com
 DOMAIN,cs.ioc.ee
 DOMAIN,img1.wsimg.com
 DOMAIN,op.supes.top
+DOMAIN-SUFFIX,dl.openwrt.ai
 DOMAIN-SUFFIX,abcvg.info
 DOMAIN-SUFFIX,loadbt.com
 DOMAIN-SUFFIX,stealth.si
@@ -294,6 +300,7 @@ DOMAIN,data.osdknw.com
 DOMAIN,gllto.glpals.com
 DOMAIN,ios.sxqifeng.com
 DOMAIN-SUFFIX,cdn.nz.lu
+DOMAIN-SUFFIX,xxxx.com
 
 
 # ------------------------------------------------
