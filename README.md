@@ -7,6 +7,7 @@
 * 最近更新: 2023年08月14日17:36:22
 # Clash订阅转换远程配置:
         https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
+注: Stash用户也可以通过订购转换后的链接使用。
 # Loon分流配置文件:
 * 点击链接一键导入: 
         https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/Loon_config_mphin.conf
