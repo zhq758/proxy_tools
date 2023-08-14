@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 规则集
-# 更新: 2023年08月14日16:37:50
-# 数量: 1049条
+# 更新: 2023年08月14日17:31:21
+# 数量: 1055条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -42,10 +42,10 @@ DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
 DOMAIN,rsms.me
-DOMAIN-SUFFIX,6sense.com
 DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
+DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,arcade.software
@@ -177,12 +177,12 @@ DOMAIN,jabi.cc
 DOMAIN,jabizb.com
 DOMAIN,stash.ws
 DOMAIN,xz.ioszhi.com
-DOMAIN-SUFFIX,zwjpai.com
 DOMAIN-SUFFIX,nsloon.com
-# ＞ ＞ Surge
-IP-CIDR,35.190.88.7/32,no-resolve
+DOMAIN-SUFFIX,zwjpai.com
+# > > Surge
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,surge-activation.com
+IP-CIDR,35.190.88.7/32,no-resolve
 # > 导航
 DOMAIN,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
@@ -287,8 +287,8 @@ DOMAIN-SUFFIX,stripecdn.com
 DOMAIN,cs.ioc.ee
 DOMAIN,img1.wsimg.com
 DOMAIN,op.supes.top
-DOMAIN-SUFFIX,dl.openwrt.ai
 DOMAIN-SUFFIX,abcvg.info
+DOMAIN-SUFFIX,dl.openwrt.ai
 DOMAIN-SUFFIX,loadbt.com
 DOMAIN-SUFFIX,stealth.si
 DOMAIN-SUFFIX,thetradersden.org
