@@ -194,27 +194,30 @@ DOMAIN,chiguayun.com
 DOMAIN,store.kakocloud.pro
 DOMAIN,store.kk-proxy.pro
 DOMAIN,suying00.com
+DOMAIN,jscloud.best
 DOMAIN,xfeugfyb.com
 DOMAIN-SUFFIX,bygcloud.com
 DOMAIN-SUFFIX,efcloud.bio
-DOMAIN-SUFFIX,jscloud.cc
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,paopao.dog
 DOMAIN-SUFFIX,sakuras.cloud
 DOMAIN-SUFFIX,xn--4gq62f52gdss.com
 DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
 DOMAIN-SUFFIX,yypro.pro
+# > > 极速云
+DOMAIN-SUFFIX,jscloud.cc
+DOMAIN-SUFFIX,jscr.b-cdn.net
 # > > 次元雲
-DOMAIN,ciyy.cc
-DOMAIN,dearyou.one
+DOMAIN-SUFFIX,ciyy.cc
+DOMAIN-SUFFIX,dearyou.one
 # > > XFLTD
-DOMAIN,xfltd.cc
-DOMAIN,xfltd.net
-DOMAIN,xfltd.top
-DOMAIN,xfltd.xyz
+DOMAIN-SUFFIX,xfltd.cc
+DOMAIN-SUFFIX,xfltd.net
+DOMAIN-SUFFIX,xfltd.top
+DOMAIN-SUFFIX,xfltd.xyz
 # > > XSUS
-DOMAIN,xsus.buzz
-DOMAIN,xsus.io
+DOMAIN-SUFFIX,xsus.buzz
+DOMAIN-SUFFIX,xsus.io
 # > > 八戒
 DOMAIN-SUFFIX,bajie.run
 DOMAIN-SUFFIX,bajie.wiki
