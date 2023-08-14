@@ -1,6 +1,6 @@
 # 介绍
 * 自用Subconverter订阅转换配置文件，修改自原作者[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/)  
-* 自用Loon配置文件，基于以上进一步修改
+* 自用Loon配置文件，进一步修改
 * ACL4SSR规则为基础，进行合并补充修改剔除重复  
         
 * 规则数量: 8097条
@@ -40,8 +40,8 @@
 * 🇰🇷 韩国节点
   
 进阶玩法: 
-可自行添加以上策略组，将以上规则集添加到相对应的策略组，注意规则集的先后顺序。
-分享个自用Loon及Stash策略组图标集(圈X及其他未测试应该也支持):
+* 可自行添加以上策略组，将以上规则集添加到相对应的策略组，注意规则集的先后顺序。
+* 分享个自用Loon及Stash策略组图标集(圈X及其他未测试应该也支持):
 
     https://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
 
