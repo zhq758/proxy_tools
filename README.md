@@ -1,16 +1,16 @@
 # 介绍
-* 自用subconverter订阅转换配置文件，修改自原作者[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/)  
+* 自用Subconverter订阅转换配置文件，修改自原作者[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/)  
+* 自用Loon配置文件，基于以上进一步修改
 * ACL4SSR规则为基础，进行合并补充修改剔除重复  
         
 * 规则数量: 8097条
 * 最近更新: 2023年08月14日17:36:22
-# clash订阅转换远程配置:
+# Clash订阅转换远程配置:
         https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
 # Loon分流配置文件:
 * 点击链接一键导入: 
-
         https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/Loon_config_mphin.conf
-* 或通过复制以下链接:
+* 或通过复制链接从URL下载:
 
         https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/Loon_config_mphin.conf
 # 策略组内容
