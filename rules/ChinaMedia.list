@@ -1,10 +1,10 @@
 # 内容: 📺 国内媒体 规则集
-# 更新: 2023年08月13日16:10:14
-# 数量: 220条
+# 更新: 2023年08月14日17:36:22
+# 数量: 221条
 
 # 资讯
-DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,0xzx.com
+DOMAIN-SUFFIX,ft.com
 
 # 动漫
 DOMAIN-SUFFIX,bangumi.tv
