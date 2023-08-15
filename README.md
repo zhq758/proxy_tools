@@ -3,8 +3,8 @@
 * 自用Loon配置文件，进一步修改
 * ACL4SSR规则为基础，进行合并补充修改剔除重复  
         
-* 规则数量: 8097条
-* 最近更新: 2023年08月14日17:36:22
+* 规则数量: 8098条
+* 最近更新: 2023年08月15日15:01:33
 # Clash订阅转换远程配置:
     https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
 注: Stash用户也可以通过订阅转换后的链接使用。
