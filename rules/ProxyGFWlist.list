@@ -2,10 +2,11 @@
 # 更新: 2023年08月13日16:10:15
 # 数量: 6084条
 
-# github
+# Github
 IP-CIDR,140.82.113.26/32,no-resolve
 IP-CIDR,140.82.114.25/32,no-resolve
 IP-CIDR,20.205.243.166/32,no-resolve
+IP-CIDR,20.205.243.168/32,no-resolve
 
 # 图床
 DOMAIN,sm.ms
@@ -20,7 +21,7 @@ DOMAIN-SUFFIX,v2rayssr.com
 
 # 网站服务
 DOMAIN-SUFFIX,zendesk.com
-# > sentry
+# > Sentry
 DOMAIN-SUFFIX,sentry.io
 IP-CIDR,34.120.195.249/32,no-resolve
 
@@ -28,7 +29,7 @@ IP-CIDR,34.120.195.249/32,no-resolve
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,wirewax.com
-# > VPN相关
+# > VPN
 DOMAIN,xf.gl
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN-SUFFIX,kuromis.com

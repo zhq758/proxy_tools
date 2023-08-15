@@ -8,7 +8,9 @@ DOMAIN-SUFFIX,lovense.com
 IP-CIDR,104.19.128.100/32,no-resolve
 
 # 影视资源
-# > xhamster
+# > Pornhub
+DOMAIN-SUFFIX,nsimg.net
+# > Xhamster
 DOMAIN,battleship.sc-apps.com
 DOMAIN,hotpics.mom
 DOMAIN,hotvids.space
@@ -24,12 +26,12 @@ DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,xlivesex.com
-# > stripchat
+# > Stripchat
 DOMAIN-SUFFIX,cdn.stripcash.com
 DOMAIN-SUFFIX,img.stripst.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,strpst.com
-# > javdb
+# > Javdb
 DOMAIN-SUFFIX,javdb.com
 # > SiFang Club
 DOMAIN,sifangclub.com

@@ -110,6 +110,7 @@ DOMAIN,jiasupanda.com
 DOMAIN,jichangtuijian.com
 DOMAIN,kejileida.net
 DOMAIN,luvsia.com
+DOMAIN-SUFFIX,jamesdailylife.com
 DOMAIN,oliverhou.com
 DOMAIN,stash.wiki
 DOMAIN-SUFFIX,000714.xyz
@@ -131,6 +132,7 @@ DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,zengqiangwl.com
 
 # 工具类
+DOMAIN-SUFFIX,adobe.io
 DOMAIN,api.nolanstore.cc
 DOMAIN,winscp.net
 DOMAIN-SUFFIX,citrix.com
@@ -152,6 +154,7 @@ DOMAIN-SUFFIX,similarweb.io
 # > >codecov
 DOMAIN-SUFFIX,codecov.io
 # > 在线工具
+DOMAIN,who.is
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
 DOMAIN-SUFFIX,mermaid.live
@@ -206,8 +209,6 @@ DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,paopao.dog
 DOMAIN-SUFFIX,sakuras.cloud
-DOMAIN-SUFFIX,xn--4gq62f52gdss.com
-DOMAIN-SUFFIX,xn--fhqw5fm27b1pj.com
 DOMAIN-SUFFIX,yypro.pro
 # > > 极速云
 DOMAIN-SUFFIX,jscloud.cc
@@ -294,6 +295,7 @@ DOMAIN-SUFFIX,stealth.si
 DOMAIN-SUFFIX,thetradersden.org
 
 # 其他
+DOMAIN-KEYWORD,xn--
 DOMAIN,1-b.net
 DOMAIN,api.revenuecat.com
 DOMAIN,data.osdknw.com
@@ -338,9 +340,6 @@ DOMAIN-SUFFIX,zhenguanyu.biz
 DOMAIN-SUFFIX,zhenguanyu.com
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,xn--55qx5d
-DOMAIN-SUFFIX,xn--fiqs8s
-DOMAIN-SUFFIX,xn--io0a7i
 # 中国国内常见域名关键词直连
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
