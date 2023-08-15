@@ -14,24 +14,25 @@
 * 或通过复制链接从URL下载:
 
       https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/Loon_config_mphin.conf
-# 策略组内容
+# 策略组内容及顺序
 * 🕹 手动切换
 * ♻️ 自动选择
 * 🚧 故障转移
 * ⚖️ 负载均衡
-* ✈️ 国外常规=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyGFWlist.list
-* 📲 电报消息=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Telegram.list
-* 🎥 国外媒体=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyMedia.list
-* 🤖 AI｜奈飞=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/OpenaiNetflix.list
-* 📡 IP｜测速=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/IpinfoSpeedtest.list
-* 📢 谷歌服务=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Google.list
-* Ⓜ️ 微软服务=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Microsoft.list
-* 🍎 苹果服务=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Apple.list
-* 📺 国内媒体=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ChinaMedia.list
-* 🎮 游戏平台=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GamesPlatform.list
-* 🎯 全球直连=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GlobalDirect.list                
-  本地/局域网=https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/LocalAreaNetwork.list
-* 🐟 漏网之鱼
+* 🎯 全球直连,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/LocalAreaNetwork.list
+* 📢 谷歌服务,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Google.list
+* 🤖 AI｜奈飞,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/OpenaiNetflix.list
+* 🎥 国外媒体,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyMedia.list
+* Ⓜ️ 微软服务,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Microsoft.list
+* 🍎 苹果服务,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Apple.list
+* 📺 国内媒体,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ChinaMedia.list
+* 🎮 游戏平台,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GamesPlatform.list
+* 📡 IP｜测速,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/IpinfoSpeedtest.list
+* 📲 电报消息,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Telegram.list
+* 🎯 全球直连,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GlobalDirect.list
+* ✈️ 国外常规,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyGFWlist.list
+* 🎯 全球直连,[]GEOIP,CN
+* 🐟 漏网之鱼,[]FINAL
 * 🇭🇰 香港节点
 * 🇨🇳 台湾节点
 * 🇸🇬 狮城节点
@@ -40,7 +41,8 @@
 * 🇰🇷 韩国节点
   
 进阶玩法: 
-* 可自行添加以上策略组，将以上规则集添加到相对应的策略组，注意规则集的先后顺序。
+* 可自行添加以上策略组，将以上规则集添加到相对应的策略组。
+* 注意规则集的先后顺序，策略组的顺序无关紧要。
 * 分享个自用Loon及Stash策略组图标集(圈X及其他未测试应该也支持):
 
     https://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
