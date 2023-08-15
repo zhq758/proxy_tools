@@ -10,6 +10,7 @@ IP-CIDR,204.79.197.222/32,no-resolve
 IP-CIDR,40.91.80.89/32,no-resolve
 IP-CIDR,52.137.110.235/32,no-resolve
 IP-CIDR,52.140.118.28/32,no-resolve
+IP-CIDR,20.191.46.211/32,no-resolve
 
 # Windows10更新
 DOMAIN-SUFFIX,wac.phicdn.net

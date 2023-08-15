@@ -144,6 +144,8 @@ DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,zerotier.com
 # > 时间同步
 DOMAIN,time.is
+IP-CIDR,78.46.102.180/32,no-resolve
+IP-CIDR,193.182.111.14/32,no-resolve
 DOMAIN-SUFFIX,ntp.org
 # > 统计分析
 DOMAIN,webrate.org
