@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 规则集
-# 更新: 2023年08月14日17:31:21
-# 数量: 1055条
+# 更新: 2023年08月15日20:08:05
+# 数量: 1057条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -103,7 +103,6 @@ DOMAIN,blog.dengxj.com
 DOMAIN,blog.dingtone.me
 DOMAIN,clash-meta.wiki
 DOMAIN,codenong.com
-DOMAIN-SUFFIX,91ai.net
 DOMAIN,docs.reiz.link
 DOMAIN,g-suite.cc
 DOMAIN,idappblog.com
@@ -111,10 +110,10 @@ DOMAIN,jiasupanda.com
 DOMAIN,jichangtuijian.com
 DOMAIN,kejileida.net
 DOMAIN,luvsia.com
-DOMAIN-SUFFIX,jamesdailylife.com
 DOMAIN,oliverhou.com
 DOMAIN,stash.wiki
 DOMAIN-SUFFIX,000714.xyz
+DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,920.im
 DOMAIN-SUFFIX,askahh.com
 DOMAIN-SUFFIX,blueskyxn.com
@@ -124,6 +123,7 @@ DOMAIN-SUFFIX,ffq.la
 DOMAIN-SUFFIX,ffqla.com
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,ioiox.com
+DOMAIN-SUFFIX,jamesdailylife.com
 DOMAIN-SUFFIX,lmlphp.com
 DOMAIN-SUFFIX,machbbs.com
 DOMAIN-SUFFIX,pc841.com
@@ -133,9 +133,9 @@ DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,zengqiangwl.com
 
 # 工具类
-DOMAIN-SUFFIX,adobe.io
 DOMAIN,api.nolanstore.cc
 DOMAIN,winscp.net
+DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,citrix.com
 DOMAIN-SUFFIX,fiddler2.com
 DOMAIN-SUFFIX,home-assistant.io
@@ -145,9 +145,9 @@ DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,zerotier.com
 # > 时间同步
 DOMAIN,time.is
-IP-CIDR,78.46.102.180/32,no-resolve
-IP-CIDR,193.182.111.14/32,no-resolve
 DOMAIN-SUFFIX,ntp.org
+IP-CIDR,193.182.111.14/32,no-resolve
+IP-CIDR,78.46.102.180/32,no-resolve
 # > 统计分析
 DOMAIN,webrate.org
 DOMAIN-SUFFIX,netify.ai
@@ -157,9 +157,9 @@ DOMAIN-SUFFIX,similarweb.io
 # > >codecov
 DOMAIN-SUFFIX,codecov.io
 # > 在线工具
-DOMAIN,who.is
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
+DOMAIN,who.is
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
 DOMAIN-SUFFIX,suo.yt
@@ -298,12 +298,12 @@ DOMAIN-SUFFIX,stealth.si
 DOMAIN-SUFFIX,thetradersden.org
 
 # 其他
-DOMAIN-KEYWORD,xn--
 DOMAIN,1-b.net
 DOMAIN,api.revenuecat.com
 DOMAIN,data.osdknw.com
 DOMAIN,gllto.glpals.com
 DOMAIN,ios.sxqifeng.com
+DOMAIN-KEYWORD,xn--
 DOMAIN-SUFFIX,cdn.nz.lu
 DOMAIN-SUFFIX,xxxx.com
 
