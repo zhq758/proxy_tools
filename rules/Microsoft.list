@@ -1,16 +1,16 @@
 # 内容: Ⓜ️ 微软服务 规则集
-# 更新: 2023年08月13日16:10:14
-# 数量: 105条
+# 更新: 2023年08月15日18:00:35
+# 数量: 109条
 
 DOMAIN-SUFFIX,nelreports.net
 IP-CIDR,13.107.3.254/32,no-resolve
+IP-CIDR,20.191.46.211/32,no-resolve
 IP-CIDR,20.198.162.78/32,no-resolve
 IP-CIDR,204.79.197.200/32,no-resolve
 IP-CIDR,204.79.197.222/32,no-resolve
 IP-CIDR,40.91.80.89/32,no-resolve
 IP-CIDR,52.137.110.235/32,no-resolve
 IP-CIDR,52.140.118.28/32,no-resolve
-IP-CIDR,20.191.46.211/32,no-resolve
 
 # Windows10更新
 DOMAIN-SUFFIX,wac.phicdn.net
@@ -22,10 +22,10 @@ DOMAIN,sharepoint-df.com
 DOMAIN-SUFFIX,azurefd.net
 
 # Edge
+DOMAIN,img-s-msn-com.akamaized.net
 DOMAIN,s1325.t.eloqua.com
 DOMAIN,sapphire.bingviz.com
 DOMAIN,sb.scorecardresearch.com
-DOMAIN,img-s-msn-com.akamaized.net
 
 
 # ------------------------------------------------
