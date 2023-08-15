@@ -33,6 +33,7 @@
 * ✈️ 国外常规,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyGFWlist.list
 * 🎯 全球直连,[]GEOIP,CN
 * 🐟 漏网之鱼,[]FINAL
+* 🔓 解锁节点
 * 🇭🇰 香港节点
 * 🇨🇳 台湾节点
 * 🇸🇬 狮城节点
