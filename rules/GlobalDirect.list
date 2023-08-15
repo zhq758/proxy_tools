@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 规则集
-# 更新: 2023年08月15日20:21:14
-# 数量: 1061条
+# 更新: 2023年08月15日21:01:02
+# 数量: 1062条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -161,10 +161,10 @@ DOMAIN-SUFFIX,similarweb.io
 # > >codecov
 DOMAIN-SUFFIX,codecov.io
 # > 在线工具
+DOMAIN,bgrem.ai
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
 DOMAIN,who.is
-DOMAIN,bgrem.ai
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
 DOMAIN-SUFFIX,suo.yt
