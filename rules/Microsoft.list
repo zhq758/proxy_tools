@@ -1,7 +1,7 @@
 # 内容: Ⓜ️ 微软服务 规则集
 # 备注: 本列表为微软服务相关域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月16日16:57:44
-# 数量: 109条
+# 更新: 2023年08月16日17:14:31
+# 数量: 108条
 
 DOMAIN-SUFFIX,nelreports.net
 IP-CIDR,13.107.3.254/32,no-resolve
