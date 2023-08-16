@@ -1,5 +1,5 @@
 # 内容: 📺 国内媒体 规则集
-# 备注: 本列表为国内媒体相关域名，其他移步至https://github.com/mphin/ACL4SSR
+# 备注: 本列表为国内媒体直连域名，其他移步至https://github.com/mphin/ACL4SSR
 # 更新: 2023年08月16日16:57:43
 # 数量: 221条
 
@@ -124,6 +124,9 @@ DOMAIN-SUFFIX,66dkmcy.top
 DOMAIN-SUFFIX,6d5cfmh.top
 DOMAIN-SUFFIX,6d7eudw.top
 DOMAIN-SUFFIX,6d8awvv.top
+DOMAIN-SUFFIX,6utswg.top
+DOMAIN-SUFFIX,383546.xyz
+DOMAIN-SUFFIX,6tacog.top
 DOMAIN-SUFFIX,6mjrmc.top
 DOMAIN-SUFFIX,6mpmge.top
 DOMAIN-SUFFIX,6mpxqh.top

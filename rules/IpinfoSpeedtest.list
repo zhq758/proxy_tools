@@ -12,7 +12,8 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jsonp-ip.com
 DOMAIN-SUFFIX,wtfismyip.com
-# > ip138
+DOMAIN-SUFFIX,iphw.in0.cc
+DOMAIN-SUFFIX,chaip.org
 DOMAIN,2023.ip138.com
 DOMAIN,6.ipchaxun.net
 
@@ -21,7 +22,7 @@ DOMAIN,cdn.ziffstatic.com
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,cdnst.net
 
-# ipv6测试
+# IPv6测试
 DOMAIN,ipv4.duiadns.net
 DOMAIN,ipv4.excathedra.co
 DOMAIN,ipv4.sixte.st
