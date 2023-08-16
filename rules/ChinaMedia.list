@@ -1,7 +1,7 @@
 # 内容: 📺 国内媒体 规则集
 # 备注: 本列表为国内媒体直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月16日16:57:43
-# 数量: 221条
+# 更新: 2023年08月16日18:17:38
+# 数量: 224条
 
 # 资讯
 DOMAIN-SUFFIX,0xzx.com
@@ -114,6 +114,7 @@ DOMAIN-SUFFIX,sfpic2023c.xyz
 DOMAIN,c2.monidai.com
 DOMAIN-SUFFIX,jsdrtzn.com
 # > 66m.io
+DOMAIN-SUFFIX,383546.xyz
 DOMAIN-SUFFIX,660kqhm.top
 DOMAIN-SUFFIX,661wwhm.top
 DOMAIN-SUFFIX,664cfzm.top
@@ -124,9 +125,6 @@ DOMAIN-SUFFIX,66dkmcy.top
 DOMAIN-SUFFIX,6d5cfmh.top
 DOMAIN-SUFFIX,6d7eudw.top
 DOMAIN-SUFFIX,6d8awvv.top
-DOMAIN-SUFFIX,6utswg.top
-DOMAIN-SUFFIX,383546.xyz
-DOMAIN-SUFFIX,6tacog.top
 DOMAIN-SUFFIX,6mjrmc.top
 DOMAIN-SUFFIX,6mpmge.top
 DOMAIN-SUFFIX,6mpxqh.top
@@ -134,6 +132,8 @@ DOMAIN-SUFFIX,6msbek.top
 DOMAIN-SUFFIX,6mtfrc.top
 DOMAIN-SUFFIX,6rtym.top
 DOMAIN-SUFFIX,6scefu.top
+DOMAIN-SUFFIX,6tacog.top
+DOMAIN-SUFFIX,6utswg.top
 DOMAIN-SUFFIX,82tevhj.top
 DOMAIN-SUFFIX,82tkzqi.top
 DOMAIN-SUFFIX,82zydaa.top
