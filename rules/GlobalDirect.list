@@ -260,6 +260,9 @@ DOMAIN,zlc1.chaoyi996.com
 DOMAIN-SUFFIX,cll46.top
 # > Bot
 DOMAIN-SUFFIX,nmteam.xyz
+# ＞ 浏览器
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.org
 
 # DNS
 DOMAIN-SUFFIX,adguard-dns.com
