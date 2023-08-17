@@ -9,6 +9,14 @@ DOMAIN-SUFFIX,king.com
 DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,yuanshen.com
 
+# Pubg Mobile
+DOMAIN,sg.tdatamaster.com
+DOMAIN,k.gjacky.com
+DOMAIN,dl.listdl.com
+DOMAIN,cloud.vmp.onezapp.com
+DOMAIN,cloud.gsdk.proximabeta.com
+DOMAIN,ios.crashsight.wetest.net
+
 # Steam
 # > Pubg
 DOMAIN,log-brofront.kraftonde.com
