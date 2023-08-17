@@ -98,7 +98,7 @@ DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,verisign.com
 IP-CIDR,152.195.38.76/32,no-resolve
 
-# 交流分享
+# 知识交流
 DOMAIN,1024.day
 DOMAIN,404world.in
 DOMAIN,404world.tk
@@ -107,6 +107,7 @@ DOMAIN,blog.dengxj.com
 DOMAIN,blog.dingtone.me
 DOMAIN,clash-meta.wiki
 DOMAIN,codenong.com
+DOMAIN-SUFFIX,jobo88.com
 DOMAIN,docs.reiz.link
 DOMAIN,g-suite.cc
 DOMAIN,idappblog.com
@@ -166,6 +167,7 @@ DOMAIN,bgrem.ai
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
 DOMAIN,who.is
+DOMAIN-SUFFIX,chinafirewalltest.com
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
 DOMAIN-SUFFIX,suo.yt
@@ -201,6 +203,7 @@ DOMAIN-SUFFIX,msn90.com
 DOMAIN-SUFFIX,xiazai.vin
 # > 过滤器
 DOMAIN,anti-ad.net
+DOMAIN-SUFFIX,adguard.com
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adguard.info
@@ -260,6 +263,7 @@ DOMAIN-SUFFIX,nmteam.xyz
 # DNS
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
+DOMAIN-SUFFIX,adguard-dns.com
 
 # 手机类
 DOMAIN-SUFFIX,comcsoft.com
