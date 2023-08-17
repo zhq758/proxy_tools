@@ -12,8 +12,9 @@ IP-CIDR,20.205.243.168/32,no-resolve
 # 图床
 DOMAIN,sm.ms
 
-# 学习分享
+# 知识分享
 DOMAIN,duangks.com
+DOMAIN,vpnse.org
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,clashios.com
 DOMAIN-SUFFIX,ffqla.net
