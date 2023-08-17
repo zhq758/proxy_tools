@@ -16,6 +16,8 @@ DOMAIN,dl.listdl.com
 DOMAIN,ios.crashsight.wetest.net
 DOMAIN,k.gjacky.com
 DOMAIN,sg.tdatamaster.com
+DOMAIN-SUFFIX,igame.gcloudcs.com
+DOMAIN-SUFFIX,mbgame.anticheatexpert.com
 
 # Steam
 # > Pubg
