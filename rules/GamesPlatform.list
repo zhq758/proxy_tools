@@ -5,6 +5,10 @@
 
 DOMAIN-SUFFIX,king.com
 
+# 原神
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,hoyoverse.com
+
 # Steam
 # > Pubg
 DOMAIN,log-brofront.kraftonde.com
@@ -12,7 +16,7 @@ DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,pubgbluehole.com
 DOMAIN-SUFFIX,pubgha.com
 DOMAIN-SUFFIX,pubwxp-mim.vivox.com
-# > dota2
+# > Dota2
 DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,valve.net
 # > Apex
