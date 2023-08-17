@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月17日22:40:53
-# 数量: 1073条
+# 更新: 2023年08月17日23:06:37
+# 数量: 1074条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -216,13 +216,13 @@ DOMAIN,jscloud.best
 DOMAIN,store.kakocloud.pro
 DOMAIN,store.kk-proxy.pro
 DOMAIN,suying00.com
-DOMAIN-SUFFIX,spcloud.info
 DOMAIN,xfeugfyb.com
 DOMAIN-SUFFIX,bygcloud.com
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,paopao.dog
 DOMAIN-SUFFIX,sakuras.cloud
+DOMAIN-SUFFIX,spcloud.info
 DOMAIN-SUFFIX,yiyuan.cyou
 DOMAIN-SUFFIX,yypro.pro
 # > > 极速云
