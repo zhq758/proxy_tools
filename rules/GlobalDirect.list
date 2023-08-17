@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月17日21:15:22
-# 数量: 1072条
+# 更新: 2023年08月17日22:40:53
+# 数量: 1073条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -107,7 +107,6 @@ DOMAIN,blog.dengxj.com
 DOMAIN,blog.dingtone.me
 DOMAIN,clash-meta.wiki
 DOMAIN,codenong.com
-DOMAIN-SUFFIX,aijichang.com
 DOMAIN,docs.reiz.link
 DOMAIN,g-suite.cc
 DOMAIN,idappblog.com
@@ -120,6 +119,7 @@ DOMAIN,stash.wiki
 DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,920.im
+DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,askahh.com
 DOMAIN-SUFFIX,blueskyxn.com
 DOMAIN-SUFFIX,caoayu.top
