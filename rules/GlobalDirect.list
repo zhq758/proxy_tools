@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月17日16:05:14
-# 数量: 1070条
+# 更新: 2023年08月17日21:15:22
+# 数量: 1072条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -260,7 +260,7 @@ DOMAIN,zlc1.chaoyi996.com
 DOMAIN-SUFFIX,cll46.top
 # > Bot
 DOMAIN-SUFFIX,nmteam.xyz
-# ＞ 浏览器
+# > 浏览器
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.org
 
