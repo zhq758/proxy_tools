@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月16日18:17:38
-# 数量: 1065条
+# 更新: 2023年08月17日16:03:18
+# 数量: 1069条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -107,7 +107,6 @@ DOMAIN,blog.dengxj.com
 DOMAIN,blog.dingtone.me
 DOMAIN,clash-meta.wiki
 DOMAIN,codenong.com
-DOMAIN-SUFFIX,jobo88.com
 DOMAIN,docs.reiz.link
 DOMAIN,g-suite.cc
 DOMAIN,idappblog.com
@@ -129,6 +128,7 @@ DOMAIN-SUFFIX,ffqla.com
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,ioiox.com
 DOMAIN-SUFFIX,jamesdailylife.com
+DOMAIN-SUFFIX,jobo88.com
 DOMAIN-SUFFIX,lmlphp.com
 DOMAIN-SUFFIX,machbbs.com
 DOMAIN-SUFFIX,nodeseek.com
@@ -203,9 +203,9 @@ DOMAIN-SUFFIX,msn90.com
 DOMAIN-SUFFIX,xiazai.vin
 # > 过滤器
 DOMAIN,anti-ad.net
-DOMAIN-SUFFIX,adguard.com
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,adaway.org
+DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adtidy.org
 # > VPN
@@ -262,9 +262,9 @@ DOMAIN-SUFFIX,cll46.top
 DOMAIN-SUFFIX,nmteam.xyz
 
 # DNS
+DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
-DOMAIN-SUFFIX,adguard-dns.com
 
 # 手机类
 DOMAIN-SUFFIX,comcsoft.com
