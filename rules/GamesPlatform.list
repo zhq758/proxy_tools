@@ -1,7 +1,7 @@
 # 内容: 🎮 游戏平台 规则集
 # 备注: 本列表为游戏相关域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月17日20:35:13
-# 数量: 69条
+# 更新: 2023年08月17日21:45:47
+# 数量: 75条
 
 DOMAIN-SUFFIX,king.com
 
@@ -10,12 +10,12 @@ DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,yuanshen.com
 
 # Pubg Mobile
-DOMAIN,sg.tdatamaster.com
-DOMAIN,k.gjacky.com
-DOMAIN,dl.listdl.com
-DOMAIN,cloud.vmp.onezapp.com
 DOMAIN,cloud.gsdk.proximabeta.com
+DOMAIN,cloud.vmp.onezapp.com
+DOMAIN,dl.listdl.com
 DOMAIN,ios.crashsight.wetest.net
+DOMAIN,k.gjacky.com
+DOMAIN,sg.tdatamaster.com
 
 # Steam
 # > Pubg
