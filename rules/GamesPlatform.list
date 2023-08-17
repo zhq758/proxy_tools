@@ -1,13 +1,13 @@
 # 内容: 🎮 游戏平台 规则集
 # 备注: 本列表为游戏相关域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月16日16:57:43
-# 数量: 67条
+# 更新: 2023年08月17日20:35:13
+# 数量: 69条
 
 DOMAIN-SUFFIX,king.com
 
 # 原神
-DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,yuanshen.com
 
 # Steam
 # > Pubg
