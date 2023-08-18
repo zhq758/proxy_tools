@@ -1,7 +1,7 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外代理相关域名，不含Telegram、OpenAi及媒体，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月17日23:17:00
-# 数量: 6077条
+# 更新: 2023年08月18日16:27:15
+# 数量: 6078条
 
 # Github
 IP-CIDR,140.82.113.26/32,no-resolve
@@ -37,7 +37,7 @@ DOMAIN,xn--6nq44r2uh9rhj7f.com
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,xfltd.org
-# ＞ Docker
+# > Docker
 DOMAIN-SUFFIX,docker.io
 
 
