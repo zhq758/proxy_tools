@@ -30,8 +30,8 @@
 * 🎮 游戏平台,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GamesPlatform.list
 * 📡 IP｜测速,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/IpinfoSpeedtest.list
 * 📲 电报消息,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Telegram.list
-* 🎯 全球直连,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GlobalDirect.list
 * ✈️ 国外常规,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyGFWlist.list
+* 🎯 全球直连,https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GlobalDirect.list
 * 🎯 全球直连,[]GEOIP,CN
 * 🐟 漏网之鱼,[]FINAL
 * 🔓 解锁节点
