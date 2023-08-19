@@ -1,17 +1,17 @@
 # 内容: 📡 IP｜测速 规则集
 # 备注: 本列表为IP检测及测速相关域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月16日18:17:38
-# 数量: 35条
+# 更新: 2023年08月19日16:34:49
+# 数量: 36条
 
 # IP查询
 DOMAIN,2023.ip138.com
 DOMAIN,6.ipchaxun.net
+DOMAIN-SUFFIX,api.myip.la
 DOMAIN-SUFFIX,chaip.org
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip125.com
 DOMAIN-SUFFIX,ipapi.co
-DOMAIN-SUFFIX,api.myip.la
 DOMAIN-SUFFIX,iphw.in0.cc
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
