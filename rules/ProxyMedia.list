@@ -1,7 +1,7 @@
 # 内容: 🎥 国外媒体 规则集
 # 备注: 本列表为国外媒体代理域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月16日18:17:38
-# 数量: 354条
+# 更新: 2023年08月19日15:01:02
+# 数量: 356条
 
 DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,lovense-api.com
@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,javdb.com
 # > SiFang Club
 DOMAIN,sifangclub.com
-# ＞ 第一会所
+# > 第一会所
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,sis001.us
 

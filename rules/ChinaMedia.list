@@ -1,7 +1,7 @@
 # 内容: 📺 国内媒体 规则集
 # 备注: 本列表为国内媒体直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月16日18:17:38
-# 数量: 224条
+# 更新: 2023年08月19日15:00:53
+# 数量: 225条
 
 # 资讯
 DOMAIN-SUFFIX,0xzx.com
@@ -12,8 +12,6 @@ DOMAIN-SUFFIX,bangumi.tv
 
 # 影视资源
 DOMAIN,smdy91.com
-DOMAIN-SUFFIX,m4c7r.com
-DOMAIN-SUFFIX,rve4.com
 DOMAIN,szgpmy.com
 DOMAIN-SUFFIX,24xunlei.com
 DOMAIN-SUFFIX,btwuji.com
@@ -21,6 +19,8 @@ DOMAIN-SUFFIX,dgbosun.com
 DOMAIN-SUFFIX,dy2018.com
 DOMAIN-SUFFIX,dygod.net
 DOMAIN-SUFFIX,dytt8.com
+DOMAIN-SUFFIX,m4c7r.com
+DOMAIN-SUFFIX,rve4.com
 DOMAIN-SUFFIX,xinsheng168.com
 DOMAIN-SUFFIX,ygdy8.net
 DOMAIN-SUFFIX,zjhuishu.com
@@ -151,7 +151,7 @@ DOMAIN,iuy.zxcvbnasd.cfd
 # > 杏吧视频
 DOMAIN,h5xb.me
 DOMAIN,xvasd6.com
-# ＞ 第一会所
+# > 第一会所
 IP-CIDR,104.194.212.37/32,no-resolve
 
 
