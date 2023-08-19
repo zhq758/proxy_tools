@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,bangumi.tv
 
 # 影视资源
 DOMAIN,smdy91.com
+DOMAIN-SUFFIX,m4c7r.com
+DOMAIN-SUFFIX,rve4.com
 DOMAIN,szgpmy.com
 DOMAIN-SUFFIX,24xunlei.com
 DOMAIN-SUFFIX,btwuji.com
@@ -149,9 +151,8 @@ DOMAIN,iuy.zxcvbnasd.cfd
 # > 杏吧视频
 DOMAIN,h5xb.me
 DOMAIN,xvasd6.com
-# > Porn小站
-DOMAIN-SUFFIX,m4c7r.com
-DOMAIN-SUFFIX,rve4.com
+# ＞ 第一会所
+IP-CIDR,104.194.212.37/32,no-resolve
 
 
 # ------------------------------------------------

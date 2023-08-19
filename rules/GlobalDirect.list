@@ -21,8 +21,9 @@ DOMAIN-SUFFIX,unpkg.com
 IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
 # > 图床
-DOMAIN,p.sda1.dev
-DOMAIN,s3.bmp.ovh
+DOMAIN-SUFFIX,p.sda1.dev
+DOMAIN-SUFFIX,s3.bmp.ovh
+DOMAIN-SUFFIX,qpic.ws
 DOMAIN-SUFFIX,666546.xyz
 DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,hostpic.org
@@ -41,15 +42,22 @@ DOMAIN,app.adjust.com
 DOMAIN,bing.myan.cf
 DOMAIN,browser.sentry-cdn.com
 DOMAIN,cdn.cookielaw.org
+DOMAIN-SUFFIX,drift.com
 DOMAIN,click.linksynergy.com
 DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
+DOMAIN-SUFFIX,drift.com
 DOMAIN,rsms.me
+DOMAIN-SUFFIX,wix.com
+DOMAIN-SUFFIX,tidio.com
+DOMAIN-SUFFIX,tidio.co
 DOMAIN,stats.mailgrate.com
 DOMAIN,t.arcade.show
+DOMAIN-SUFFIX,shipbook.io
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
+DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
@@ -111,6 +119,7 @@ DOMAIN,clash-meta.wiki
 DOMAIN,codenong.com
 DOMAIN,docs.reiz.link
 DOMAIN,g-suite.cc
+DOMAIN-SUFFIX,wi-cat.ru
 DOMAIN,idappblog.com
 DOMAIN,jiasupanda.com
 DOMAIN,jichangtuijian.com
@@ -151,6 +160,7 @@ DOMAIN,api.nolanstore.cc
 DOMAIN,winscp.net
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,citrix.com
+DOMAIN-SUFFIX,pnpm.io
 DOMAIN-SUFFIX,fiddler2.com
 DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,my-netdata.io
@@ -214,11 +224,14 @@ DOMAIN,dy.xftld.xyz
 DOMAIN,jscloud.best
 DOMAIN,renzheapi.com
 DOMAIN,store.kakocloud.pro
+DOMAIN-SUFFIX,ispeed.online
 DOMAIN,store.kk-proxy.pro
 DOMAIN,sub.ops.ci
 DOMAIN,sub1.smallstrawberry.com
 DOMAIN,suying00.com
 DOMAIN,xfeugfyb.com
+DOMAIN-SUFFIX,cloudspeed.online
+DOMAIN-SUFFIX,gaowosiquanjia.top
 DOMAIN-SUFFIX,bajie.run
 DOMAIN-SUFFIX,bajie.wiki
 DOMAIN-SUFFIX,bygcloud.com

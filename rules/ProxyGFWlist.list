@@ -10,6 +10,9 @@ IP-CIDR,140.82.114.25/32,no-resolve
 IP-CIDR,20.205.243.166/32,no-resolve
 IP-CIDR,20.205.243.168/32,no-resolve
 
+# Google
+IP-CIDR,172.217.160.74/32,no-resolve
+
 # 图床
 DOMAIN,sm.ms
 
@@ -4466,8 +4469,6 @@ DOMAIN-SUFFIX,sinopitt.info
 DOMAIN-SUFFIX,sinoquebec.com
 DOMAIN-SUFFIX,sipml5.org
 DOMAIN-SUFFIX,sis.xxx
-DOMAIN-SUFFIX,sis001.com
-DOMAIN-SUFFIX,sis001.us
 DOMAIN-SUFFIX,site2unblock.com
 DOMAIN-SUFFIX,site90.net
 DOMAIN-SUFFIX,sitebro.tw
