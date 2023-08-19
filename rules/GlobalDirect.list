@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月18日16:27:15
-# 数量: 1077条
+# 更新: 2023年08月19日12:26:25
+# 数量: 1080条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -14,9 +14,9 @@ DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,fastgit.org
+DOMAIN-SUFFIX,footprint.net
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,netlify.com
-DOMAIN-SUFFIX,footprint.net
 DOMAIN-SUFFIX,unpkg.com
 IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
@@ -175,11 +175,11 @@ IP-CIDR,193.182.111.14/32,no-resolve
 IP-CIDR,78.46.102.180/32,no-resolve
 # > 统计分析
 DOMAIN,webrate.org
+DOMAIN-SUFFIX,codecov.io
 DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
-DOMAIN-SUFFIX,codecov.io
 # > 消息推送
 DOMAIN-SUFFIX,pushplus.plus
 # > 过滤器
@@ -206,40 +206,40 @@ DOMAIN-SUFFIX,tdvip.us
 
 # VPN相关
 DOMAIN,ahaspeed.com
+DOMAIN,api-subscribe.lycoris.cam
 DOMAIN,chiguayun.com
 DOMAIN,clash.razord.top
+DOMAIN,dy.v-too.cloud
+DOMAIN,dy.xftld.xyz
 DOMAIN,jscloud.best
+DOMAIN,renzheapi.com
 DOMAIN,store.kakocloud.pro
 DOMAIN,store.kk-proxy.pro
+DOMAIN,sub.ops.ci
+DOMAIN,sub1.smallstrawberry.com
 DOMAIN,suying00.com
 DOMAIN,xfeugfyb.com
+DOMAIN-SUFFIX,bajie.run
+DOMAIN-SUFFIX,bajie.wiki
 DOMAIN-SUFFIX,bygcloud.com
+DOMAIN-SUFFIX,ciyy.cc
+DOMAIN-SUFFIX,dearyou.one
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,jiedian.stream
+DOMAIN-SUFFIX,jscloud.cc
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,paopao.dog
 DOMAIN-SUFFIX,sakuras.cloud
 DOMAIN-SUFFIX,spcloud.info
-DOMAIN-SUFFIX,yiyuan.cyou
-DOMAIN-SUFFIX,yypro.pro
-DOMAIN,api-subscribe.lycoris.cam
-DOMAIN,dy.v-too.cloud
-DOMAIN,dy.xftld.xyz
-DOMAIN,renzheapi.com
-DOMAIN,sub.ops.ci
-DOMAIN,sub1.smallstrawberry.com
-DOMAIN-SUFFIX,jscloud.cc
 DOMAIN-SUFFIX,vipnode.online
-DOMAIN-SUFFIX,ciyy.cc
-DOMAIN-SUFFIX,dearyou.one
 DOMAIN-SUFFIX,xfltd.cc
 DOMAIN-SUFFIX,xfltd.net
 DOMAIN-SUFFIX,xfltd.top
 DOMAIN-SUFFIX,xfltd.xyz
 DOMAIN-SUFFIX,xsus.buzz
 DOMAIN-SUFFIX,xsus.io
-DOMAIN-SUFFIX,bajie.run
-DOMAIN-SUFFIX,bajie.wiki
+DOMAIN-SUFFIX,yiyuan.cyou
+DOMAIN-SUFFIX,yypro.pro
 
 # Docker
 # > 青龙
@@ -266,11 +266,11 @@ DOMAIN,jabi.cc
 DOMAIN,jabizb.com
 DOMAIN,stash.ws
 DOMAIN,xz.ioszhi.com
-DOMAIN-SUFFIX,nsloon.com
-DOMAIN-SUFFIX,zwjpai.com
-DOMAIN-SUFFIX,sollico.com
 DOMAIN-SUFFIX,comcsoft.com
 DOMAIN-SUFFIX,footprints.net
+DOMAIN-SUFFIX,nsloon.com
+DOMAIN-SUFFIX,sollico.com
+DOMAIN-SUFFIX,zwjpai.com
 # > Surge
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,surge-activation.com
@@ -327,8 +327,8 @@ DOMAIN,gllto.glpals.com
 DOMAIN,ios.sxqifeng.com
 DOMAIN-KEYWORD,xn--
 DOMAIN-SUFFIX,cdn.nz.lu
-DOMAIN-SUFFIX,xxxx.com
 DOMAIN-SUFFIX,marvelcdb.com
+DOMAIN-SUFFIX,xxxx.com
 
 
 # ------------------------------------------------

@@ -1,14 +1,14 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外代理相关域名，不含Telegram、OpenAi及媒体，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月18日16:27:15
-# 数量: 6078条
+# 更新: 2023年08月19日12:26:26
+# 数量: 6079条
 
 # Github
+IP-CIDR,140.82.113.25/32,no-resolve
 IP-CIDR,140.82.113.26/32,no-resolve
 IP-CIDR,140.82.114.25/32,no-resolve
 IP-CIDR,20.205.243.166/32,no-resolve
 IP-CIDR,20.205.243.168/32,no-resolve
-IP-CIDR,140.82.113.25/32,no-resolve
 
 # 图床
 DOMAIN,sm.ms
