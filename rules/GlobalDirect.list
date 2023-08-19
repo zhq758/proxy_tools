@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,fastgit.org
@@ -23,6 +24,7 @@ IP-CIDR,192.9.149.24/32,no-resolve
 # > 图床
 DOMAIN-SUFFIX,666546.xyz
 DOMAIN-SUFFIX,ax1x.com
+DOMAIN-SUFFIX,i.loli.net
 DOMAIN-SUFFIX,hostpic.org
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,imagegoto.com
@@ -45,8 +47,10 @@ DOMAIN,cdn.cookielaw.org
 DOMAIN,click.linksynergy.com
 DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
+DOMAIN-SUFFIX,getapp.com
 DOMAIN,polyfill.io
 DOMAIN,rsms.me
+DOMAIN-SUFFIX,g2.com
 DOMAIN,stats.mailgrate.com
 DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
@@ -310,12 +314,15 @@ DOMAIN-SUFFIX,bioscompass.com
 # > agoda
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
-# > 支付平台
+# > 支付
 DOMAIN,shop.ioiox.xyz
+DOMAIN-SUFFIX,plushare.tk
 DOMAIN,u.mcashier.xyz
+DOMAIN-SUFFIX,buymeacoffee.com
+DOMAIN-SUFFIX,uugetting.com
 DOMAIN-SUFFIX,payment.dog
 # > > stripe
-DOMAIN,m.stripe.network
+DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripecdn.com
 
@@ -330,6 +337,10 @@ DOMAIN-SUFFIX,thetradersden.org
 DOMAIN-SUFFIX,abcvg.info
 DOMAIN-SUFFIX,down6.8fly.link
 DOMAIN-SUFFIX,loadbt.com
+DOMAIN-SUFFIX,t1.hloli.org
+DOMAIN-SUFFIX,tr.burnabyhighstar.com
+DOMAIN-SUFFIX,tr.ready4.icu
+DOMAIN-SUFFIX,bt.endpot.com
 DOMAIN-SUFFIX,stealth.si
 
 # 其他
