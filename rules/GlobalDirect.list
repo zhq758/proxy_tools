@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,footprint.net
 DOMAIN-SUFFIX,unpkg.com
 IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
@@ -140,6 +141,11 @@ DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,zengqiangwl.com
 
+# 网站导航
+DOMAIN,xiazai.cab
+DOMAIN-SUFFIX,msn90.com
+DOMAIN-SUFFIX,xiazai.vin
+
 # 工具类
 DOMAIN,api.nolanstore.cc
 DOMAIN,winscp.net
@@ -152,6 +158,16 @@ DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,zerotier.com
+# > 在线工具
+DOMAIN,bgrem.ai
+DOMAIN,cron.qqe2.com
+DOMAIN,dbcha.com
+DOMAIN,who.is
+DOMAIN-SUFFIX,chinafirewalltest.com
+DOMAIN-SUFFIX,mermaid.live
+DOMAIN-SUFFIX,metools.info
+DOMAIN-SUFFIX,suo.yt
+DOMAIN-SUFFIX,urlencoder.org
 # > 时间同步
 DOMAIN,time.is
 DOMAIN-SUFFIX,ntp.org
@@ -163,47 +179,9 @@ DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
-# > >codecov
 DOMAIN-SUFFIX,codecov.io
-# > 在线工具
-DOMAIN,bgrem.ai
-DOMAIN,cron.qqe2.com
-DOMAIN,dbcha.com
-DOMAIN,who.is
-DOMAIN-SUFFIX,chinafirewalltest.com
-DOMAIN-SUFFIX,mermaid.live
-DOMAIN-SUFFIX,metools.info
-DOMAIN-SUFFIX,suo.yt
-DOMAIN-SUFFIX,urlencoder.org
 # > 消息推送
 DOMAIN-SUFFIX,pushplus.plus
-# > 域名服务
-DOMAIN-SUFFIX,f3322.net
-DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,namesilo.com
-# > 订阅转换
-DOMAIN,api-subscribe.lycoris.cam
-DOMAIN,dy.v-too.cloud
-DOMAIN,dy.xftld.xyz
-DOMAIN,renzheapi.com
-DOMAIN,sub.ops.ci
-DOMAIN,sub1.smallstrawberry.com
-# > IOS工具
-DOMAIN,iosding.com
-DOMAIN,jabi.cc
-DOMAIN,jabizb.com
-DOMAIN,stash.ws
-DOMAIN,xz.ioszhi.com
-DOMAIN-SUFFIX,nsloon.com
-DOMAIN-SUFFIX,zwjpai.com
-# > > Surge
-DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,surge-activation.com
-IP-CIDR,35.190.88.7/32,no-resolve
-# > 导航
-DOMAIN,xiazai.cab
-DOMAIN-SUFFIX,msn90.com
-DOMAIN-SUFFIX,xiazai.vin
 # > 过滤器
 DOMAIN,anti-ad.net
 DOMAIN,easylist-downloads.adblockplus.org
@@ -211,7 +189,22 @@ DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adtidy.org
-# > VPN
+# > 磁力搜索
+DOMAIN-SUFFIX,cll46.top
+# > Bot
+DOMAIN-SUFFIX,nmteam.xyz
+# > 浏览器
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.org
+# > 国产GPT
+# > > Chat8
+DOMAIN,chatai.98dongman.com
+DOMAIN,lexiao66.com
+# > > TDChat
+DOMAIN-SUFFIX,tdchatapp.us
+DOMAIN-SUFFIX,tdvip.us
+
+# VPN相关
 DOMAIN,ahaspeed.com
 DOMAIN,chiguayun.com
 DOMAIN,clash.razord.top
@@ -229,32 +222,27 @@ DOMAIN-SUFFIX,sakuras.cloud
 DOMAIN-SUFFIX,spcloud.info
 DOMAIN-SUFFIX,yiyuan.cyou
 DOMAIN-SUFFIX,yypro.pro
-# > > 极速云
+DOMAIN,api-subscribe.lycoris.cam
+DOMAIN,dy.v-too.cloud
+DOMAIN,dy.xftld.xyz
+DOMAIN,renzheapi.com
+DOMAIN,sub.ops.ci
+DOMAIN,sub1.smallstrawberry.com
 DOMAIN-SUFFIX,jscloud.cc
 DOMAIN-SUFFIX,vipnode.online
-# > > 次元雲
 DOMAIN-SUFFIX,ciyy.cc
 DOMAIN-SUFFIX,dearyou.one
-# > > XFLTD
 DOMAIN-SUFFIX,xfltd.cc
 DOMAIN-SUFFIX,xfltd.net
 DOMAIN-SUFFIX,xfltd.top
 DOMAIN-SUFFIX,xfltd.xyz
-# > > XSUS
 DOMAIN-SUFFIX,xsus.buzz
 DOMAIN-SUFFIX,xsus.io
-# > > 八戒
 DOMAIN-SUFFIX,bajie.run
 DOMAIN-SUFFIX,bajie.wiki
-# > 国产GPT
-# > > Chat8
-DOMAIN,chatai.98dongman.com
-DOMAIN,lexiao66.com
-# > > TDChat
-DOMAIN-SUFFIX,tdchatapp.us
-DOMAIN-SUFFIX,tdvip.us
-# > Docker
-# > > 青龙
+
+# Docker
+# > 青龙
 DOMAIN,fakermetaverse.xyz
 DOMAIN,git.metauniverse-cn.com
 DOMAIN,kr.kingran.cf
@@ -262,21 +250,31 @@ DOMAIN,nodejs.org
 DOMAIN,registry.npmjs.org
 DOMAIN,version.pm2.io
 DOMAIN,zlc1.chaoyi996.com
-# > 磁力搜索
-DOMAIN-SUFFIX,cll46.top
-# > Bot
-DOMAIN-SUFFIX,nmteam.xyz
-# > 浏览器
-DOMAIN-SUFFIX,mozilla.com
-DOMAIN-SUFFIX,mozilla.org
 
 # DNS
 DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
 
-# 手机类
+# 域名服务
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,namesilo.com
+
+# IOS相关
+DOMAIN,iosding.com
+DOMAIN,jabi.cc
+DOMAIN,jabizb.com
+DOMAIN,stash.ws
+DOMAIN,xz.ioszhi.com
+DOMAIN-SUFFIX,nsloon.com
+DOMAIN-SUFFIX,zwjpai.com
+DOMAIN-SUFFIX,sollico.com
 DOMAIN-SUFFIX,comcsoft.com
+DOMAIN-SUFFIX,footprints.net
+# > Surge
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,surge-activation.com
+IP-CIDR,35.190.88.7/32,no-resolve
 
 # 电脑类
 DOMAIN-SUFFIX,asus.com
@@ -330,6 +328,7 @@ DOMAIN,ios.sxqifeng.com
 DOMAIN-KEYWORD,xn--
 DOMAIN-SUFFIX,cdn.nz.lu
 DOMAIN-SUFFIX,xxxx.com
+DOMAIN-SUFFIX,marvelcdb.com
 
 
 # ------------------------------------------------

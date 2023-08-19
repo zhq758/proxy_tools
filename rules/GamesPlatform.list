@@ -3,8 +3,6 @@
 # 更新: 2023年08月17日21:59:10
 # 数量: 77条
 
-DOMAIN-SUFFIX,king.com
-
 # 原神
 DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,yuanshen.com
@@ -34,6 +32,10 @@ DOMAIN-SUFFIX,eac-cdn.com
 DOMAIN-SUFFIX,stryder.respawn.com
 # > 永劫无间
 DOMAIN-SUFFIX,easebar.com
+
+# 糖果苏打传奇
+DOMAIN-SUFFIX,king.com
+DOMAIN-SUFFIX,midasplayer.com
 
 
 # ------------------------------------------------
