@@ -1,7 +1,7 @@
 # 内容: 📡 IP｜测速 规则集
 # 备注: 本列表为IP检测及测速相关域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月19日16:34:49
-# 数量: 36条
+# 更新: 2023年08月21日16:06:24
+# 数量: 37条
 
 # IP查询
 DOMAIN,2023.ip138.com
@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,wtfismyip.com
 
 # 测速
 DOMAIN-SUFFIX,speed.ffq-test.com
-# ＞ Speedtest
+# > Speedtest
 DOMAIN,cdn.ziffstatic.com
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,cdnst.net
