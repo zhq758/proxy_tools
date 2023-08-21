@@ -18,7 +18,9 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jsonp-ip.com
 DOMAIN-SUFFIX,wtfismyip.com
 
-# Speedtest
+# 测速
+DOMAIN-SUFFIX,speed.ffq-test.com
+# ＞ Speedtest
 DOMAIN,cdn.ziffstatic.com
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,cdnst.net
