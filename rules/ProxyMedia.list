@@ -1,7 +1,7 @@
 # 内容: 🎥 国外媒体 规则集
 # 备注: 本列表为国外媒体代理域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月20日04:33:02
-# 数量: 357条
+# 更新: 2023年08月21日14:46:48
+# 数量: 364条
 
 DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,lovense-api.com
@@ -14,16 +14,16 @@ DOMAIN-SUFFIX,theporndude.com
 DOMAIN-SUFFIX,nsimg.net
 # > Xhamster
 DOMAIN-SUFFIX,battleship.sc-apps.com
-DOMAIN-SUFFIX,hotpics.mom
-DOMAIN-SUFFIX,hotvids.space
-DOMAIN-SUFFIX,thumb-v-lv.xhpingcdn.com
-DOMAIN-SUFFIX,xh.video
-DOMAIN-SUFFIX,makemehappy.mom
 DOMAIN-SUFFIX,cdn13.com
 DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,flixcdn.com
+DOMAIN-SUFFIX,hotpics.mom
+DOMAIN-SUFFIX,hotvids.space
+DOMAIN-SUFFIX,makemehappy.mom
 DOMAIN-SUFFIX,megaxh.com
+DOMAIN-SUFFIX,thumb-v-lv.xhpingcdn.com
+DOMAIN-SUFFIX,xh.video
 DOMAIN-SUFFIX,xhaccess.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
@@ -42,9 +42,9 @@ DOMAIN-SUFFIX,sifangclub.com
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,sis001.us
 # > 调侃网
-DOMAIN-SUFFIX,tiaokan.vip
-DOMAIN-SUFFIX,tiaokan.love
 DOMAIN-SUFFIX,tiaokan.info
+DOMAIN-SUFFIX,tiaokan.love
+DOMAIN-SUFFIX,tiaokan.vip
 DOMAIN-SUFFIX,tiaokan01.com
 DOMAIN-SUFFIX,tiaokan02.com
 DOMAIN-SUFFIX,tiaokan03.com
