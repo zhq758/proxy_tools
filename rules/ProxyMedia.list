@@ -13,11 +13,12 @@ DOMAIN-SUFFIX,theporndude.com
 # > Pornhub
 DOMAIN-SUFFIX,nsimg.net
 # > Xhamster
-DOMAIN,battleship.sc-apps.com
-DOMAIN,hotpics.mom
-DOMAIN,hotvids.space
-DOMAIN,thumb-v-lv.xhpingcdn.com
-DOMAIN,xh.video
+DOMAIN-SUFFIX,battleship.sc-apps.com
+DOMAIN-SUFFIX,hotpics.mom
+DOMAIN-SUFFIX,hotvids.space
+DOMAIN-SUFFIX,thumb-v-lv.xhpingcdn.com
+DOMAIN-SUFFIX,xh.video
+DOMAIN-SUFFIX,makemehappy.mom
 DOMAIN-SUFFIX,cdn13.com
 DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,doppiocdn.org
@@ -36,10 +37,17 @@ DOMAIN-SUFFIX,strpst.com
 # > Javdb
 DOMAIN-SUFFIX,javdb.com
 # > SiFang Club
-DOMAIN,sifangclub.com
+DOMAIN-SUFFIX,sifangclub.com
 # > 第一会所
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,sis001.us
+# > 调侃网
+DOMAIN-SUFFIX,tiaokan.vip
+DOMAIN-SUFFIX,tiaokan.love
+DOMAIN-SUFFIX,tiaokan.info
+DOMAIN-SUFFIX,tiaokan01.com
+DOMAIN-SUFFIX,tiaokan02.com
+DOMAIN-SUFFIX,tiaokan03.com
 
 
 # ------------------------------------------------

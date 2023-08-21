@@ -92,9 +92,6 @@ DOMAIN,v.gsuus.com
 DOMAIN-SUFFIX,jisihan.com
 DOMAIN-SUFFIX,jitaiwelding.com
 DOMAIN-SUFFIX,m3u8.pw
-# > 调侃网
-DOMAIN-SUFFIX,tiaokan.info
-DOMAIN-SUFFIX,tiaokan.love
 # > Javdb
 DOMAIN-KEYWORD,javdb
 DOMAIN-SUFFIX,jdbstatic.com
