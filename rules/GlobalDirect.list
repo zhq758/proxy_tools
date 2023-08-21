@@ -108,6 +108,7 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,ocsp.sectigo.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,ocsp-certum.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,verisign.com
 IP-CIDR,152.195.38.76/32,no-resolve
