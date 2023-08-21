@@ -5,7 +5,7 @@
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
-DOMAIN,code.jquery.com
+DOMAIN-SUFFIX,jquery.com
 DOMAIN,gravatar.wp-china-yes.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
