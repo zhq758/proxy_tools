@@ -99,7 +99,7 @@ DOMAIN-SUFFIX,wix.com
 DOMAIN-SUFFIX,yoti.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
-DOMAIN,ocsp.thawte.com
+DOMAIN-SUFFIX,thawte.com
 DOMAIN,ts-ocsp.ws.symantec.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,digicert-cn.com
