@@ -1,6 +1,6 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月22日06:37:17
+# 更新: 2023年08月22日06:44:31
 # 数量: 1105条
 
 # CDN托管
@@ -99,7 +99,6 @@ DOMAIN-SUFFIX,wix.com
 DOMAIN-SUFFIX,yoti.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
-DOMAIN-SUFFIX,thawte.com
 DOMAIN,ts-ocsp.ws.symantec.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,digicert-cn.com
@@ -109,6 +108,7 @@ DOMAIN-SUFFIX,ocsp-certum.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,verisign.com
 IP-CIDR,152.195.38.76/32,no-resolve
