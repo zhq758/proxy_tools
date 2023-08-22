@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月22日06:44:31
-# 数量: 1105条
+# 更新: 2023年08月22日14:13:04
+# 数量: 1114条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -27,8 +27,6 @@ DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,hostpic.org
 DOMAIN-SUFFIX,i.loli.net
 DOMAIN-SUFFIX,ibb.co
-DOMAIN-SUFFIX,s2.loli.net
-DOMAIN-SUFFIX,smms.app
 DOMAIN-SUFFIX,imagegoto.com
 DOMAIN-SUFFIX,imgbox.com
 DOMAIN-SUFFIX,imgdd.com
@@ -38,7 +36,9 @@ DOMAIN-SUFFIX,png.cm
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,qpic.ws
+DOMAIN-SUFFIX,s2.loli.net
 DOMAIN-SUFFIX,s3.bmp.ovh
+DOMAIN-SUFFIX,smms.app
 
 # 网站服务
 DOMAIN,api.paugram.com
@@ -50,14 +50,12 @@ DOMAIN,click.linksynergy.com
 DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
-DOMAIN,static-ecst.licdn.com
 DOMAIN,rsms.me
-DOMAIN-SUFFIX,fontawesome.com
+DOMAIN,static-ecst.licdn.com
 DOMAIN,stats.mailgrate.com
 DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
-DOMAIN-SUFFIX,ddz.ee
 DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
@@ -66,8 +64,10 @@ DOMAIN-SUFFIX,arcade.software
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,ctfassets.net
+DOMAIN-SUFFIX,ddz.ee
 DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,drift.com
+DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,freshping.io
@@ -129,9 +129,6 @@ DOMAIN,clash-meta.wiki
 DOMAIN,codenong.com
 DOMAIN,docs.reiz.link
 DOMAIN,g-suite.cc
-DOMAIN-SUFFIX,xu.ci
-DOMAIN-SUFFIX,cn-sec.com
-DOMAIN-SUFFIX,notion.site
 DOMAIN,idappblog.com
 DOMAIN,jiasupanda.com
 DOMAIN,jichangtuijian.com
@@ -146,6 +143,7 @@ DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,askahh.com
 DOMAIN-SUFFIX,blueskyxn.com
 DOMAIN-SUFFIX,caoayu.top
+DOMAIN-SUFFIX,cn-sec.com
 DOMAIN-SUFFIX,codein.icu
 DOMAIN-SUFFIX,ffq.la
 DOMAIN-SUFFIX,ffqla.com
@@ -156,11 +154,13 @@ DOMAIN-SUFFIX,jobo88.com
 DOMAIN-SUFFIX,lmlphp.com
 DOMAIN-SUFFIX,machbbs.com
 DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,pc841.com
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,wi-cat.ru
+DOMAIN-SUFFIX,xu.ci
 DOMAIN-SUFFIX,zengqiangwl.com
 
 # 网站导航
@@ -185,13 +185,13 @@ DOMAIN-SUFFIX,zerotier.com
 DOMAIN,bgrem.ai
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
-DOMAIN-SUFFIX,webtechsurvey.com
 DOMAIN,who.is
 DOMAIN-SUFFIX,chinafirewalltest.com
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
 DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
+DOMAIN-SUFFIX,webtechsurvey.com
 # > 时间同步
 DOMAIN,time.is
 DOMAIN-SUFFIX,ntp.org
