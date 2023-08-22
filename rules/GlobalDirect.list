@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,hostpic.org
 DOMAIN-SUFFIX,i.loli.net
 DOMAIN-SUFFIX,ibb.co
+DOMAIN-SUFFIX,s2.loli.net
+DOMAIN-SUFFIX,smms.app
 DOMAIN-SUFFIX,imagegoto.com
 DOMAIN-SUFFIX,imgbox.com
 DOMAIN-SUFFIX,imgdd.com
@@ -48,11 +50,14 @@ DOMAIN,click.linksynergy.com
 DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
 DOMAIN,polyfill.io
+DOMAIN,static-ecst.licdn.com
 DOMAIN,rsms.me
+DOMAIN-SUFFIX,fontawesome.com
 DOMAIN,stats.mailgrate.com
 DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
+DOMAIN-SUFFIX,ddz.ee
 DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
@@ -124,6 +129,9 @@ DOMAIN,clash-meta.wiki
 DOMAIN,codenong.com
 DOMAIN,docs.reiz.link
 DOMAIN,g-suite.cc
+DOMAIN-SUFFIX,xu.ci
+DOMAIN-SUFFIX,cn-sec.com
+DOMAIN-SUFFIX,notion.site
 DOMAIN,idappblog.com
 DOMAIN,jiasupanda.com
 DOMAIN,jichangtuijian.com
@@ -177,6 +185,7 @@ DOMAIN-SUFFIX,zerotier.com
 DOMAIN,bgrem.ai
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
+DOMAIN-SUFFIX,webtechsurvey.com
 DOMAIN,who.is
 DOMAIN-SUFFIX,chinafirewalltest.com
 DOMAIN-SUFFIX,mermaid.live
