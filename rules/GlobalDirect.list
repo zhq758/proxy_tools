@@ -223,7 +223,8 @@ DOMAIN-SUFFIX,mozilla.org
 # > 国产GPT
 # > > Chat8
 DOMAIN,chatai.98dongman.com
-DOMAIN,lexiao66.com
+DOMAIN-SUFFIX,lexiao66.com
+DOMAIN,chat.lexiao360.com
 # > > TDChat
 DOMAIN-SUFFIX,tdchatapp.us
 DOMAIN-SUFFIX,tdvip.us
