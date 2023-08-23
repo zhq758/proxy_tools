@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jsonp-ip.com
 DOMAIN-SUFFIX,wtfismyip.com
+DOMAIN-SUFFIX,ipaddress.my
 
 # 测速
 DOMAIN-SUFFIX,speed.ffq-test.com

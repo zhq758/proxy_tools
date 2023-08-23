@@ -3,6 +3,9 @@
 # 更新: 2023年08月19日15:00:53
 # 数量: 6078条
 
+# CDN
+DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
+
 # Github
 IP-CIDR,140.82.113.25/32,no-resolve
 IP-CIDR,140.82.113.26/32,no-resolve
