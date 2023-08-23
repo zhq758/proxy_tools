@@ -1,16 +1,16 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月23日15:04:37
-# 数量: 1114条
+# 更新: 2023年08月23日16:52:04
+# 数量: 1135条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
+DOMAIN,fast.wistia.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
-DOMAIN,fast.wistia.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,fastgit.org
@@ -43,26 +43,16 @@ DOMAIN-SUFFIX,smms.app
 # 网站服务
 DOMAIN,api.paugram.com
 DOMAIN,app.adjust.com
-DOMAIN,gravatar.wp-china-yes.net
 DOMAIN,bing.myan.cf
 DOMAIN,browser.sentry-cdn.com
+DOMAIN,c.evidon.com
 DOMAIN,cdn.cookielaw.org
-DOMAIN-SUFFIX,hubapi.com
-DOMAIN-SUFFIX,usemessages.com
-DOMAIN-SUFFIX,hubspot.com
-DOMAIN-SUFFIX,hsappstatic.net
-DOMAIN-SUFFIX,hubspotfeedback.com
-DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN,click.linksynergy.com
 DOMAIN,giscus.app
-DOMAIN-SUFFIX,hs-scripts.com
-DOMAIN-SUFFIX,chilipiper.com
-DOMAIN,c.evidon.com
 DOMAIN,good.boyy.cc
-DOMAIN-SUFFIX,intercomassets.com
+DOMAIN,gravatar.wp-china-yes.net
 DOMAIN,polyfill.io
 DOMAIN,rsms.me
-DOMAIN-SUFFIX,imgix.net
 DOMAIN,static-ecst.licdn.com
 DOMAIN,stats.mailgrate.com
 DOMAIN,t.arcade.show
@@ -73,14 +63,15 @@ DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,arcade.software
+DOMAIN-SUFFIX,chilipiper.com
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,ddz.ee
 DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,drift.com
-DOMAIN-SUFFIX,driftt.com
 DOMAIN-SUFFIX,driftcdn.com
+DOMAIN-SUFFIX,driftt.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fortawesome.com
@@ -89,7 +80,15 @@ DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,gangguana.com
 DOMAIN-SUFFIX,getapp.com
 DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,hs-scripts.com
+DOMAIN-SUFFIX,hsappstatic.net
+DOMAIN-SUFFIX,hubapi.com
+DOMAIN-SUFFIX,hubspot.com
+DOMAIN-SUFFIX,hubspotfeedback.com
+DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,matomo.org
 DOMAIN-SUFFIX,medallia.com
@@ -111,6 +110,7 @@ DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,tidio.co
 DOMAIN-SUFFIX,tidio.com
 DOMAIN-SUFFIX,trustarc.com
+DOMAIN-SUFFIX,usemessages.com
 DOMAIN-SUFFIX,userleap.com
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,website-files.com
@@ -125,10 +125,10 @@ DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,ocsp-certum.com
 DOMAIN-SUFFIX,sectigo.com
-DOMAIN-SUFFIX,trust-provider.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,thawte.com
+DOMAIN-SUFFIX,trust-provider.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,verisign.com
 IP-CIDR,152.195.38.76/32,no-resolve
@@ -195,13 +195,13 @@ DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,zerotier.com
-# ＞ Adobe
-DOMAIN-SUFFIX,adobe.io
+# > Adobe
 DOMAIN-SUFFIX,adobe.com
-DOMAIN-SUFFIX,scene7.com
+DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobeccstatic.com
-DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,scene7.com
 # > 在线工具
 DOMAIN,bgrem.ai
 DOMAIN,cron.qqe2.com
@@ -261,8 +261,8 @@ DOMAIN,renzheapi.com
 DOMAIN,store.kakocloud.pro
 DOMAIN,store.kk-proxy.pro
 DOMAIN,sub.ops.ci
-DOMAIN,subscribe.lycoris.one
 DOMAIN,sub1.smallstrawberry.com
+DOMAIN,subscribe.lycoris.one
 DOMAIN,suying00.com
 DOMAIN,xfeugfyb.com
 DOMAIN-SUFFIX,bajie.run
