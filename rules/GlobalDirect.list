@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月23日16:52:04
-# 数量: 1135条
+# 更新: 2023年08月24日18:10:01
+# 数量: 1142条
 
 # CDN托管
 DOMAIN,cdn.cdnjson.com
@@ -49,13 +49,9 @@ DOMAIN,c.evidon.com
 DOMAIN,cdn.cookielaw.org
 DOMAIN,click.linksynergy.com
 DOMAIN,giscus.app
-DOMAIN-SUFFIX,growsumo.com
-DOMAIN-SUFFIX,framerstatic.com
 DOMAIN,good.boyy.cc
-DOMAIN-SUFFIX,helpscout.com
 DOMAIN,gravatar.wp-china-yes.net
 DOMAIN,polyfill.io
-DOMAIN-SUFFIX,gitbook.com
 DOMAIN,rsms.me
 DOMAIN,static-ecst.licdn.com
 DOMAIN,stats.mailgrate.com
@@ -79,11 +75,16 @@ DOMAIN-SUFFIX,driftt.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fortawesome.com
+DOMAIN-SUFFIX,framerstatic.com
+DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,freshping.io
 DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,gangguana.com
 DOMAIN-SUFFIX,getapp.com
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,growsumo.com
 DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,helpscout.com
 DOMAIN-SUFFIX,hs-scripts.com
 DOMAIN-SUFFIX,hsappstatic.net
 DOMAIN-SUFFIX,hubapi.com
@@ -97,8 +98,6 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,matomo.org
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,mux.com
-DOMAIN-SUFFIX,framerusercontent.com
-DOMAIN-SUFFIX,zoominfo.com
 DOMAIN-SUFFIX,openresty.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,postmarkapp.com
@@ -122,6 +121,7 @@ DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,website-files.com
 DOMAIN-SUFFIX,wix.com
 DOMAIN-SUFFIX,yoti.com
+DOMAIN-SUFFIX,zoominfo.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ts-ocsp.ws.symantec.com
@@ -213,10 +213,10 @@ DOMAIN,bgrem.ai
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
 DOMAIN,who.is
-DOMAIN-SUFFIX,regex.ai
 DOMAIN-SUFFIX,chinafirewalltest.com
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
+DOMAIN-SUFFIX,regex.ai
 DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
 DOMAIN-SUFFIX,webtechsurvey.com
