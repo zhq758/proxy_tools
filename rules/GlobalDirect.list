@@ -49,9 +49,13 @@ DOMAIN,c.evidon.com
 DOMAIN,cdn.cookielaw.org
 DOMAIN,click.linksynergy.com
 DOMAIN,giscus.app
+DOMAIN-SUFFIX,growsumo.com
+DOMAIN-SUFFIX,framerstatic.com
 DOMAIN,good.boyy.cc
+DOMAIN-SUFFIX,helpscout.com
 DOMAIN,gravatar.wp-china-yes.net
 DOMAIN,polyfill.io
+DOMAIN-SUFFIX,gitbook.com
 DOMAIN,rsms.me
 DOMAIN,static-ecst.licdn.com
 DOMAIN,stats.mailgrate.com
@@ -93,6 +97,8 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,matomo.org
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,mux.com
+DOMAIN-SUFFIX,framerusercontent.com
+DOMAIN-SUFFIX,zoominfo.com
 DOMAIN-SUFFIX,openresty.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,postmarkapp.com
@@ -207,6 +213,7 @@ DOMAIN,bgrem.ai
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
 DOMAIN,who.is
+DOMAIN-SUFFIX,regex.ai
 DOMAIN-SUFFIX,chinafirewalltest.com
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
