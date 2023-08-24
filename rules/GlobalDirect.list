@@ -3,43 +3,6 @@
 # 更新: 2023年08月24日18:10:01
 # 数量: 1142条
 
-# CDN托管
-DOMAIN,cdn.cdnjson.com
-DOMAIN,fast.wistia.net
-DOMAIN-SUFFIX,akamaiedge.net
-DOMAIN-SUFFIX,amazonwebservicesss.com
-DOMAIN-SUFFIX,b-cdn.net
-DOMAIN-SUFFIX,cdn77.com
-DOMAIN-SUFFIX,cdn77.org
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,fastgit.org
-DOMAIN-SUFFIX,footprint.net
-DOMAIN-SUFFIX,ghproxy.com
-DOMAIN-SUFFIX,jquery.com
-DOMAIN-SUFFIX,netlify.com
-DOMAIN-SUFFIX,unpkg.com
-IP-CIDR,172.224.26.144/32,no-resolve
-IP-CIDR,192.9.149.24/32,no-resolve
-# > 图床
-DOMAIN-SUFFIX,666546.xyz
-DOMAIN-SUFFIX,ax1x.com
-DOMAIN-SUFFIX,hostpic.org
-DOMAIN-SUFFIX,i.loli.net
-DOMAIN-SUFFIX,ibb.co
-DOMAIN-SUFFIX,imagegoto.com
-DOMAIN-SUFFIX,imgbox.com
-DOMAIN-SUFFIX,imgdd.com
-DOMAIN-SUFFIX,imgurl.org
-DOMAIN-SUFFIX,p.sda1.dev
-DOMAIN-SUFFIX,png.cm
-DOMAIN-SUFFIX,postimages.org
-DOMAIN-SUFFIX,postimg.cc
-DOMAIN-SUFFIX,qpic.ws
-DOMAIN-SUFFIX,s2.loli.net
-DOMAIN-SUFFIX,s3.bmp.ovh
-DOMAIN-SUFFIX,smms.app
-
 # 网站服务
 DOMAIN,api.paugram.com
 DOMAIN,app.adjust.com
@@ -68,6 +31,7 @@ DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,ddz.ee
+DOMAIN-SUFFIX,flexclip.com
 DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,driftcdn.com
@@ -138,6 +102,42 @@ DOMAIN-SUFFIX,trust-provider.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,verisign.com
 IP-CIDR,152.195.38.76/32,no-resolve
+# > CDN
+DOMAIN,cdn.cdnjson.com
+DOMAIN,fast.wistia.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,amazonwebservicesss.com
+DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,cdn77.com
+DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,fastgit.org
+DOMAIN-SUFFIX,footprint.net
+DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,unpkg.com
+IP-CIDR,172.224.26.144/32,no-resolve
+IP-CIDR,192.9.149.24/32,no-resolve
+# > 图床
+DOMAIN-SUFFIX,666546.xyz
+DOMAIN-SUFFIX,ax1x.com
+DOMAIN-SUFFIX,hostpic.org
+DOMAIN-SUFFIX,i.loli.net
+DOMAIN-SUFFIX,ibb.co
+DOMAIN-SUFFIX,imagegoto.com
+DOMAIN-SUFFIX,imgbox.com
+DOMAIN-SUFFIX,imgdd.com
+DOMAIN-SUFFIX,imgurl.org
+DOMAIN-SUFFIX,p.sda1.dev
+DOMAIN-SUFFIX,png.cm
+DOMAIN-SUFFIX,postimages.org
+DOMAIN-SUFFIX,postimg.cc
+DOMAIN-SUFFIX,qpic.ws
+DOMAIN-SUFFIX,s2.loli.net
+DOMAIN-SUFFIX,s3.bmp.ovh
+DOMAIN-SUFFIX,smms.app
 
 # 知识交流
 DOMAIN,1024.day
