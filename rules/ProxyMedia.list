@@ -1,7 +1,7 @@
 # 内容: 🎥 国外媒体 规则集
 # 备注: 本列表为国外媒体代理域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月23日16:52:13
-# 数量: 363条
+# 更新: 2023年08月25日13:23:20
+# 数量: 383条
 
 DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,lovense-api.com
@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,cdn.stripcash.com
 DOMAIN-SUFFIX,img.stripst.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,strpst.com
-# ＞ Xvideos
+# > Xvideos
 DOMAIN-SUFFIX,t.anexo.link
 # > Javdb
 DOMAIN-SUFFIX,javdb.com
@@ -46,11 +46,11 @@ DOMAIN-SUFFIX,sis001.us
 # > 调侃网
 DOMAIN-SUFFIX,tiaokan.info
 DOMAIN-SUFFIX,tiaokan.love
+DOMAIN-SUFFIX,tiaokan.store
 DOMAIN-SUFFIX,tiaokan.vip
 DOMAIN-SUFFIX,tiaokan01.com
 DOMAIN-SUFFIX,tiaokan02.com
 DOMAIN-SUFFIX,tiaokan03.com
-DOMAIN-SUFFIX,tiaokan.store
 
 
 # ------------------------------------------------
