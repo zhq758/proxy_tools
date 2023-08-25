@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月24日18:24:06
-# 数量: 1143条
+# 更新: 2023年08月25日13:23:11
+# 数量: 1144条
 
 # 网站服务
 DOMAIN,api.paugram.com
@@ -262,7 +262,6 @@ DOMAIN-SUFFIX,tdchatapp.us
 DOMAIN-SUFFIX,tdvip.us
 
 # VPN相关
-DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN,ahaspeed.com
 DOMAIN,api-subscribe.lycoris.cam
 DOMAIN,chiguayun.com
@@ -281,6 +280,7 @@ DOMAIN-SUFFIX,bajie.run
 DOMAIN-SUFFIX,bajie.wiki
 DOMAIN-SUFFIX,bygcloud.com
 DOMAIN-SUFFIX,ciyy.cc
+DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudspeed.online
 DOMAIN-SUFFIX,dearyou.one
 DOMAIN-SUFFIX,efcloud.bio
