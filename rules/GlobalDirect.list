@@ -46,7 +46,6 @@ DOMAIN-SUFFIX,freshping.io
 DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,gangguana.com
 DOMAIN-SUFFIX,getapp.com
-DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,growsumo.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,helpscout.com
@@ -58,6 +57,7 @@ DOMAIN-SUFFIX,hubspotfeedback.com
 DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,imgix.com
 DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,instant.page
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,matomo.org
@@ -124,6 +124,8 @@ IP-CIDR,192.9.149.24/32,no-resolve
 # > > Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,compute-pipe.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflareclient.com
 # > 图床
 DOMAIN-SUFFIX,666546.xyz
 DOMAIN-SUFFIX,ax1x.com
@@ -144,23 +146,28 @@ DOMAIN-SUFFIX,s3.bmp.ovh
 DOMAIN-SUFFIX,smms.app
 
 # 知识交流
-DOMAIN,1024.day
-DOMAIN,404world.in
-DOMAIN,404world.tk
-DOMAIN,bbs.zsxwz.com
-DOMAIN,blog.dengxj.com
-DOMAIN,blog.dingtone.me
-DOMAIN,clash-meta.wiki
-DOMAIN,codenong.com
-DOMAIN,docs.reiz.link
-DOMAIN,g-suite.cc
-DOMAIN,idappblog.com
-DOMAIN,jiasupanda.com
-DOMAIN,jichangtuijian.com
-DOMAIN,kejileida.net
-DOMAIN,luvsia.com
-DOMAIN,oliverhou.com
-DOMAIN,stash.wiki
+DOMAIN-SUFFIX,1024.day
+DOMAIN-SUFFIX,404world.in
+DOMAIN-SUFFIX,404world.tk
+DOMAIN-SUFFIX,bbs.zsxwz.com
+DOMAIN-SUFFIX,blog.dengxj.com
+DOMAIN-SUFFIX,surge.tel
+DOMAIN-SUFFIX,blog.dingtone.me
+DOMAIN-SUFFIX,wangwangit.com
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,clash-meta.wiki
+DOMAIN-SUFFIX,codenong.com
+DOMAIN-SUFFIX,docs.reiz.link
+DOMAIN-SUFFIX,g-suite.cc
+DOMAIN-SUFFIX,idappblog.com
+DOMAIN-SUFFIX,jiasupanda.com
+DOMAIN-SUFFIX,jichangtuijian.com
+DOMAIN-SUFFIX,kejileida.net
+DOMAIN-SUFFIX,luvsia.com
+DOMAIN-SUFFIX,y4er.com
+DOMAIN-SUFFIX,oliverhou.com
+DOMAIN-SUFFIX,stash.wiki
 DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,920.im
@@ -178,6 +185,7 @@ DOMAIN-SUFFIX,jamesdailylife.com
 DOMAIN-SUFFIX,jobo88.com
 DOMAIN-SUFFIX,lmlphp.com
 DOMAIN-SUFFIX,machbbs.com
+DOMAIN-SUFFIX,getupnote.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,pc841.com
@@ -205,6 +213,7 @@ DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,zerotier.com
+DOMAIN-SUFFIX,boxjs.app
 # > Adobe
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
@@ -365,6 +374,8 @@ DOMAIN-SUFFIX,buymeacoffee.com
 DOMAIN-SUFFIX,payment.dog
 DOMAIN-SUFFIX,plushare.tk
 DOMAIN-SUFFIX,uugetting.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,braintree-api.com
 # > > stripe
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
