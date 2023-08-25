@@ -258,6 +258,7 @@ DOMAIN-SUFFIX,tdchatapp.us
 DOMAIN-SUFFIX,tdvip.us
 
 # VPN相关
+DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN,ahaspeed.com
 DOMAIN,api-subscribe.lycoris.cam
 DOMAIN,chiguayun.com

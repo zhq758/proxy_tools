@@ -3,6 +3,7 @@
 # 更新: 2023年08月21日09:57:54
 # 数量: 109条
 
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,nelreports.net
 IP-CIDR,13.107.237.254/32,no-resolve
 IP-CIDR,13.107.3.254/32,no-resolve

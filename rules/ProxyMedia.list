@@ -34,6 +34,8 @@ DOMAIN-SUFFIX,cdn.stripcash.com
 DOMAIN-SUFFIX,img.stripst.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,strpst.com
+# ＞ Xvideos
+DOMAIN-SUFFIX,t.anexo.link
 # > Javdb
 DOMAIN-SUFFIX,javdb.com
 # > SiFang Club
@@ -48,6 +50,7 @@ DOMAIN-SUFFIX,tiaokan.vip
 DOMAIN-SUFFIX,tiaokan01.com
 DOMAIN-SUFFIX,tiaokan02.com
 DOMAIN-SUFFIX,tiaokan03.com
+DOMAIN-SUFFIX,tiaokan.store
 
 
 # ------------------------------------------------
@@ -424,3 +427,22 @@ USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
+# Porn
+DOMAIN-KEYWORD,porn
+DOMAIN-SUFFIX,8teenxxx.com
+DOMAIN-SUFFIX,ahcdn.com
+DOMAIN-SUFFIX,bcvcdn.com
+DOMAIN-SUFFIX,bongacams.com
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,dditscdn.com
+DOMAIN-SUFFIX,livejasmin.com
+DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,spankbang.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,xnxx-cdn.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,ypncdn.com
