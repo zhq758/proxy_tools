@@ -9,6 +9,7 @@ DOMAIN,app.adjust.com
 DOMAIN,bing.myan.cf
 DOMAIN,browser.sentry-cdn.com
 DOMAIN,c.evidon.com
+DOMAIN-SUFFIX,cedexis-test.com
 DOMAIN,cdn.cookielaw.org
 DOMAIN,click.linksynergy.com
 DOMAIN,giscus.app
@@ -105,12 +106,12 @@ IP-CIDR,152.195.38.76/32,no-resolve
 # > CDN
 DOMAIN,cdn.cdnjson.com
 DOMAIN,fast.wistia.net
+DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,footprint.net
@@ -120,6 +121,9 @@ DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,unpkg.com
 IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
+# ＞ ＞ Cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,compute-pipe.com
 # > 图床
 DOMAIN-SUFFIX,666546.xyz
 DOMAIN-SUFFIX,ax1x.com

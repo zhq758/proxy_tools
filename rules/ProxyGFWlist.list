@@ -3,9 +3,6 @@
 # 更新: 2023年08月23日16:52:04
 # 数量: 6079条
 
-# CDN
-DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
-
 # Github
 IP-CIDR,140.82.113.25/32,no-resolve
 IP-CIDR,140.82.113.26/32,no-resolve
@@ -15,9 +12,6 @@ IP-CIDR,20.205.243.168/32,no-resolve
 
 # Google
 IP-CIDR,172.217.160.74/32,no-resolve
-
-# 图床
-DOMAIN,sm.ms
 
 # 知识分享
 DOMAIN,duangks.com
@@ -30,22 +24,27 @@ DOMAIN-SUFFIX,v2rayssr.com
 
 # 网站服务
 DOMAIN-SUFFIX,zendesk.com
-# > Sentry
+DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,sentry.io
 IP-CIDR,34.120.195.249/32,no-resolve
+# ＞ CDN
+DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
+# ＞ 图床
+DOMAIN,sm.ms
 
 # 工具
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,wirewax.com
-# > VPN
+# > Docker
+DOMAIN-SUFFIX,docker.io
+
+# VPN相关
 DOMAIN,xf.gl
 DOMAIN,xn--6nq44r2uh9rhj7f.com
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,xfltd.org
-# > Docker
-DOMAIN-SUFFIX,docker.io
 
 
 # ------------------------------------------------
