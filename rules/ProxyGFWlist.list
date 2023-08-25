@@ -1,7 +1,7 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外代理相关域名，不含Telegram、OpenAi及媒体，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月25日13:23:11
-# 数量: 6061条
+# 更新: 2023年08月25日14:17:36
+# 数量: 6062条
 
 # Github
 IP-CIDR,140.82.113.25/32,no-resolve
@@ -23,13 +23,13 @@ DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,v2rayssr.com
 
 # 网站服务
-DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,zendesk.com
 IP-CIDR,34.120.195.249/32,no-resolve
-# ＞ CDN
+# > CDN
 DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
-# ＞ 图床
+# > 图床
 DOMAIN,sm.ms
 
 # 工具
