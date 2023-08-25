@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月25日14:17:35
-# 数量: 1147条
+# 更新: 2023年08月25日17:10:32
+# 数量: 1158条
 
 # 网站服务
 DOMAIN,api.paugram.com
@@ -123,9 +123,9 @@ IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
 # > > Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,compute-pipe.com
 # > 图床
 DOMAIN-SUFFIX,666546.xyz
 DOMAIN-SUFFIX,ax1x.com
@@ -146,54 +146,54 @@ DOMAIN-SUFFIX,s3.bmp.ovh
 DOMAIN-SUFFIX,smms.app
 
 # 知识交流
+DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,1024.day
 DOMAIN-SUFFIX,404world.in
 DOMAIN-SUFFIX,404world.tk
-DOMAIN-SUFFIX,bbs.zsxwz.com
-DOMAIN-SUFFIX,blog.dengxj.com
-DOMAIN-SUFFIX,surge.tel
-DOMAIN-SUFFIX,blog.dingtone.me
-DOMAIN-SUFFIX,wangwangit.com
-DOMAIN-SUFFIX,gitbook.com
-DOMAIN-SUFFIX,gitbook.io
-DOMAIN-SUFFIX,clash-meta.wiki
-DOMAIN-SUFFIX,codenong.com
-DOMAIN-SUFFIX,docs.reiz.link
-DOMAIN-SUFFIX,g-suite.cc
-DOMAIN-SUFFIX,idappblog.com
-DOMAIN-SUFFIX,jiasupanda.com
-DOMAIN-SUFFIX,jichangtuijian.com
-DOMAIN-SUFFIX,kejileida.net
-DOMAIN-SUFFIX,luvsia.com
-DOMAIN-SUFFIX,y4er.com
-DOMAIN-SUFFIX,oliverhou.com
-DOMAIN-SUFFIX,stash.wiki
-DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,920.im
 DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,askahh.com
+DOMAIN-SUFFIX,bbs.zsxwz.com
+DOMAIN-SUFFIX,blog.dengxj.com
+DOMAIN-SUFFIX,blog.dingtone.me
 DOMAIN-SUFFIX,blueskyxn.com
 DOMAIN-SUFFIX,caoayu.top
+DOMAIN-SUFFIX,clash-meta.wiki
 DOMAIN-SUFFIX,cn-sec.com
 DOMAIN-SUFFIX,codein.icu
+DOMAIN-SUFFIX,codenong.com
+DOMAIN-SUFFIX,docs.reiz.link
 DOMAIN-SUFFIX,ffq.la
 DOMAIN-SUFFIX,ffqla.com
+DOMAIN-SUFFIX,g-suite.cc
+DOMAIN-SUFFIX,getupnote.com
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,ibruce.info
+DOMAIN-SUFFIX,idappblog.com
 DOMAIN-SUFFIX,ioiox.com
 DOMAIN-SUFFIX,jamesdailylife.com
+DOMAIN-SUFFIX,jiasupanda.com
+DOMAIN-SUFFIX,jichangtuijian.com
 DOMAIN-SUFFIX,jobo88.com
+DOMAIN-SUFFIX,kejileida.net
 DOMAIN-SUFFIX,lmlphp.com
+DOMAIN-SUFFIX,luvsia.com
 DOMAIN-SUFFIX,machbbs.com
-DOMAIN-SUFFIX,getupnote.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,oliverhou.com
 DOMAIN-SUFFIX,pc841.com
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
+DOMAIN-SUFFIX,stash.wiki
+DOMAIN-SUFFIX,surge.tel
+DOMAIN-SUFFIX,wangwangit.com
 DOMAIN-SUFFIX,wi-cat.ru
 DOMAIN-SUFFIX,xu.ci
+DOMAIN-SUFFIX,y4er.com
 DOMAIN-SUFFIX,zengqiangwl.com
 
 # 网站导航
@@ -204,6 +204,7 @@ DOMAIN-SUFFIX,xiazai.vin
 # 工具类
 DOMAIN,api.nolanstore.cc
 DOMAIN,winscp.net
+DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,citrix.com
 DOMAIN-SUFFIX,fiddler2.com
 DOMAIN-SUFFIX,home-assistant.io
@@ -213,7 +214,6 @@ DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,verysync.com
 DOMAIN-SUFFIX,zerotier.com
-DOMAIN-SUFFIX,boxjs.app
 # > Adobe
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
@@ -370,12 +370,12 @@ DOMAIN-SUFFIX,agoda.net
 # > 支付
 DOMAIN,shop.ioiox.xyz
 DOMAIN,u.mcashier.xyz
+DOMAIN-SUFFIX,braintree-api.com
 DOMAIN-SUFFIX,buymeacoffee.com
 DOMAIN-SUFFIX,payment.dog
+DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,plushare.tk
 DOMAIN-SUFFIX,uugetting.com
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,braintree-api.com
 # > > stripe
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
