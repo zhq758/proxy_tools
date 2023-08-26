@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月25日17:10:32
-# 数量: 1158条
+# 更新: 2023年08月26日18:19:29
+# 数量: 1159条
 
 # 网站服务
 DOMAIN,api.paugram.com
@@ -226,8 +226,8 @@ DOMAIN,bgrem.ai
 DOMAIN,cron.qqe2.com
 DOMAIN,dbcha.com
 DOMAIN,who.is
-DOMAIN-SUFFIX,mainlandip.com
 DOMAIN-SUFFIX,chinafirewalltest.com
+DOMAIN-SUFFIX,mainlandip.com
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
 DOMAIN-SUFFIX,regex.ai
