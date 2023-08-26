@@ -279,8 +279,9 @@ DOMAIN,clash.razord.top
 DOMAIN,dy.xftld.xyz
 DOMAIN,jscloud.best
 DOMAIN,renzheapi.com
-DOMAIN,store.kakocloud.pro
-DOMAIN,store.kk-proxy.pro
+DOMAIN-SUFFIX,ktmcloud.top
+DOMAIN-SUFFIX,kakocloud.pro
+DOMAIN-SUFFIX,kk-proxy.pro
 DOMAIN,sub.ops.ci
 DOMAIN,sub1.smallstrawberry.com
 DOMAIN,subscribe.lycoris.one
