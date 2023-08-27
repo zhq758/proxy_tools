@@ -49,6 +49,6 @@ jobs:
         mv new_surge.txt rules/Adblack.list
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add Adblack.list
+        git add rules/Adblack.list
         git commit -m "Update Adblack.list"
         git push
