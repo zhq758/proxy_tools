@@ -1,7 +1,7 @@
 # 内容: 📺 国内媒体 规则集
 # 备注: 本列表为国内媒体直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月27日20:21:15
-# 数量: 234条
+# 更新: 2023年08月27日20:34:44
+# 数量: 235条
 
 # 资讯
 DOMAIN-SUFFIX,0xzx.com
@@ -18,11 +18,11 @@ DOMAIN-SUFFIX,24xunlei.com
 DOMAIN-SUFFIX,866161.xyz
 DOMAIN-SUFFIX,btwuji.com
 DOMAIN-SUFFIX,dgbosun.com
-DOMAIN-SUFFIX,piaohua.com
 DOMAIN-SUFFIX,dy2018.com
 DOMAIN-SUFFIX,dygod.net
 DOMAIN-SUFFIX,dytt8.com
 DOMAIN-SUFFIX,m4c7r.com
+DOMAIN-SUFFIX,piaohua.com
 DOMAIN-SUFFIX,rve4.com
 DOMAIN-SUFFIX,x5d3b.com
 DOMAIN-SUFFIX,xinsheng168.com
