@@ -4,19 +4,19 @@
 # 数量: 1160条
 
 # 网站服务
-DOMAIN,api.paugram.com
-DOMAIN,app.adjust.com
-DOMAIN,bing.myan.cf
-DOMAIN,browser.sentry-cdn.com
-DOMAIN,c.evidon.com
-DOMAIN,cdn.cookielaw.org
-DOMAIN,click.linksynergy.com
+DOMAIN-SUFFIX,api.paugram.com
+DOMAIN-SUFFIX,app.adjust.com
+DOMAIN-SUFFIX,bing.myan.cf
+DOMAIN-SUFFIX,browser.sentry-cdn.com
+DOMAIN-SUFFIX,c.evidon.com
+DOMAIN-SUFFIX,cdn.cookielaw.org
+DOMAIN-SUFFIX,click.linksynergy.com
 DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
 DOMAIN,gravatar.wp-china-yes.net
 DOMAIN,polyfill.io
-DOMAIN,rsms.me
-DOMAIN,static-ecst.licdn.com
+DOMAIN-SUFFIX,rsms.me
+DOMAIN-SUFFIX,static-ecst.licdn.com
 DOMAIN,stats.mailgrate.com
 DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
