@@ -11,12 +11,15 @@ DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,bangumi.tv
 
 # 影视资源
-DOMAIN,smdy91.com
-DOMAIN,szgpmy.com
+DOMAIN-SUFFIX,smdy91.com
+DOMAIN-SUFFIX,szgpmy.com
 DOMAIN-SUFFIX,216441.xyz
+DOMAIN-SUFFIX,xunleidianying.com
 DOMAIN-SUFFIX,24xunlei.com
 DOMAIN-SUFFIX,866161.xyz
 DOMAIN-SUFFIX,btwuji.com
+DOMAIN-SUFFIX,22tu.com
+DOMAIN-SUFFIX,yikedy.cc
 DOMAIN-SUFFIX,dgbosun.com
 DOMAIN-SUFFIX,dy2018.com
 DOMAIN-SUFFIX,dydytt.net
