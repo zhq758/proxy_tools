@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - 'rules/*.list'
+      - '!Adblack.list'
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -65,7 +66,7 @@ jobs:
         run: |
           # 获取当前时间和规则总数
           new_date=$(TZ='Asia/Shanghai' date +'%Y年%m月%d日%H:%M:%S')
-          count_1=$(grep -v -e '^$' -e '^#' -e '^!' rules/*.list | wc -l)
+          count_1=$(grep -v -e '^$' -e '^#' -e '^!' -e 'Adblack\.list' rules/*.list | wc -l)
 
           # 更新README.md内容
           sed -i "s/最近更新: .*/最近更新: $new_date/" README.md
