@@ -1,22 +1,13 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月26日20:35:12
+# 更新: 2023年08月27日20:40:23
 # 数量: 1160条
 
 # 网站服务
-DOMAIN-SUFFIX,api.paugram.com
-DOMAIN-SUFFIX,app.adjust.com
-DOMAIN-SUFFIX,bing.myan.cf
-DOMAIN-SUFFIX,browser.sentry-cdn.com
-DOMAIN-SUFFIX,c.evidon.com
-DOMAIN-SUFFIX,cdn.cookielaw.org
-DOMAIN-SUFFIX,click.linksynergy.com
 DOMAIN,giscus.app
 DOMAIN,good.boyy.cc
 DOMAIN,gravatar.wp-china-yes.net
 DOMAIN,polyfill.io
-DOMAIN-SUFFIX,rsms.me
-DOMAIN-SUFFIX,static-ecst.licdn.com
 DOMAIN,stats.mailgrate.com
 DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
@@ -25,9 +16,16 @@ DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.paugram.com
+DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,arcade.software
+DOMAIN-SUFFIX,bing.myan.cf
+DOMAIN-SUFFIX,browser.sentry-cdn.com
+DOMAIN-SUFFIX,c.evidon.com
+DOMAIN-SUFFIX,cdn.cookielaw.org
 DOMAIN-SUFFIX,cedexis-test.com
 DOMAIN-SUFFIX,chilipiper.com
+DOMAIN-SUFFIX,click.linksynergy.com
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,ctfassets.net
@@ -69,11 +67,13 @@ DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,qualified.com
 DOMAIN-SUFFIX,ravenjs.com
+DOMAIN-SUFFIX,rsms.me
 DOMAIN-SUFFIX,shipbook.io
 DOMAIN-SUFFIX,sitefinity.com
 DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,squarespace.com
+DOMAIN-SUFFIX,static-ecst.licdn.com
 DOMAIN-SUFFIX,swiftype.com
 DOMAIN-SUFFIX,swiftypecdn.com
 DOMAIN-SUFFIX,telerik.com
