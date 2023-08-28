@@ -369,7 +369,9 @@ DOMAIN-SUFFIX,lenovomm.com
 
 # 生活出行
 DOMAIN-SUFFIX,bioscompass.com
-# > agoda
+# ＞ 招聘
+DOMAIN-SUFFIX,glassdoor.com
+# > Agoda
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
 # > 支付
@@ -381,7 +383,7 @@ DOMAIN-SUFFIX,payment.dog
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,plushare.tk
 DOMAIN-SUFFIX,uugetting.com
-# > > stripe
+# > > Stripe
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
