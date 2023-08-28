@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月28日21:53:46
-# 数量: 1164条
+# 更新: 2023年08月29日01:11:28
+# 数量: 1165条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -45,7 +45,6 @@ DOMAIN-SUFFIX,freshping.io
 DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,gangguana.com
 DOMAIN-SUFFIX,getapp.com
-DOMAIN-SUFFIX,render.com
 DOMAIN-SUFFIX,growsumo.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,helpscout.com
@@ -69,6 +68,7 @@ DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,qualified.com
 DOMAIN-SUFFIX,ravenjs.com
+DOMAIN-SUFFIX,render.com
 DOMAIN-SUFFIX,rsms.me
 DOMAIN-SUFFIX,shipbook.io
 DOMAIN-SUFFIX,sitefinity.com
