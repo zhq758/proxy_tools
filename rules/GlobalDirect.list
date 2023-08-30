@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月30日14:40:25
-# 数量: 1167条
+# 更新: 2023年08月30日17:44:56
+# 数量: 1168条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -206,12 +206,12 @@ DOMAIN-SUFFIX,msn90.com
 DOMAIN-SUFFIX,xiazai.vin
 
 # 工具类
-DOMAIN-SUFFIX,gitlab.net
 DOMAIN,api.nolanstore.cc
 DOMAIN,winscp.net
 DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,citrix.com
 DOMAIN-SUFFIX,fiddler2.com
+DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,my-netdata.io
 DOMAIN-SUFFIX,pnpm.io
