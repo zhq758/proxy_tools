@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年08月29日01:11:28
-# 数量: 1165条
+# 更新: 2023年08月30日14:40:25
+# 数量: 1167条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -33,7 +33,6 @@ DOMAIN-SUFFIX,ddz.ee
 DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,driftcdn.com
-DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,driftt.com
 DOMAIN-SUFFIX,flexclip.com
 DOMAIN-SUFFIX,fontawesome.com
@@ -60,6 +59,7 @@ DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,instant.page
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,matomo.org
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,mux.com
