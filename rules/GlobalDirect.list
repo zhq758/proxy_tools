@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,ddz.ee
 DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,driftcdn.com
+DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,driftt.com
 DOMAIN-SUFFIX,flexclip.com
 DOMAIN-SUFFIX,fontawesome.com
@@ -127,6 +128,7 @@ IP-CIDR,192.9.149.24/32,no-resolve
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,compute-pipe.com
 # > 图床
 DOMAIN-SUFFIX,666546.xyz
