@@ -166,6 +166,7 @@ DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,clash-meta.wiki
 DOMAIN-SUFFIX,cn-sec.com
 DOMAIN-SUFFIX,codein.icu
+DOMAIN-SUFFIX,52dianzi.com
 DOMAIN-SUFFIX,codenong.com
 DOMAIN-SUFFIX,docs.reiz.link
 DOMAIN-SUFFIX,ffq.la
@@ -337,6 +338,8 @@ DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
 
 # 域名服务
 DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,freenom.world
+DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,namesilo.com
 
 # IOS相关
