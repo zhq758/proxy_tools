@@ -284,6 +284,7 @@ DOMAIN,chiguayun.com
 DOMAIN,clash.razord.top
 DOMAIN,dy.xftld.xyz
 DOMAIN,jscloud.best
+DOMAIN-SUFFIX,ktmurl.top
 DOMAIN,renzheapi.com
 DOMAIN,sub.ops.ci
 DOMAIN,sub1.smallstrawberry.com
@@ -407,6 +408,8 @@ DOMAIN-SUFFIX,abcvg.info
 DOMAIN-SUFFIX,bt.endpot.com
 DOMAIN-SUFFIX,down6.8fly.link
 DOMAIN-SUFFIX,loadbt.com
+DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,torrent
 DOMAIN-SUFFIX,stealth.si
 DOMAIN-SUFFIX,t1.hloli.org
 DOMAIN-SUFFIX,tr.burnabyhighstar.com
