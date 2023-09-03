@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月03日00:45:44
-# 数量: 1174条
+# 更新: 2023年09月03日22:26:03
+# 数量: 1176条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -15,7 +15,6 @@ DOMAIN,utteranc.es
 DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
-DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.paugram.com
 DOMAIN-SUFFIX,app.adjust.com
@@ -84,6 +83,7 @@ DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,tidio.co
 DOMAIN-SUFFIX,tidio.com
 DOMAIN-SUFFIX,trustarc.com
+DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,usemessages.com
 DOMAIN-SUFFIX,userleap.com
 DOMAIN-SUFFIX,webflow.com
@@ -171,7 +171,6 @@ DOMAIN-SUFFIX,codein.icu
 DOMAIN-SUFFIX,codenong.com
 DOMAIN-SUFFIX,docs.reiz.link
 DOMAIN-SUFFIX,ffq.la
-DOMAIN-SUFFIX,likecs.com
 DOMAIN-SUFFIX,ffqla.com
 DOMAIN-SUFFIX,g-suite.cc
 DOMAIN-SUFFIX,getupnote.com
@@ -185,6 +184,7 @@ DOMAIN-SUFFIX,jiasupanda.com
 DOMAIN-SUFFIX,jichangtuijian.com
 DOMAIN-SUFFIX,jobo88.com
 DOMAIN-SUFFIX,kejileida.net
+DOMAIN-SUFFIX,likecs.com
 DOMAIN-SUFFIX,lmlphp.com
 DOMAIN-SUFFIX,luvsia.com
 DOMAIN-SUFFIX,machbbs.com
