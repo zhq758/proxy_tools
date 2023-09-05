@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月04日20:57:18
-# 数量: 1179条
+# 更新: 2023年09月05日17:26:04
+# 数量: 1183条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -13,11 +13,9 @@ DOMAIN,t.arcade.show
 DOMAIN,use.typekit.net
 DOMAIN,utteranc.es
 DOMAIN-SUFFIX,6sense.com
-DOMAIN-SUFFIX,polyfill.io
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,algolia.net
-DOMAIN-SUFFIX,iframe.ly
 DOMAIN-SUFFIX,api.paugram.com
 DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,arcade.software
@@ -56,6 +54,7 @@ DOMAIN-SUFFIX,hubapi.com
 DOMAIN-SUFFIX,hubspot.com
 DOMAIN-SUFFIX,hubspotfeedback.com
 DOMAIN-SUFFIX,hubspotusercontent-na1.net
+DOMAIN-SUFFIX,iframe.ly
 DOMAIN-SUFFIX,imgix.com
 DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,instant.page
@@ -67,6 +66,7 @@ DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,mux.com
 DOMAIN-SUFFIX,openresty.com
 DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,polyfill.io
 DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,qualified.com
@@ -165,7 +165,6 @@ DOMAIN-SUFFIX,askahh.com
 DOMAIN-SUFFIX,bbs.zsxwz.com
 DOMAIN-SUFFIX,blog.dengxj.com
 DOMAIN-SUFFIX,blog.dingtone.me
-DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,blueskyxn.com
 DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,clash-meta.wiki
@@ -191,6 +190,7 @@ DOMAIN-SUFFIX,likecs.com
 DOMAIN-SUFFIX,lmlphp.com
 DOMAIN-SUFFIX,luvsia.com
 DOMAIN-SUFFIX,machbbs.com
+DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,oliverhou.com
@@ -286,22 +286,13 @@ DOMAIN-SUFFIX,tdvip.us
 
 # VPN相关
 DOMAIN-SUFFIX,ahaspeed.com
-DOMAIN-SUFFIX,lycoris.cam
-DOMAIN-SUFFIX,chiguayun.com
-DOMAIN-SUFFIX,clash.razord.top
-DOMAIN-SUFFIX,xftld.xyz
-DOMAIN-SUFFIX,jscloud.best
 DOMAIN-SUFFIX,atomlantis.cloud
-DOMAIN-SUFFIX,renzheapi.com
-DOMAIN-SUFFIX,ops.ci
-DOMAIN-SUFFIX,smallstrawberry.com
-DOMAIN-SUFFIX,lycoris.one
-DOMAIN-SUFFIX,suying00.com
-DOMAIN-SUFFIX,xfeugfyb.com
 DOMAIN-SUFFIX,bajie.run
 DOMAIN-SUFFIX,bajie.wiki
 DOMAIN-SUFFIX,bygcloud.com
+DOMAIN-SUFFIX,chiguayun.com
 DOMAIN-SUFFIX,ciyy.cc
+DOMAIN-SUFFIX,clash.razord.top
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudspeed.online
 DOMAIN-SUFFIX,dearyou.one
@@ -310,21 +301,30 @@ DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,gaowosiquanjia.top
 DOMAIN-SUFFIX,ispeed.online
 DOMAIN-SUFFIX,jiedian.stream
+DOMAIN-SUFFIX,jscloud.best
 DOMAIN-SUFFIX,jscloud.cc
 DOMAIN-SUFFIX,kakocloud.pro
 DOMAIN-SUFFIX,kk-proxy.pro
 DOMAIN-SUFFIX,ktmcloud.top
 DOMAIN-SUFFIX,ktmurl.top
+DOMAIN-SUFFIX,lycoris.cam
+DOMAIN-SUFFIX,lycoris.one
 DOMAIN-SUFFIX,magicschool.cc
+DOMAIN-SUFFIX,ops.ci
 DOMAIN-SUFFIX,paopao.dog
 DOMAIN-SUFFIX,portal.lyun.one
+DOMAIN-SUFFIX,renzheapi.com
 DOMAIN-SUFFIX,sakuras.cloud
+DOMAIN-SUFFIX,smallstrawberry.com
 DOMAIN-SUFFIX,spcloud.info
+DOMAIN-SUFFIX,suying00.com
 DOMAIN-SUFFIX,vipnode.online
+DOMAIN-SUFFIX,xfeugfyb.com
 DOMAIN-SUFFIX,xfltd.cc
 DOMAIN-SUFFIX,xfltd.net
 DOMAIN-SUFFIX,xfltd.top
 DOMAIN-SUFFIX,xfltd.xyz
+DOMAIN-SUFFIX,xftld.xyz
 DOMAIN-SUFFIX,xsus.buzz
 DOMAIN-SUFFIX,xsus.io
 DOMAIN-SUFFIX,yiyuan.cyou
