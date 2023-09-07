@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月07日21:14:41
-# 数量: 1187条
+# 更新: 2023年09月07日21:25:07
+# 数量: 1189条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -143,8 +143,8 @@ DOMAIN-SUFFIX,imagegoto.com
 DOMAIN-SUFFIX,imgbox.com
 DOMAIN-SUFFIX,imgdd.com
 DOMAIN-SUFFIX,imgurl.org
-DOMAIN-SUFFIX,p.sda1.dev
 DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,p.sda1.dev
 DOMAIN-SUFFIX,png.cm
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,postimg.cc
@@ -162,7 +162,6 @@ DOMAIN-SUFFIX,52dianzi.com
 DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,920.im
 DOMAIN-SUFFIX,aijichang.com
-DOMAIN-SUFFIX,ibireme.com
 DOMAIN-SUFFIX,askahh.com
 DOMAIN-SUFFIX,bbs.zsxwz.com
 DOMAIN-SUFFIX,blog.dengxj.com
@@ -180,6 +179,7 @@ DOMAIN-SUFFIX,g-suite.cc
 DOMAIN-SUFFIX,getupnote.com
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,ibireme.com
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,idappblog.com
 DOMAIN-SUFFIX,ioiox.com
