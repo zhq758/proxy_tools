@@ -266,8 +266,9 @@ DOMAIN-SUFFIX,similarweb.io
 # > 消息推送
 DOMAIN-SUFFIX,pushplus.plus
 # > 过滤器
-DOMAIN,anti-ad.net
-DOMAIN,easylist-downloads.adblockplus.org
+DOMAIN-SUFFIX,anti-ad.net
+DOMAIN-SUFFIX,getadblock.com
+DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adaway.org
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.info
