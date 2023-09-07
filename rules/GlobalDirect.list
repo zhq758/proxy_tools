@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月05日17:26:04
-# 数量: 1183条
+# 更新: 2023年09月07日21:14:41
+# 数量: 1187条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -159,7 +159,6 @@ DOMAIN-SUFFIX,404world.in
 DOMAIN-SUFFIX,404world.tk
 DOMAIN-SUFFIX,52dianzi.com
 DOMAIN-SUFFIX,91ai.net
-DOMAIN-SUFFIX,mymuwu.net
 DOMAIN-SUFFIX,920.im
 DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,askahh.com
@@ -168,7 +167,6 @@ DOMAIN-SUFFIX,blog.dengxj.com
 DOMAIN-SUFFIX,blog.dingtone.me
 DOMAIN-SUFFIX,blueskyxn.com
 DOMAIN-SUFFIX,caoayu.top
-DOMAIN-SUFFIX,songw.top
 DOMAIN-SUFFIX,clash-meta.wiki
 DOMAIN-SUFFIX,cn-sec.com
 DOMAIN-SUFFIX,codein.icu
@@ -193,6 +191,7 @@ DOMAIN-SUFFIX,lmlphp.com
 DOMAIN-SUFFIX,luvsia.com
 DOMAIN-SUFFIX,machbbs.com
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,mymuwu.net
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,oliverhou.com
@@ -200,6 +199,7 @@ DOMAIN-SUFFIX,pc841.com
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,shuyz.com
+DOMAIN-SUFFIX,songw.top
 DOMAIN-SUFFIX,stash.wiki
 DOMAIN-SUFFIX,surge.tel
 DOMAIN-SUFFIX,wangwangit.com
@@ -287,6 +287,7 @@ DOMAIN-SUFFIX,tdchatapp.us
 DOMAIN-SUFFIX,tdvip.us
 
 # VPN相关
+DOMAIN-SUFFIX,2220.it
 DOMAIN-SUFFIX,ahaspeed.com
 DOMAIN-SUFFIX,atomlantis.cloud
 DOMAIN-SUFFIX,bajie.run
@@ -294,7 +295,6 @@ DOMAIN-SUFFIX,bajie.wiki
 DOMAIN-SUFFIX,bygcloud.com
 DOMAIN-SUFFIX,chiguayun.com
 DOMAIN-SUFFIX,ciyy.cc
-DOMAIN-SUFFIX,2220.it
 DOMAIN-SUFFIX,clash.razord.top
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudspeed.online
@@ -306,12 +306,12 @@ DOMAIN-SUFFIX,ispeed.online
 DOMAIN-SUFFIX,jiedian.stream
 DOMAIN-SUFFIX,jscloud.best
 DOMAIN-SUFFIX,jscloud.cc
+DOMAIN-SUFFIX,jsss1.top
 DOMAIN-SUFFIX,kakocloud.pro
 DOMAIN-SUFFIX,kk-proxy.pro
 DOMAIN-SUFFIX,ktmcloud.top
 DOMAIN-SUFFIX,ktmurl.top
 DOMAIN-SUFFIX,lycoris.cam
-DOMAIN-SUFFIX,jsss1.top
 DOMAIN-SUFFIX,lycoris.one
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,ops.ci
