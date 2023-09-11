@@ -357,6 +357,8 @@ DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,freenom.world
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,namesilo.com
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,dyn.com
 
 # IOS相关
 DOMAIN,iosding.com
