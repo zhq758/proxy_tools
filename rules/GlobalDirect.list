@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月08日02:03:04
-# 数量: 1190条
+# 更新: 2023年09月11日18:48:21
+# 数量: 1192条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -353,12 +353,12 @@ DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
 
 # 域名服务
+DOMAIN-SUFFIX,dyn.com
+DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,freenom.world
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,namesilo.com
-DOMAIN-SUFFIX,dyndns.com
-DOMAIN-SUFFIX,dyn.com
 
 # IOS相关
 DOMAIN,iosding.com
