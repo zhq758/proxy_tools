@@ -219,8 +219,9 @@ DOMAIN-SUFFIX,msn90.com
 DOMAIN-SUFFIX,xiazai.vin
 
 # 工具类
-DOMAIN,api.nolanstore.cc
-DOMAIN,winscp.net
+DOMAIN-SUFFIX,api.nolanstore.cc
+DOMAIN-SUFFIX,winscp.net
+DOMAIN-SUFFIX,arcadia.cool
 DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,citrix.com
 DOMAIN-SUFFIX,fiddler2.com
