@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月16日02:01:27
-# 数量: 1194条
+# 更新: 2023年09月19日09:45:56
+# 数量: 1197条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -163,16 +163,14 @@ DOMAIN-SUFFIX,52dianzi.com
 DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,920.im
 DOMAIN-SUFFIX,aijichang.com
-DOMAIN-SUFFIX,clashx.pro
-DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,askahh.com
-DOMAIN-SUFFIX,runtufenxiang.com
 DOMAIN-SUFFIX,bbs.zsxwz.com
 DOMAIN-SUFFIX,blog.dengxj.com
 DOMAIN-SUFFIX,blog.dingtone.me
 DOMAIN-SUFFIX,blueskyxn.com
 DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,clash-meta.wiki
+DOMAIN-SUFFIX,clashx.pro
 DOMAIN-SUFFIX,cn-sec.com
 DOMAIN-SUFFIX,codein.icu
 DOMAIN-SUFFIX,codenong.com
@@ -193,6 +191,7 @@ DOMAIN-SUFFIX,jichangtuijian.com
 DOMAIN-SUFFIX,jobo88.com
 DOMAIN-SUFFIX,kejileida.net
 DOMAIN-SUFFIX,likecs.com
+DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,lmlphp.com
 DOMAIN-SUFFIX,luvsia.com
 DOMAIN-SUFFIX,machbbs.com
@@ -204,6 +203,7 @@ DOMAIN-SUFFIX,oliverhou.com
 DOMAIN-SUFFIX,pc841.com
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
+DOMAIN-SUFFIX,runtufenxiang.com
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,songw.top
 DOMAIN-SUFFIX,stash.wiki
