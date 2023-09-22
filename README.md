@@ -1,6 +1,7 @@
 # 介绍
 * 自用Subconverter订阅转换配置文件，修改自原作者[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/)  
-* 自用Loon配置文件，进一步修改
+* 自用Loon配置文件
+         
 * ACL4SSR规则为基础，进行合并分组补充剔除重复
 * 所有规则集均去除重复，建议添加所有规则集确保完整性
         
