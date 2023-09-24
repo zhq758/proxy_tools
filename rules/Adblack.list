@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，anti-AD作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2023年09月24日04:06:15
-# 数量: 73818条
+# 更新: 2023年09月25日04:06:36
+# 数量: 73821条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -73735,6 +73735,7 @@ DOMAIN-SUFFIX,5598tp.com
 DOMAIN-SUFFIX,5ityx.com
 DOMAIN-SUFFIX,660pxbm.top
 DOMAIN-SUFFIX,6c8d.top
+DOMAIN-SUFFIX,6nxdfc.top
 DOMAIN-SUFFIX,7566dh1.com
 DOMAIN-SUFFIX,7566dh9.com
 DOMAIN-SUFFIX,7859tz10.com
@@ -73790,8 +73791,10 @@ DOMAIN-SUFFIX,monroe4825edcs.xyz
 DOMAIN-SUFFIX,mv8l4bj34.cc
 DOMAIN-SUFFIX,myehm.xyz
 DOMAIN-SUFFIX,naaifood.cn
+DOMAIN-SUFFIX,ndujy.xyz
 DOMAIN-SUFFIX,newton5194sctf.xyz
 DOMAIN-SUFFIX,nht4628c1.cc
+DOMAIN-SUFFIX,nkadc.xyz
 DOMAIN-SUFFIX,nmcnbgp.cn
 DOMAIN-SUFFIX,ns01.fyi
 DOMAIN-SUFFIX,nxnzad.com
