@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为常规直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月19日09:54:59
-# 数量: 1198条
+# 更新: 2023年09月29日15:56:25
+# 数量: 1202条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.paugram.com
 DOMAIN-SUFFIX,app.adjust.com
-DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,arcade.software
 DOMAIN-SUFFIX,bing.myan.cf
 DOMAIN-SUFFIX,browser.sentry-cdn.com
@@ -79,6 +78,7 @@ DOMAIN-SUFFIX,sitefinity.com
 DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,squarespace.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,static-ecst.licdn.com
 DOMAIN-SUFFIX,swiftype.com
 DOMAIN-SUFFIX,swiftypecdn.com
@@ -163,7 +163,6 @@ DOMAIN-SUFFIX,404world.in
 DOMAIN-SUFFIX,404world.tk
 DOMAIN-SUFFIX,52dianzi.com
 DOMAIN-SUFFIX,91ai.net
-DOMAIN-SUFFIX,kerrynotes.com
 DOMAIN-SUFFIX,920.im
 DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,askahh.com
@@ -193,6 +192,7 @@ DOMAIN-SUFFIX,jiasupanda.com
 DOMAIN-SUFFIX,jichangtuijian.com
 DOMAIN-SUFFIX,jobo88.com
 DOMAIN-SUFFIX,kejileida.net
+DOMAIN-SUFFIX,kerrynotes.com
 DOMAIN-SUFFIX,likecs.com
 DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,lmlphp.com
@@ -301,18 +301,17 @@ DOMAIN-SUFFIX,tdvip.us
 DOMAIN-SUFFIX,2220.it
 DOMAIN-SUFFIX,ahaspeed.com
 DOMAIN-SUFFIX,atomlantis.cloud
+DOMAIN-SUFFIX,bajie.info
 DOMAIN-SUFFIX,bajie.run
 DOMAIN-SUFFIX,bajie.wiki
 DOMAIN-SUFFIX,bygcloud.com
 DOMAIN-SUFFIX,chiguayun.com
 DOMAIN-SUFFIX,ciyy.cc
-DOMAIN-SUFFIX,bajie.info
-DOMAIN-SUFFIX,cloudaccess.icu
 DOMAIN-SUFFIX,clash.razord.top
+DOMAIN-SUFFIX,cloudaccess.icu
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudspeed.online
 DOMAIN-SUFFIX,dearyou.one
-DOMAIN-SUFFIX,liuyingyun.work
 DOMAIN-SUFFIX,efcloud.bio
 DOMAIN-SUFFIX,gaowosiquanjia.top
 DOMAIN-SUFFIX,ispeed.online
@@ -324,12 +323,13 @@ DOMAIN-SUFFIX,kakocloud.pro
 DOMAIN-SUFFIX,kk-proxy.pro
 DOMAIN-SUFFIX,ktmcloud.top
 DOMAIN-SUFFIX,ktmurl.top
+DOMAIN-SUFFIX,liuyingyun.work
 DOMAIN-SUFFIX,lycoris.cam
 DOMAIN-SUFFIX,lycoris.one
+DOMAIN-SUFFIX,lyun.one
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,ops.ci
 DOMAIN-SUFFIX,paopao.dog
-DOMAIN-SUFFIX,lyun.one
 DOMAIN-SUFFIX,renzheapi.com
 DOMAIN-SUFFIX,sakuras.cloud
 DOMAIN-SUFFIX,smallstrawberry.com
