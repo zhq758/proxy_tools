@@ -1,7 +1,7 @@
 # 内容: 🎥 国外媒体 规则集
 # 备注: 本列表为国外媒体代理域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月08日01:37:25
-# 数量: 385条
+# 更新: 2023年09月30日12:34:12
+# 数量: 388条
 
 DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,lovense-api.com
@@ -16,18 +16,18 @@ DOMAIN-SUFFIX,nsimg.net
 DOMAIN-SUFFIX,battleship.sc-apps.com
 DOMAIN-SUFFIX,cdn13.com
 DOMAIN-SUFFIX,doppiocdn.com
-DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,doppiocdn.net
-DOMAIN-SUFFIX,vidsmoon.space
+DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,flixcdn.com
+DOMAIN-SUFFIX,fullxhcdn.com
 DOMAIN-SUFFIX,hotpics.mom
 DOMAIN-SUFFIX,hotvids.space
 DOMAIN-SUFFIX,makemehappy.mom
 DOMAIN-SUFFIX,megaxh.com
 DOMAIN-SUFFIX,thumb-v-lv.xhpingcdn.com
+DOMAIN-SUFFIX,vidsmoon.space
 DOMAIN-SUFFIX,watchnewvids.space
 DOMAIN-SUFFIX,xh.video
-DOMAIN-SUFFIX,fullxhcdn.com
 DOMAIN-SUFFIX,xhaccess.com
 DOMAIN-SUFFIX,xham.live
 DOMAIN-SUFFIX,xhamster.com
