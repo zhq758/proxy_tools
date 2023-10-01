@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月01日13:17:56
-# 数量: 1204条
+# 更新: 2023年10月01日18:26:06
+# 数量: 1205条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -174,7 +174,6 @@ DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,clash-meta.wiki
 DOMAIN-SUFFIX,clashx.pro
 DOMAIN-SUFFIX,cn-sec.com
-DOMAIN-SUFFIX,iyideng.vip
 DOMAIN-SUFFIX,codein.icu
 DOMAIN-SUFFIX,codenong.com
 DOMAIN-SUFFIX,divineengine.net
@@ -189,6 +188,7 @@ DOMAIN-SUFFIX,ibireme.com
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,idappblog.com
 DOMAIN-SUFFIX,ioiox.com
+DOMAIN-SUFFIX,iyideng.vip
 DOMAIN-SUFFIX,jamesdailylife.com
 DOMAIN-SUFFIX,jiasupanda.com
 DOMAIN-SUFFIX,jichangtuijian.com
