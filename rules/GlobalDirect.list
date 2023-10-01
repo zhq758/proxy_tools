@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月30日13:39:04
-# 数量: 1201条
+# 更新: 2023年10月01日13:17:56
+# 数量: 1204条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -435,10 +435,10 @@ DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,abcvg.info
 DOMAIN-SUFFIX,bt.endpot.com
-DOMAIN-SUFFIX,down6.8fly.link
 DOMAIN-SUFFIX,down6.82fly.com
-DOMAIN-SUFFIX,loadbt.com
+DOMAIN-SUFFIX,down6.8fly.link
 DOMAIN-SUFFIX,go.wofun.me
+DOMAIN-SUFFIX,loadbt.com
 DOMAIN-SUFFIX,nocturnal-narwhal.buzz
 DOMAIN-SUFFIX,stealth.si
 DOMAIN-SUFFIX,t1.hloli.org
