@@ -1,7 +1,7 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外代理相关域名，不含Telegram、OpenAi及媒体，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月26日16:53:16
-# 数量: 6060条
+# 更新: 2023年10月03日12:39:11
+# 数量: 6061条
 
 # Github
 IP-CIDR,140.82.113.25/32,no-resolve
@@ -40,12 +40,12 @@ DOMAIN-SUFFIX,wirewax.com
 DOMAIN-SUFFIX,docker.io
 
 # VPN相关
-DOMAIN-SUFFIX,xf.gl
-DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN-SUFFIX,ktmcloud.shop
 DOMAIN-SUFFIX,kuromis.com
+DOMAIN-SUFFIX,xf.gl
 DOMAIN-SUFFIX,xfltd.org
+DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
 DOMAIN-SUFFIX,xn--lmq622c7qjhl4a.com
 
 
