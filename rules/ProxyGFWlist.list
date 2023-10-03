@@ -40,12 +40,13 @@ DOMAIN-SUFFIX,wirewax.com
 DOMAIN-SUFFIX,docker.io
 
 # VPN相关
-DOMAIN,xf.gl
-DOMAIN,xn--6nq44r2uh9rhj7f.com
+DOMAIN-SUFFIX,xf.gl
+DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN-SUFFIX,ktmcloud.shop
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,xfltd.org
+DOMAIN-SUFFIX,xn--lmq622c7qjhl4a.com
 
 
 # ------------------------------------------------
