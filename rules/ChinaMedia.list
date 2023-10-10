@@ -1,7 +1,7 @@
 # 内容: 📺 国内媒体 规则集
 # 备注: 本列表为国内媒体直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月13日18:41:56
-# 数量: 239条
+# 更新: 2023年10月10日17:56:11
+# 数量: 242条
 
 # 资讯
 DOMAIN-SUFFIX,0xzx.com
@@ -10,11 +10,10 @@ DOMAIN-SUFFIX,ft.com
 # 动漫
 DOMAIN-SUFFIX,bangumi.tv
 # > 樱花动漫网
-DOMAIN-SUFFIX,yhdm52.com
 DOMAIN-SUFFIX,cdn.yinghuazy.xyz
+DOMAIN-SUFFIX,yhdm52.com
 
 # 影视资源
-DOMAIN-SUFFIX,xunleimi.net
 DOMAIN-SUFFIX,216441.xyz
 DOMAIN-SUFFIX,22tu.com
 DOMAIN-SUFFIX,24xunlei.com
@@ -35,6 +34,7 @@ DOMAIN-SUFFIX,x5d3b.com
 DOMAIN-SUFFIX,xinsheng168.com
 DOMAIN-SUFFIX,xl720.com
 DOMAIN-SUFFIX,xunleidianying.com
+DOMAIN-SUFFIX,xunleimi.net
 DOMAIN-SUFFIX,ygdy8.net
 DOMAIN-SUFFIX,yikedy.cc
 DOMAIN-SUFFIX,zjhuishu.com
