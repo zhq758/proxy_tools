@@ -9,8 +9,12 @@ DOMAIN-SUFFIX,ft.com
 
 # 动漫
 DOMAIN-SUFFIX,bangumi.tv
+# > 樱花动漫网
+DOMAIN-SUFFIX,yhdm52.com
+DOMAIN-SUFFIX,cdn.yinghuazy.xyz
 
 # 影视资源
+DOMAIN-SUFFIX,xunleimi.net
 DOMAIN-SUFFIX,216441.xyz
 DOMAIN-SUFFIX,22tu.com
 DOMAIN-SUFFIX,24xunlei.com
