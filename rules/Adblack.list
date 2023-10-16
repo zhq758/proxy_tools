@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，anti-AD作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2023年10月16日04:06:58
-# 数量: 74213条
+# 更新: 2023年10月16日18:51:05
+# 数量: 74214条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -74115,15 +74115,14 @@ DOMAIN-SUFFIX,180zhengkkl.com
 DOMAIN-SUFFIX,18479.pw
 DOMAIN-SUFFIX,26v8aqv56.cc
 DOMAIN-SUFFIX,2fzn4.xyz
-DOMAIN-SUFFIX,737s.pw
 DOMAIN-SUFFIX,4l7e.top
 DOMAIN-SUFFIX,55001.fyi
 DOMAIN-SUFFIX,5598tp.com
 DOMAIN-SUFFIX,5ityx.com
-DOMAIN-SUFFIX,planet-vids.online
 DOMAIN-SUFFIX,660pxbm.top
 DOMAIN-SUFFIX,6c8d.top
 DOMAIN-SUFFIX,6nxdfc.top
+DOMAIN-SUFFIX,737s.pw
 DOMAIN-SUFFIX,7566dh1.com
 DOMAIN-SUFFIX,7566dh9.com
 DOMAIN-SUFFIX,7859tz10.com
@@ -74160,6 +74159,8 @@ DOMAIN-SUFFIX,evdbcnk.cn
 DOMAIN-SUFFIX,f7853.com
 DOMAIN-SUFFIX,fi11av37.com
 DOMAIN-SUFFIX,fi11av39.com
+DOMAIN-SUFFIX,fullvids.space
+DOMAIN-SUFFIX,fun.360.cn
 DOMAIN-SUFFIX,fz7erebwy.vip
 DOMAIN-SUFFIX,g6afvmg48.cc
 DOMAIN-SUFFIX,h21n.top
@@ -74188,6 +74189,7 @@ DOMAIN-SUFFIX,nmcnbgp.cn
 DOMAIN-SUFFIX,ns01.fyi
 DOMAIN-SUFFIX,nxnzad.com
 DOMAIN-SUFFIX,ojen23sdg.cc
+DOMAIN-SUFFIX,planet-vids.online
 DOMAIN-SUFFIX,ptfxh.com
 DOMAIN-SUFFIX,qiehdybvjm.com
 DOMAIN-SUFFIX,qisaoba.com
@@ -74214,4 +74216,3 @@ DOMAIN-SUFFIX,youquantao.com
 DOMAIN-SUFFIX,z268.cc
 DOMAIN-SUFFIX,zhjw2d2he.cc
 DOMAIN-SUFFIX,zouohohnglnzh.xyz
-DOMAIN-SUFFIX,fun.360.cn
