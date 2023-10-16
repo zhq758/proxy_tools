@@ -7,6 +7,7 @@
 # 以下规则来源为ACL4SSR，仅删除部分重复
 # OpenAi
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
