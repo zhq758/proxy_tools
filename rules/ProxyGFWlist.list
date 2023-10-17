@@ -13,10 +13,11 @@ IP-CIDR,20.205.243.168/32,no-resolve
 # Google
 IP-CIDR,172.217.160.74/32,no-resolve
 
-# 知识分享
-DOMAIN,duangks.com
-DOMAIN,vpnse.org
+# 知识交流
+DOMAIN-SUFFIX,duangks.com
+DOMAIN-SUFFIX,vpnse.org
 DOMAIN-SUFFIX,bulianglin.com
+DOMAIN-SUFFIX,getupnote.com
 DOMAIN-SUFFIX,clashios.com
 DOMAIN-SUFFIX,ffqla.net
 DOMAIN-SUFFIX,telghub.com
