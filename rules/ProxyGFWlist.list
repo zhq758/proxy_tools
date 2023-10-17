@@ -1,7 +1,7 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外代理相关域名，不含Telegram、OpenAi及媒体，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月03日12:39:11
-# 数量: 6061条
+# 更新: 2023年10月17日18:11:46
+# 数量: 6062条
 
 # Github
 IP-CIDR,140.82.113.25/32,no-resolve
@@ -14,14 +14,14 @@ IP-CIDR,20.205.243.168/32,no-resolve
 IP-CIDR,172.217.160.74/32,no-resolve
 
 # 知识交流
-DOMAIN-SUFFIX,duangks.com
-DOMAIN-SUFFIX,vpnse.org
 DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,getupnote.com
 DOMAIN-SUFFIX,clashios.com
+DOMAIN-SUFFIX,duangks.com
 DOMAIN-SUFFIX,ffqla.net
+DOMAIN-SUFFIX,getupnote.com
 DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,vpnse.org
 
 # 网站服务
 DOMAIN-SUFFIX,edgecompute.app
