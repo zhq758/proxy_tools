@@ -44,11 +44,17 @@ jobs:
         rule_count=$(grep -E 'DOMAIN-SUFFIX' new_surge.txt | wc -l)
         sed -i "1i\\# 内容: 🚫 广告过滤 规则集\\n# 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，anti-AD作者: https://github.com/privacy-protection-tools/anti-AD\\n# 更新: $new_version\\n# 数量: $rule_count条" new_surge.txt
 
+    - name: Copy Adblack.txt to Adblack2.txt
+      run: |
+        cp new_surge.txt new_surge2.txt
+        sed -i 's/DOMAIN-SUFFIX,/\./g' new_surge2.txt
+
     - name: Replace old Surge.txt with modified version
       run: |
-        mv new_surge.txt rules/Adblack.list
+        mv new_surge.txt rules/Adblack.txt
+        mv new_surge2.txt rules/Adblack2.txt
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add rules/Adblack.list
-        git commit -m "Update Adblack.list"
+        git add rules/Adblack.txt rules/Adblack2.txt
+        git commit -m "Update Adblack"
         git push
