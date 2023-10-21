@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月17日18:10:26
-# 数量: 1204条
+# 更新: 2023年10月21日16:02:18
+# 数量: 1205条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -327,7 +327,6 @@ DOMAIN-SUFFIX,lycoris.one
 DOMAIN-SUFFIX,lyun.one
 DOMAIN-SUFFIX,magicschool.cc
 DOMAIN-SUFFIX,ops.ci
-DOMAIN-SUFFIX,yfjc.cfd
 DOMAIN-SUFFIX,paopao.dog
 DOMAIN-SUFFIX,renzheapi.com
 DOMAIN-SUFFIX,sakuras.cloud
@@ -343,6 +342,7 @@ DOMAIN-SUFFIX,xfltd.xyz
 DOMAIN-SUFFIX,xftld.xyz
 DOMAIN-SUFFIX,xsus.buzz
 DOMAIN-SUFFIX,xsus.io
+DOMAIN-SUFFIX,yfjc.cfd
 DOMAIN-SUFFIX,yfjc.sbs
 DOMAIN-SUFFIX,yiyuan.cyou
 DOMAIN-SUFFIX,yypro.pro
