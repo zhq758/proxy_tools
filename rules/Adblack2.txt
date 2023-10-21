@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，anti-AD作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2023年10月21日04:07:13
-# 数量: 74453条
+# 更新: 2023年10月22日04:06:55
+# 数量: 74455条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -74437,6 +74437,7 @@
 .qwiudbnaiio.com
 .readfar.com
 .shmszv3r2.cc
+.shsunedu.com
 .sk1dupf2k.cc
 .tanju.vip
 .tczyt8.cn
@@ -74455,3 +74456,4 @@
 .z268.cc
 .zhjw2d2he.cc
 .zouohohnglnzh.xyz
+.
