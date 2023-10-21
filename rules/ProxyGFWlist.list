@@ -9,6 +9,8 @@ IP-CIDR,140.82.113.26/32,no-resolve
 IP-CIDR,140.82.114.25/32,no-resolve
 IP-CIDR,20.205.243.166/32,no-resolve
 IP-CIDR,20.205.243.168/32,no-resolve
+# > 镜像仓库
+DOMAIN-SUFFIX,ghcr.io
 
 # Google
 IP-CIDR,172.217.160.74/32,no-resolve
