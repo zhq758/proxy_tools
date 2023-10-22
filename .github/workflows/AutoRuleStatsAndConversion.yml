@@ -64,7 +64,7 @@ jobs:
            mkdir -p rules/classical
            cp "$file" "rules/classical/$(basename $file .list).yaml"
            sed -i '1s/^/payload:\n/' "rules/classical/$(basename $file .list).yaml"
-           sed -i '1!{/^[#]\|^![[:space:]]*$/d; /^$/d; s/^/  - /}' "rules/classical/$(basename $file .list).yaml"
+           sed -i '1!{/^DOMAIN\|^IP/!d; s/^/  - /}' "rules/classical/$(basename $file .list).yaml"
           done
 
       - name: Update README
