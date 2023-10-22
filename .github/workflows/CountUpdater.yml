@@ -5,7 +5,6 @@ on:
       - main
     paths:
       - 'rules/*.list'
-      - '!Adblack.list'
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -60,6 +59,11 @@ jobs:
               echo "$domain_list" | sort | sed '/^$/d' >> "$temp_file"
             fi
             mv "$temp_file" "$file"
+
+           # 转换classical规则
+           cp "$file" "rules/classical/$(basename $file .list).yaml"
+           sed -i '1s/^/payload:\n/' "rules/classical/$(basename $file .list).yaml"
+           sed -i '/^[#]\|^![[:space:]]*$/d; s/^/  - /' "rules/classical/$(basename $file .list).yaml"
           done
 
       - name: Update README
