@@ -8,8 +8,10 @@ DOMAIN-SUFFIX,lovense-api.com
 DOMAIN-SUFFIX,lovense.com
 IP-CIDR,104.19.128.100/32,no-resolve
 
-# 影视资源
+# Porn
+# > PornDude
 DOMAIN-SUFFIX,theporndude.com
+DOMAIN-SUFFIX,assets.tpdfiles.com
 # > Pornhub
 DOMAIN-SUFFIX,nsimg.net
 # > Xhamster

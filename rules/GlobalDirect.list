@@ -164,6 +164,7 @@ DOMAIN-SUFFIX,404world.tk
 DOMAIN-SUFFIX,52dianzi.com
 DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,920.im
+DOMAIN-SUFFIX,clash.wiki
 DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,askahh.com
 DOMAIN-SUFFIX,bbs.zsxwz.com
@@ -225,11 +226,12 @@ DOMAIN,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
 DOMAIN-SUFFIX,xiazai.vin
 
-# 工具类
+# APP工具
 DOMAIN-SUFFIX,api.nolanstore.cc
 DOMAIN-SUFFIX,arcadia.cool
 DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,citrix.com
+DOMAIN-SUFFIX,notability.com
 DOMAIN-SUFFIX,fiddler2.com
 DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,home-assistant.io
