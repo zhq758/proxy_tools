@@ -136,17 +136,14 @@ payload:
   - DOMAIN,get.datapps.org
   - DOMAIN,iuy.zxcvbnasd.cfd
   - DOMAIN,pb.u9zn.world
-  - DOMAIN,h5xb.me
-  - DOMAIN,xvasd6.com
+  - DOMAIN-SUFFIX,h5xb.me
+  - DOMAIN-SUFFIX,xvasd6.com
   - IP-CIDR,104.194.212.37/32,no-resolve
   - DOMAIN-SUFFIX,82lzona.top
   - DOMAIN-SUFFIX,8vwgnb.top
   - DOMAIN-SUFFIX,ncww8j.com
   - DOMAIN-SUFFIX,p8olrc.com
   - DOMAIN-SUFFIX,vqlwe8.com
-  - USER-AGENT,Bilibili*
-  - USER-AGENT,bili*
-  - USER-AGENT,bili-inter*
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,b23.tv
@@ -162,8 +159,6 @@ payload:
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,im9.com
   - DOMAIN-SUFFIX,smtcdns.net
-  - USER-AGENT,QYPlayer*
-  - USER-AGENT,iQIYI*
   - DOMAIN,intel-cache.m.iqiyi.com
   - DOMAIN,intel-cache.video.iqiyi.com
   - DOMAIN,intl-rcd.iqiyi.com
@@ -178,10 +173,7 @@ payload:
   - IP-CIDR,223.119.62.225/28,no-resolve
   - IP-CIDR,23.40.241.251/32,no-resolve
   - IP-CIDR,23.40.242.10/32,no-resolve
-  - URL-REGEX,^https?:\/\/int[\w-\.]+iqiyi\.com
   - DOMAIN-SUFFIX,api.mob.app.letv.com
-  - USER-AGENT,MOO*
-  - USER-AGENT,TencentMidasConnect*
   - DOMAIN-SUFFIX,v.smtcdns.com
   - DOMAIN-SUFFIX,vv.video.qq.com
   - DOMAIN-SUFFIX,youku.com
