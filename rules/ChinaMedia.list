@@ -93,8 +93,8 @@ DOMAIN-SUFFIX,gzhyhd.com
 DOMAIN,t.nanlanling.com
 DOMAIN-SUFFIX,meijutt.tv
 # > 影视大全
-DOMAIN,ckzy2.com
-DOMAIN,ckzycdn2.com
+DOMAIN-SUFFIX,ckzy2.com
+DOMAIN-SUFFIX,ckzycdn2.com
 DOMAIN-SUFFIX,chihuayu.com
 # > 影视大全
 DOMAIN,jx.m3u8.tv
