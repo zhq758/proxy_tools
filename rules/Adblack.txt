@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，anti-AD作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2023年10月22日04:06:55
-# 数量: 74455条
+# 更新: 2023年10月23日04:06:38
+# 数量: 74456条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -1255,6 +1255,7 @@ DOMAIN-SUFFIX,c.mse.360.cn
 DOMAIN-SUFFIX,s.360.cn
 DOMAIN-SUFFIX,s.so.360.cn
 DOMAIN-SUFFIX,s.union.360.cn
+DOMAIN-SUFFIX,se.360.cn
 DOMAIN-SUFFIX,tf.360.cn
 DOMAIN-SUFFIX,act.commercial.shouji.360.cn
 DOMAIN-SUFFIX,ad.dev.360.cn
