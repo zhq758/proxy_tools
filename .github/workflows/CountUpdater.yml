@@ -61,6 +61,7 @@ jobs:
             mv "$temp_file" "$file"
 
            # 转换classical规则
+           mkdir -p rules/classical
            cp "$file" "rules/classical/$(basename $file .list).yaml"
            sed -i '1s/^/payload:\n/' "rules/classical/$(basename $file .list).yaml"
            sed -i '/^[#]\|^![[:space:]]*$/d; s/^/  - /' "rules/classical/$(basename $file .list).yaml"
