@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月21日21:45:05
-# 数量: 1206条
+# 更新: 2023年10月22日16:50:18
+# 数量: 1208条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -164,7 +164,6 @@ DOMAIN-SUFFIX,404world.tk
 DOMAIN-SUFFIX,52dianzi.com
 DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,920.im
-DOMAIN-SUFFIX,clash.wiki
 DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,askahh.com
 DOMAIN-SUFFIX,bbs.zsxwz.com
@@ -173,6 +172,7 @@ DOMAIN-SUFFIX,blog.dingtone.me
 DOMAIN-SUFFIX,blueskyxn.com
 DOMAIN-SUFFIX,caoayu.top
 DOMAIN-SUFFIX,clash-meta.wiki
+DOMAIN-SUFFIX,clash.wiki
 DOMAIN-SUFFIX,clashx.pro
 DOMAIN-SUFFIX,cn-sec.com
 DOMAIN-SUFFIX,codein.icu
@@ -231,11 +231,11 @@ DOMAIN-SUFFIX,api.nolanstore.cc
 DOMAIN-SUFFIX,arcadia.cool
 DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,citrix.com
-DOMAIN-SUFFIX,notability.com
 DOMAIN-SUFFIX,fiddler2.com
 DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,my-netdata.io
+DOMAIN-SUFFIX,notability.com
 DOMAIN-SUFFIX,pnpm.io
 DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,rclone.org

@@ -1,7 +1,7 @@
 # 内容: 🎥 国外媒体 规则集
 # 备注: 本列表为国外媒体代理域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年09月30日12:34:12
-# 数量: 388条
+# 更新: 2023年10月22日16:50:26
+# 数量: 389条
 
 DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,lovense-api.com
@@ -10,8 +10,8 @@ IP-CIDR,104.19.128.100/32,no-resolve
 
 # Porn
 # > PornDude
-DOMAIN-SUFFIX,theporndude.com
 DOMAIN-SUFFIX,assets.tpdfiles.com
+DOMAIN-SUFFIX,theporndude.com
 # > Pornhub
 DOMAIN-SUFFIX,nsimg.net
 # > Xhamster
