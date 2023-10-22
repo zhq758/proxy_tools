@@ -66,7 +66,7 @@ jobs:
            sed -i '1s/^/payload:\n/' "rules/classical/$(basename $file .list).yaml"
            sed -i '1!{/^DOMAIN\|^IP\|^PROCESS/!d; s/^/  - /}' "rules/classical/$(basename $file .list).yaml"
            # Classical规则排序
-           tail -n +2 "rules/classical/$(basename $file .list).yaml" | sort > "rules/classical/$(basename $file .list).yaml.sorted"
+           { head -n 1 "rules/classical/$(basename $file .list).yaml"; tail -n +2 "rules/classical/$(basename $file .list).yaml" | sort; } > "rules/classical/$(basename $file .list).yaml.sorted"
            mv "rules/classical/$(basename $file .list).yaml.sorted" "rules/classical/$(basename $file .list).yaml"
           done
 
