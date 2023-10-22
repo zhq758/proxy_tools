@@ -162,8 +162,8 @@ DOMAIN,get.datapps.org
 DOMAIN,iuy.zxcvbnasd.cfd
 DOMAIN,pb.u9zn.world
 # > 杏吧视频
-DOMAIN,h5xb.me
-DOMAIN,xvasd6.com
+DOMAIN-SUFFIX,h5xb.me
+DOMAIN-SUFFIX,xvasd6.com
 # > 第一会所
 IP-CIDR,104.194.212.37/32,no-resolve
 # > 8X8X
