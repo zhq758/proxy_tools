@@ -1,6 +1,6 @@
 # 内容: 📺 国内媒体 规则集
 # 备注: 本列表为国内媒体直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月10日17:56:11
+# 更新: 2023年10月22日15:55:13
 # 数量: 242条
 
 # 资讯
@@ -93,9 +93,9 @@ DOMAIN-SUFFIX,gzhyhd.com
 DOMAIN,t.nanlanling.com
 DOMAIN-SUFFIX,meijutt.tv
 # > 影视大全
+DOMAIN-SUFFIX,chihuayu.com
 DOMAIN-SUFFIX,ckzy2.com
 DOMAIN-SUFFIX,ckzycdn2.com
-DOMAIN-SUFFIX,chihuayu.com
 # > 影视大全
 DOMAIN,jx.m3u8.tv
 DOMAIN,jx.xmflv.com

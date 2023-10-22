@@ -6,7 +6,7 @@
 * 所有规则集均去除重复，建议添加所有规则集确保完整性
         
 * 规则数量: 8313条
-* 最近更新: 2023年10月22日15:46:21
+* 最近更新: 2023年10月22日15:55:13
 # Clash订阅转换远程配置:
     https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
 注: Stash用户也可以通过订阅转换后的链接使用。
