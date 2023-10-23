@@ -27,12 +27,13 @@ jobs:
 
     - name: Add Blacklist
       run: |
-        sed -i -e '/^[#!]/d' -e 's/||\|^@//g' -e 's/\^//g' -e 's/^/DOMAIN-SUFFIX,/' 777_Blacklist.txt
+        sed -i -e '/^[#!]/d' -e '/^[[:space:]]*$/d' -e 's/||\|^@//g' -e 's/\^//g' -e 's/^/DOMAIN-SUFFIX,/' 777_Blacklist.txt
         cat 777_Blacklist.txt >> new_surge.txt
 
     - name: Remove Blacklist Based on Whitelist
       run: |
         awk '/^[^!#]/{print "DOMAIN-SUFFIX,"$1}' 777_Allowlist.txt > allowlist.txt
+        sed -i 's/\^//g' allowlist.txt
         while IFS= read -r line; do
           sed -i "/$line/d" new_surge.txt
         done < allowlist.txt
@@ -42,7 +43,7 @@ jobs:
         sed -i '/^[#!]/d' new_surge.txt
         new_version=$(TZ=Asia/Shanghai date '+%Y年%m月%d日%H:%M:%S')
         rule_count=$(grep -E 'DOMAIN-SUFFIX' new_surge.txt | wc -l)
-        sed -i "1i\\# 内容: 🚫 广告过滤 规则集\\n# 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，anti-AD作者: https://github.com/privacy-protection-tools/anti-AD\\n# 更新: $new_version\\n# 数量: $rule_count条" new_surge.txt
+        sed -i "1i\\# 内容: 🚫 广告过滤 规则集\\n# 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD\\n# 更新: $new_version\\n# 数量: $rule_count条" new_surge.txt
 
     - name: Copy Adblack.txt to Adblack2.txt
       run: |
