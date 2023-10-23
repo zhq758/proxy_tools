@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
-# 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，anti-AD作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2023年10月23日04:06:38
-# 数量: 74456条
+# 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
+# 更新: 2023年10月23日15:34:21
+# 数量: 74451条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -1255,7 +1255,6 @@
 .s.360.cn
 .s.so.360.cn
 .s.union.360.cn
-.se.360.cn
 .tf.360.cn
 .act.commercial.shouji.360.cn
 .ad.dev.360.cn
@@ -21345,7 +21344,6 @@
 .duoroumao.cn
 .wl.duoshitong.com
 .static.duoshuo.com
-.duote.com
 .js.duotegame.com
 .a.v.duowan.com
 .gt.duowan.com
@@ -37814,7 +37812,6 @@
 .h.laojiayoufang.com
 .m.laojiayoufang.com
 .laomaotao.com
-.laomaotao.net
 .bdjs.laonanren.com
 .laoosmesis.com
 .laoqu123.com
@@ -57866,7 +57863,6 @@
 .similarfrustration.com
 .similarlyrelicrecovery.com
 .similarmarriage.com
-.similarweb.com
 .simility.com
 .marketing.simio.com
 .simkindisyoke.space
@@ -74457,4 +74453,3 @@
 .z268.cc
 .zhjw2d2he.cc
 .zouohohnglnzh.xyz
-.

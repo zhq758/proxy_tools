@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
-# 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，anti-AD作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2023年10月23日04:06:38
-# 数量: 74456条
+# 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
+# 更新: 2023年10月23日15:34:21
+# 数量: 74451条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -1255,7 +1255,6 @@ DOMAIN-SUFFIX,c.mse.360.cn
 DOMAIN-SUFFIX,s.360.cn
 DOMAIN-SUFFIX,s.so.360.cn
 DOMAIN-SUFFIX,s.union.360.cn
-DOMAIN-SUFFIX,se.360.cn
 DOMAIN-SUFFIX,tf.360.cn
 DOMAIN-SUFFIX,act.commercial.shouji.360.cn
 DOMAIN-SUFFIX,ad.dev.360.cn
@@ -21345,7 +21344,6 @@ DOMAIN-SUFFIX,duomilm.com
 DOMAIN-SUFFIX,duoroumao.cn
 DOMAIN-SUFFIX,wl.duoshitong.com
 DOMAIN-SUFFIX,static.duoshuo.com
-DOMAIN-SUFFIX,duote.com
 DOMAIN-SUFFIX,js.duotegame.com
 DOMAIN-SUFFIX,a.v.duowan.com
 DOMAIN-SUFFIX,gt.duowan.com
@@ -37814,7 +37812,6 @@ DOMAIN-SUFFIX,code.laojiayoufang.com
 DOMAIN-SUFFIX,h.laojiayoufang.com
 DOMAIN-SUFFIX,m.laojiayoufang.com
 DOMAIN-SUFFIX,laomaotao.com
-DOMAIN-SUFFIX,laomaotao.net
 DOMAIN-SUFFIX,bdjs.laonanren.com
 DOMAIN-SUFFIX,laoosmesis.com
 DOMAIN-SUFFIX,laoqu123.com
@@ -57866,7 +57863,6 @@ DOMAIN-SUFFIX,metrics.similac.com.tr
 DOMAIN-SUFFIX,similarfrustration.com
 DOMAIN-SUFFIX,similarlyrelicrecovery.com
 DOMAIN-SUFFIX,similarmarriage.com
-DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,simility.com
 DOMAIN-SUFFIX,marketing.simio.com
 DOMAIN-SUFFIX,simkindisyoke.space
@@ -74457,4 +74453,3 @@ DOMAIN-SUFFIX,youquantao.com
 DOMAIN-SUFFIX,z268.cc
 DOMAIN-SUFFIX,zhjw2d2he.cc
 DOMAIN-SUFFIX,zouohohnglnzh.xyz
-DOMAIN-SUFFIX,
