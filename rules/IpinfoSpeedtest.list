@@ -1,7 +1,7 @@
 # 内容: 📡 IP｜测速 规则集
 # 备注: 本列表为IP检测及测速相关域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月22日16:50:18
-# 数量: 44条
+# 更新: 2023年10月23日17:30:09
+# 数量: 59条
 
 # IP查询
 DOMAIN,2023.ip138.com
@@ -26,21 +26,21 @@ DOMAIN-SUFFIX,tool.lu
 DOMAIN-SUFFIX,wtfismyip.com
 
 # IP归属地
-# ＞ 抖音
+# > 抖音
+DOMAIN,sso.douyin.com
+DOMAIN,www.douyin.com
+DOMAIN-KEYWORD,-core-c-hl
+DOMAIN-KEYWORD,-core-c-lf
+DOMAIN-KEYWORD,-normal-c-hl
+DOMAIN-KEYWORD,-normal-c-lf
+DOMAIN-KEYWORD,-normal-hl
+DOMAIN-KEYWORD,-normal-lf
 DOMAIN-KEYWORD,core-c-lq
 DOMAIN-KEYWORD,core-lq
 DOMAIN-KEYWORD,normal-c-lq
 DOMAIN-KEYWORD,normal-lq
-DOMAIN-KEYWORD,search-quic-lq
 DOMAIN-KEYWORD,search-lq
-DOMAIN-KEYWORD,-normal-hl
-DOMAIN-KEYWORD,-normal-c-hl
-DOMAIN-KEYWORD,-core-c-hl
-DOMAIN-KEYWORD,-normal-lf
-DOMAIN-KEYWORD,-normal-c-lf
-DOMAIN-KEYWORD,-core-c-lf
-DOMAIN,sso.douyin.com
-DOMAIN,www.douyin.com
+DOMAIN-KEYWORD,search-quic-lq
 DOMAIN-SUFFIX,snssdk.com
 
 # 测速
