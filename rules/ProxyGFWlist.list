@@ -41,8 +41,7 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,wirewax.com
 # > Docker
 DOMAIN-SUFFIX,docker.io
-
-# 网站导航
+# > 工具导航
 DOMAIN-SUFFIX,007.tg
 
 # VPN相关
