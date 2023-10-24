@@ -42,6 +42,9 @@ DOMAIN-SUFFIX,wirewax.com
 # > Docker
 DOMAIN-SUFFIX,docker.io
 
+# 网站导航
+DOMAIN-SUFFIX,007.tg
+
 # VPN相关
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN-SUFFIX,ktmcloud.shop
