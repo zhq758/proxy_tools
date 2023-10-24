@@ -173,6 +173,8 @@ DOMAIN-SUFFIX,ncww8j.com
 DOMAIN-SUFFIX,p8olrc.com
 DOMAIN-SUFFIX,vqlwe8.com
 
+# 抖音
+DOMAIN-SUFFIX,zijieapi.com
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
