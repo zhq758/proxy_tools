@@ -1,7 +1,7 @@
 # 内容: 📺 国内媒体 规则集
 # 备注: 本列表为国内媒体直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月24日21:40:15
-# 数量: 243条
+# 更新: 2023年10月24日21:46:42
+# 数量: 244条
 
 # 资讯
 DOMAIN-SUFFIX,0xzx.com
@@ -174,8 +174,8 @@ DOMAIN-SUFFIX,p8olrc.com
 DOMAIN-SUFFIX,vqlwe8.com
 
 # 抖音
-DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,zijieapi.com
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
