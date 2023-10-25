@@ -88,6 +88,8 @@ payload:
   - DOMAIN-SUFFIX,17173.com
   - DOMAIN-SUFFIX,178.com
   - DOMAIN-SUFFIX,17k.com
+  - DOMAIN-SUFFIX,2023vpn.net
+  - DOMAIN-SUFFIX,2077vpn.xyz
   - DOMAIN-SUFFIX,21cn.com
   - DOMAIN-SUFFIX,2220.it
   - DOMAIN-SUFFIX,360.com
@@ -260,6 +262,7 @@ payload:
   - DOMAIN-SUFFIX,clash-meta.wiki
   - DOMAIN-SUFFIX,clash.razord.top
   - DOMAIN-SUFFIX,clash.wiki
+  - DOMAIN-SUFFIX,clashnode.xyz
   - DOMAIN-SUFFIX,clashx.pro
   - DOMAIN-SUFFIX,click.linksynergy.com
   - DOMAIN-SUFFIX,cll46.top
