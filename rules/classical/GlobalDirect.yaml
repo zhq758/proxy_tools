@@ -687,6 +687,7 @@ payload:
   - DOMAIN-SUFFIX,qupu123.com
   - DOMAIN-SUFFIX,qy.net
   - DOMAIN-SUFFIX,raidrive.com
+  - DOMAIN-SUFFIX,rapidssl.com
   - DOMAIN-SUFFIX,ravenjs.com
   - DOMAIN-SUFFIX,rclone.org
   - DOMAIN-SUFFIX,realme.com

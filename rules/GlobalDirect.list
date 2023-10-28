@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月25日14:35:25
-# 数量: 1210条
+# 更新: 2023年10月28日17:56:15
+# 数量: 1211条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -97,13 +97,13 @@ DOMAIN-SUFFIX,zoominfo.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ts-ocsp.ws.symantec.com
-DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,ocsp-certum.com
+DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
