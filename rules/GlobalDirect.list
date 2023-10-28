@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,zoominfo.com
 # > 证书验证
 DOMAIN,digitalcertvalidation.com
 DOMAIN,ts-ocsp.ws.symantec.com
+DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert.com
