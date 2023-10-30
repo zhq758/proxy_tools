@@ -46,6 +46,7 @@ payload:
   - DOMAIN,use.typekit.net
   - DOMAIN,utteranc.es
   - DOMAIN,version.pm2.io
+  - DOMAIN,vps02.net.orel.ru
   - DOMAIN,webrate.org
   - DOMAIN,who.is
   - DOMAIN,wmsjsteam.com
@@ -345,6 +346,7 @@ payload:
   - DOMAIN-SUFFIX,efcloud.bio
   - DOMAIN-SUFFIX,ele.me
   - DOMAIN-SUFFIX,element-plus.org
+  - DOMAIN-SUFFIX,ermao.net
   - DOMAIN-SUFFIX,ewqcxz.com
   - DOMAIN-SUFFIX,fang.com
   - DOMAIN-SUFFIX,fantasy.tv
