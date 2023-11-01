@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2023年11月01日04:07:17
-# 数量: 74719条
+# 更新: 2023年11月02日04:07:33
+# 数量: 74759条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -8661,6 +8661,7 @@
 .axeptio.eu
 .axesequelplant.com
 .axf8.net
+.axfdwhsi.com
 .axhpkbvibdn.com
 .axiaffiliates.com
 .axill.com
@@ -9900,6 +9901,7 @@
 .bdcanef.cn
 .bdcd2.com
 .bdced8843e.com
+.bddc935c97.com
 .m.bdeix.com
 .bdettywfxbcb.xyz
 .bdfagcumunjzx.com
@@ -13654,6 +13656,7 @@
 .1431327521.rsc.cdn77.org
 .1436653548.rsc.cdn77.org
 .1437953666.rsc.cdn77.org
+.1483167401.rsc.cdn77.org
 .1508003519.rsc.cdn77.org
 .1520586082.rsc.cdn77.org
 .1558334541.rsc.cdn77.org
@@ -14118,6 +14121,7 @@
 .chauckoo.xyz
 .chaudrep.net
 .chaugroo.net
+.chauinubbins.com
 .chaukrgukepers.xyz
 .chauksoa.net
 .chaulsan.com
@@ -14541,6 +14545,7 @@
 .tc.ci123.com
 .ciadre.fun
 .ciaeue.xyz
+.ciajnlhte.xyz
 .ciarde.fun
 .ciazdymfepv.com
 .experiences.cibc.com
@@ -18795,6 +18800,7 @@
 .aem-collector.daumkakao.io
 .daunnotes.com
 .dauntlessamusingcomrade.com
+.dauntslip.com
 .d2u.dauphinquebec.com
 .davaifoa.com
 .davbaqlajfza.com
@@ -20403,6 +20409,7 @@
 .dmpprof.com
 .dmpxs.com
 .dmrtb.com
+.dmrtx.com
 .private.dmscookie.com
 .dmsrlnssynhqhl.com
 .dmtag.jp
@@ -22153,6 +22160,7 @@
 .eehimeer.xyz
 .eehuzaih.com
 .eeinhyfb.com
+.eejwvwoo.xyz
 .eekmbamyvkenb.top
 .eekreeng.com
 .eeksidro.com
@@ -22559,6 +22567,7 @@
 .info.elliemae.com
 .newsflash.elliemae.com
 .stats.ellos.no
+.elltheprecise.org
 .app.learn.ellucian.com
 .elmiestkanuri.top
 .elmkrljayamrb.top
@@ -23843,6 +23852,7 @@
 .ewesmedia.com
 .ewfsef.com
 .marketing.ewi.org
+.ewikajs.com
 .ewioud.com
 .ewjakayndd.com
 .mapp.ewm.co.uk
@@ -25624,6 +25634,7 @@
 .fluffycodepotc.com
 .fluffynickname.com
 .fluffynyasquirell.com
+.fluhmmr.cn
 .fluid-pie.pro
 .fluidallobar.com
 .fluiddejected.com
@@ -25848,6 +25859,7 @@
 .img.foodspring.it
 .img.foodspring.se
 .fooid.xyz
+.foojimie.net
 .foolish-devil.pro
 .foolishcheek.pro
 .foomaque.net
@@ -30643,6 +30655,7 @@
 .hibids10.com
 .hibikiluler.top
 .mdm.hibinobi-mandom.jp
+.hibitomonach.com
 .smetrics.hibiyakadan.com
 .hiblcom.com
 .reports.hibu.com
@@ -30684,6 +30697,7 @@
 .higefa.site
 .higgiens23c5l8asfrk.com
 .highconvertingformats.com
+.highcpmcreativeformat.com
 .highcpmrevenuegate.com
 .highcpmrevenuenetwork.com
 .highdirtysubsided.com
@@ -32448,6 +32462,7 @@
 .a.ifit.io
 .stats.ifiwasgame.com
 .ifknittedhurtful.com
+.ifllwfs.com
 .logconf.iflytek.com
 .di.ifolor.at
 .di.ifolor.be
@@ -33501,6 +33516,7 @@
 .instaemail.net
 .instaflrt.com
 .badges.instagram.com
+.install-check.com
 .installlnow.com
 .installscrayfishpenal.com
 .instalmentshowernovice.com
@@ -34670,6 +34686,7 @@
 .creative.live.javmix.tv
 .marketing.javs.com
 .stats.jawebb.se
+.jawlookingchapter.com
 .jawsspecific.com
 .link.jawwy.tv
 .watch.jawwy.tv
@@ -35472,6 +35489,7 @@
 .jouzoapi.com
 .apptest.jow.fr
 .jowarblushed.space
+.jowliercollude.com
 .jowlishdiviner.com
 .joycreatorheader.com
 .ebis202001.joyfit.jp
@@ -36772,6 +36790,7 @@
 .kjanynlnwqqqy.top
 .kjcenter.com
 .kjcvw.xyz
+.kjdbcjkmc.com
 .e.kjfhe.com
 .m.kjfhe.com
 .kjfhenoqfyfljo.com
@@ -36806,6 +36825,7 @@
 .kkdsdlc.com
 .kkghcdvxdfvsq.com
 .adl.kkguan.com
+.kkjrwxs.com
 .kkjuu.xyz
 .kkkjpg-522.cc
 .kkkqi.cn
@@ -43189,6 +43209,7 @@
 .mpwe.net
 .mpymea.xyz
 .mpzw.com
+.mpzwsvueph.com
 .mq65.top
 .mqabjtgli.xyz
 .mqaqtwkbwcqty.xyz
@@ -44305,6 +44326,7 @@
 .nbtfbb.xyz
 .nbuztmmcv.com
 .nbxymdy.cn
+.nbycjpo.cn
 .nbycustomlad.com
 .nbzabd.xyz
 .analytics.ncaa.com
@@ -46323,6 +46345,7 @@
 .zelle.odencat.com
 .odipjwipwwyus.xyz
 .odnaknopka.ru
+.odnaturedfe.org
 .internal-analytics.odoo.com
 .odoscope.cloud
 .odoscope.com
@@ -51555,6 +51578,7 @@
 .demandgen.ptc.com
 .ptclassic.com
 .ptdinxchgxu.com
+.ptdofj.xyz
 .ptechait.com
 .ptecmooz.net
 .ptecmuny.com
@@ -52912,6 +52936,7 @@
 .quanta.la
 .aboutads.quantcast.com
 .quantcount.com
+.quantoz.xyz
 .awsexam.quantresear.ch
 .citizenship.quantresear.ch
 .nceexam.quantresear.ch
@@ -54511,6 +54536,7 @@
 .retinuedisposablerecuperate.com
 .retinuegigoh.com
 .retionattings.xyz
+.retipwrested.com
 .retireblotch.com
 .retiredfermentgenuine.com
 .retiremely.com
@@ -54858,6 +54884,7 @@
 .rimfranklyscaffold.com
 .riminghoggoofy.com
 .tk.rimowa.com
+.rimwigckagz.com
 .count.rin.ru
 .xekjzy.rinascente.it
 .rinceaskedase.com
@@ -57896,6 +57923,7 @@
 .sickoaji.com
 .sickrage.ca
 .sicksmash.com
+.sicleclarets.com
 .sicongyyds.com
 .sicsanopsh.com
 .sidanarchy.com
@@ -58386,6 +58414,7 @@
 .skeeingfondu.life
 .skeetads.com
 .skeettools.com
+.skeezovkjgexs.com
 .skeletal-if.pro
 .skeletallake.com
 .skeletonemail.com
@@ -58786,6 +58815,7 @@
 .smenqskfmpfxnb.bid
 .smentbrads.info
 .smentbradsh.xyz
+.smervyfenks.com
 .smetrieposiaespanol.com
 .smfsojvsaxbgf.com
 .smg8oo4njst45oene.com
@@ -58872,6 +58902,7 @@
 .smuggather.pro
 .smuggledistance.com
 .smuggleturnstile.com
+.smugismanaxon.com
 .smugmuseumframe.com
 .smugturner.com
 .smuwitafmac.com
@@ -60058,6 +60089,7 @@
 .srigbxxv.com
 .srkhbdjgxyys.xyz
 .srkl.pw
+.srlhgo.cn
 .srmdata-us.com
 .srmdata.com
 .m.srnoh.cn
@@ -60289,6 +60321,7 @@
 .statementsweater.com
 .stater-tc.com
 .statesmanimpetuousforemost.com
+.statestockingsconfession.com
 .beacon.statful.com
 .stathat.com
 .stathound.com
@@ -67298,6 +67331,7 @@
 .vcydyzd.icu
 .vddf0.club
 .vdebtqm.xyz
+.vdggsd001.com
 .vdggsd005.com
 .vdggsd006.com
 .vdggsd007.com
@@ -68567,6 +68601,7 @@
 .vriddhiabrege.live
 .vrivslffndepxqd.xyz
 .vrlvnz.xyz
+.vrnrpzy.xyz
 .vroaafoi.com
 .vrr.name
 .vrstage.com
@@ -68874,6 +68909,7 @@
 .walkamorous.com
 .walkedcreak.com
 .walkerllaw.org
+.walkernewspapers.com
 .ad.walkgame.com
 .stats.walkiees.co.uk
 .walkinglive.org
@@ -71506,7 +71542,6 @@
 .rn2vw3.xhamster.com
 .ro55cpi1.xhamster.com
 .tokyo.xhamster.com
-.valentine.xhamster.com
 .wi9u5paiwo.xhamster.com
 .wonder.xhamster.com
 .ynoymse4.xhamster.com
@@ -72488,6 +72523,7 @@
 .ybjfsqcevow.ru
 .ybmnptiuj.xyz
 .ybotvisit.com
+.ybs2ffs7v.com
 .ccv.ybt999.com
 .ybtianxi.com
 .ybwcvhcnulrgbvy.com
@@ -72498,6 +72534,7 @@
 .ycctxwachqke.com
 .yceml.net
 .m.yceno.com
+.ycgkol.icu
 .ycgy8888.com
 .ych168.cn
 .ym.ychap.com
@@ -73297,6 +73334,7 @@
 .ys630.com
 .ys6ot.cn
 .gho.ysbjgjwh.com
+.yscntxil.com
 .e.ysdangan.com
 .e.ysdhe.com
 .m.ysdhe.com
@@ -74162,6 +74200,7 @@
 .jdw.zjuwjdc.com
 .zjws.xyz
 .zjybqqaleeva.top
+.zjybqqalenve.top
 .dm1.zjydt.com
 .zk6.me
 .zkads.cc
@@ -74198,6 +74237,7 @@
 .zlinkm.com
 .hype.zlipa.com
 .zljwhbuagdvl.com
+.zlncvn.xyz
 .zlne800.com
 .zlongad.com
 .zlp6s.pw
