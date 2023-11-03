@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # Steam
 DOMAIN,steambroadcast.akamaized.net
@@ -95,7 +96,7 @@ DOMAIN-SUFFIX,nintendo.jp
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.nl
 DOMAIN-SUFFIX,nintendowifi.net
-# xbox
+# Xbox
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxab.com

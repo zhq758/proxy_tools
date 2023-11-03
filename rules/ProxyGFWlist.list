@@ -44,6 +44,9 @@ DOMAIN-SUFFIX,docker.io
 # > 工具导航
 DOMAIN-SUFFIX,007.tg
 
+# 域名服务
+DOMAIN-SUFFIX,godaddy.com
+
 # VPN相关
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN-SUFFIX,ktmcloud.shop
@@ -214,7 +217,6 @@ DOMAIN-SUFFIX,6park.com
 DOMAIN-SUFFIX,6parkbbs.com
 DOMAIN-SUFFIX,6parker.com
 DOMAIN-SUFFIX,6parknews.com
-DOMAIN-SUFFIX,7-zip.org
 DOMAIN-SUFFIX,7capture.com
 DOMAIN-SUFFIX,7cow.com
 DOMAIN-SUFFIX,8-d.com
@@ -777,6 +779,7 @@ DOMAIN-SUFFIX,busayari.com
 DOMAIN-SUFFIX,business-humanrights.org
 DOMAIN-SUFFIX,business.page
 DOMAIN-SUFFIX,businessinsider.com
+DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,businessinsider.com.au
 DOMAIN-SUFFIX,businesstoday.com.tw
 DOMAIN-SUFFIX,businessweek.com
@@ -901,11 +904,14 @@ DOMAIN-SUFFIX,cfhks.org.hk
 DOMAIN-SUFFIX,cfos.de
 DOMAIN-SUFFIX,cfr.org
 DOMAIN-SUFFIX,cftfc.com
+DOMAIN-SUFFIX,istarshine.com
 DOMAIN-SUFFIX,cgdepot.org
 DOMAIN-SUFFIX,cgst.edu
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,changeip.name
+DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,changeip.net
+DOMAIN-SUFFIX,li.taipei
 DOMAIN-SUFFIX,changeip.org
 DOMAIN-SUFFIX,changp.com
 DOMAIN-SUFFIX,changsa.net
@@ -1032,7 +1038,6 @@ DOMAIN-SUFFIX,civilhrfront.org
 DOMAIN-SUFFIX,civiliangunner.com
 DOMAIN-SUFFIX,civilmedia.tw
 DOMAIN-SUFFIX,civisec.org
-DOMAIN-SUFFIX,cjb.net
 DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,classicalguitarblog.net
@@ -3838,7 +3843,6 @@ DOMAIN-SUFFIX,padmanet.com
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,page.tl
 DOMAIN-SUFFIX,page2rss.com
-DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,pagodabox.com
 DOMAIN-SUFFIX,palacemoon.com
 DOMAIN-SUFFIX,paldengyal.com
@@ -5042,7 +5046,6 @@ DOMAIN-SUFFIX,tpi.org.tw
 DOMAIN-SUFFIX,tracfone.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,translate.goog
-DOMAIN-SUFFIX,translate.google
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,treemall.com.tw
 DOMAIN-SUFFIX,trendsmap.com
@@ -6044,10 +6047,6 @@ IP-CIDR,119.235.235.0/24,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
-# OneDrive
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,skydrive
 # Pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
@@ -6067,13 +6066,6 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
-# Telegram
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR,91.108.0.0/16,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # TeraBox
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,teraboxcdn.com
@@ -6106,10 +6098,6 @@ DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
-#飞流直播
-DOMAIN-SUFFIX,flzbcdn.xyz
-DOMAIN-SUFFIX,icntv.xyz
-DOMAIN-SUFFIX,neulion.com
 # VikACG
 DOMAIN-SUFFIX,picjs.xyz
 DOMAIN-SUFFIX,vikacg.com

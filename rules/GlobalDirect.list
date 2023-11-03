@@ -375,7 +375,6 @@ DOMAIN-SUFFIX,dyn.com
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,freenom.world
-DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,namesilo.com
 
 # IOS相关
@@ -754,8 +753,6 @@ DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,sohuno.com
 DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
-# Sony
-DOMAIN-SUFFIX,sony.com
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
