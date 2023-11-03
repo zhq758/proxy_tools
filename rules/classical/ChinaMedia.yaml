@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,apiintl.biliapi.net
   - DOMAIN,baidu.sd-play.com
   - DOMAIN,baidu.shanshanku.com
   - DOMAIN,bbs.64j8.org
@@ -48,6 +49,7 @@ payload:
   - DOMAIN,t.nanlanling.com
   - DOMAIN,t22.cdn2020.com
   - DOMAIN,ukzy.ukubf4.com
+  - DOMAIN,upos-bstar-mirrorakam.akamaized.net
   - DOMAIN,upos-bstar1-mirrorakam.akamaized.net
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,uyfjdnht.68243.cc

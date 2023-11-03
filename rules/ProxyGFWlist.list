@@ -1,7 +1,7 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外常规代理域名，不含Telegram、OpenAi及媒体，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月30日17:28:56
-# 数量: 6065条
+# 更新: 2023年11月03日12:43:10
+# 数量: 6054条
 
 # Github
 IP-CIDR,140.82.113.25/32,no-resolve
@@ -779,7 +779,6 @@ DOMAIN-SUFFIX,busayari.com
 DOMAIN-SUFFIX,business-humanrights.org
 DOMAIN-SUFFIX,business.page
 DOMAIN-SUFFIX,businessinsider.com
-DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,businessinsider.com.au
 DOMAIN-SUFFIX,businesstoday.com.tw
 DOMAIN-SUFFIX,businessweek.com
@@ -904,14 +903,11 @@ DOMAIN-SUFFIX,cfhks.org.hk
 DOMAIN-SUFFIX,cfos.de
 DOMAIN-SUFFIX,cfr.org
 DOMAIN-SUFFIX,cftfc.com
-DOMAIN-SUFFIX,istarshine.com
 DOMAIN-SUFFIX,cgdepot.org
 DOMAIN-SUFFIX,cgst.edu
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,changeip.name
-DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,changeip.net
-DOMAIN-SUFFIX,li.taipei
 DOMAIN-SUFFIX,changeip.org
 DOMAIN-SUFFIX,changp.com
 DOMAIN-SUFFIX,changsa.net
@@ -1038,6 +1034,7 @@ DOMAIN-SUFFIX,civilhrfront.org
 DOMAIN-SUFFIX,civiliangunner.com
 DOMAIN-SUFFIX,civilmedia.tw
 DOMAIN-SUFFIX,civisec.org
+DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,classicalguitarblog.net
@@ -2785,6 +2782,7 @@ DOMAIN-SUFFIX,isohunt.com
 DOMAIN-SUFFIX,israbox.com
 DOMAIN-SUFFIX,issuu.com
 DOMAIN-SUFFIX,istars.co.nz
+DOMAIN-SUFFIX,istarshine.com
 DOMAIN-SUFFIX,istef.info
 DOMAIN-SUFFIX,istiqlalhewer.com
 DOMAIN-SUFFIX,istockphoto.com
@@ -3077,6 +3075,7 @@ DOMAIN-SUFFIX,lflinkup.org
 DOMAIN-SUFFIX,lfpcontent.com
 DOMAIN-SUFFIX,lhakar.org
 DOMAIN-SUFFIX,lhasocialwork.org
+DOMAIN-SUFFIX,li.taipei
 DOMAIN-SUFFIX,liangyou.net
 DOMAIN-SUFFIX,liangzhichuanmei.com
 DOMAIN-SUFFIX,lianyue.net
@@ -3382,6 +3381,7 @@ DOMAIN-SUFFIX,monar.ch
 DOMAIN-SUFFIX,mondex.org
 DOMAIN-SUFFIX,money-link.com.tw
 DOMAIN-SUFFIX,moneyhome.biz
+DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,monitorchina.org
 DOMAIN-SUFFIX,monitorware.com
 DOMAIN-SUFFIX,monlamit.org

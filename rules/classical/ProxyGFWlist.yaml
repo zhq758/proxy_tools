@@ -1,6 +1,5 @@
 payload:
   - DOMAIN,sm.ms
-  - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
   - DOMAIN-KEYWORD,appledaily
@@ -14,10 +13,8 @@ payload:
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,instagram
-  - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,sci-hub
-  - DOMAIN-KEYWORD,skydrive
   - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,ttvnw
@@ -131,7 +128,6 @@ payload:
   - DOMAIN-SUFFIX,6parkbbs.com
   - DOMAIN-SUFFIX,6parker.com
   - DOMAIN-SUFFIX,6parknews.com
-  - DOMAIN-SUFFIX,7-zip.org
   - DOMAIN-SUFFIX,7capture.com
   - DOMAIN-SUFFIX,7cow.com
   - DOMAIN-SUFFIX,8-d.com
@@ -963,7 +959,7 @@ payload:
   - DOMAIN-SUFFIX,civiliangunner.com
   - DOMAIN-SUFFIX,civilmedia.tw
   - DOMAIN-SUFFIX,civisec.org
-  - DOMAIN-SUFFIX,cjb.net
+  - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,ck101.com
   - DOMAIN-SUFFIX,clarionproject.org
   - DOMAIN-SUFFIX,clashios.com
@@ -1700,7 +1696,6 @@ payload:
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,flyvpn.com
   - DOMAIN-SUFFIX,flyzy2005.com
-  - DOMAIN-SUFFIX,flzbcdn.xyz
   - DOMAIN-SUFFIX,fmnnow.com
   - DOMAIN-SUFFIX,fnac.be
   - DOMAIN-SUFFIX,fnac.com
@@ -1986,6 +1981,7 @@ payload:
   - DOMAIN-SUFFIX,goagent.biz
   - DOMAIN-SUFFIX,goagentplus.com
   - DOMAIN-SUFFIX,gobet.cc
+  - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,godfootsteps.org
   - DOMAIN-SUFFIX,godns.work
   - DOMAIN-SUFFIX,godoc.org
@@ -2622,7 +2618,6 @@ payload:
   - DOMAIN-SUFFIX,icerocket.com
   - DOMAIN-SUFFIX,icij.org
   - DOMAIN-SUFFIX,icl-fi.org
-  - DOMAIN-SUFFIX,icntv.xyz
   - DOMAIN-SUFFIX,icoco.com
   - DOMAIN-SUFFIX,iconfactory.net
   - DOMAIN-SUFFIX,iconpaper.org
@@ -2760,6 +2755,7 @@ payload:
   - DOMAIN-SUFFIX,israbox.com
   - DOMAIN-SUFFIX,issuu.com
   - DOMAIN-SUFFIX,istars.co.nz
+  - DOMAIN-SUFFIX,istarshine.com
   - DOMAIN-SUFFIX,istef.info
   - DOMAIN-SUFFIX,istiqlalhewer.com
   - DOMAIN-SUFFIX,istockphoto.com
@@ -3060,6 +3056,7 @@ payload:
   - DOMAIN-SUFFIX,lfpcontent.com
   - DOMAIN-SUFFIX,lhakar.org
   - DOMAIN-SUFFIX,lhasocialwork.org
+  - DOMAIN-SUFFIX,li.taipei
   - DOMAIN-SUFFIX,liangyou.net
   - DOMAIN-SUFFIX,liangzhichuanmei.com
   - DOMAIN-SUFFIX,lianyue.net
@@ -3375,6 +3372,7 @@ payload:
   - DOMAIN-SUFFIX,mondex.org
   - DOMAIN-SUFFIX,money-link.com.tw
   - DOMAIN-SUFFIX,moneyhome.biz
+  - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,monitorchina.org
   - DOMAIN-SUFFIX,monitorware.com
   - DOMAIN-SUFFIX,monlamit.org
@@ -3550,7 +3548,6 @@ payload:
   - DOMAIN-SUFFIX,network54.com
   - DOMAIN-SUFFIX,networkedblogs.com
   - DOMAIN-SUFFIX,networktunnel.net
-  - DOMAIN-SUFFIX,neulion.com
   - DOMAIN-SUFFIX,neverforget8964.org
   - DOMAIN-SUFFIX,new-3lunch.net
   - DOMAIN-SUFFIX,new-akiba.com
@@ -3841,7 +3838,6 @@ payload:
   - DOMAIN-SUFFIX,page.link
   - DOMAIN-SUFFIX,page.tl
   - DOMAIN-SUFFIX,page2rss.com
-  - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,pagodabox.com
   - DOMAIN-SUFFIX,palacemoon.com
   - DOMAIN-SUFFIX,paldengyal.com
@@ -5068,7 +5064,6 @@ payload:
   - DOMAIN-SUFFIX,tracfone.com
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,translate.goog
-  - DOMAIN-SUFFIX,translate.google
   - DOMAIN-SUFFIX,transparency.org
   - DOMAIN-SUFFIX,treemall.com.tw
   - DOMAIN-SUFFIX,trendsmap.com
@@ -5980,7 +5975,6 @@ payload:
   - IP-CIDR,103.27.148.0/22,no-resolve
   - IP-CIDR,103.4.96.0/22,no-resolve
   - IP-CIDR,108.168.174.0/16,no-resolve
-  - IP-CIDR,109.239.140.0/24,no-resolve
   - IP-CIDR,110.76.140.0/22,no-resolve
   - IP-CIDR,113.61.104.0/22,no-resolve
   - IP-CIDR,119.235.224.0/24,no-resolve
@@ -6000,7 +5994,6 @@ payload:
   - IP-CIDR,140.82.113.26/32,no-resolve
   - IP-CIDR,140.82.114.25/32,no-resolve
   - IP-CIDR,147.92.128.0/17,no-resolve
-  - IP-CIDR,149.154.160.0/20,no-resolve
   - IP-CIDR,157.240.0.0/17,no-resolve
   - IP-CIDR,158.85.224.160/27,no-resolve
   - IP-CIDR,158.85.46.128/27,no-resolve
@@ -6060,7 +6053,3 @@ payload:
   - IP-CIDR,74.119.76.0/22,no-resolve
   - IP-CIDR,74.125.0.0/16,no-resolve
   - IP-CIDR,75.126.150.0/16,no-resolve
-  - IP-CIDR,91.108.0.0/16,no-resolve
-  - IP-CIDR6,2001:67c:4e8::/48,no-resolve
-  - IP-CIDR6,2001:b28:f23d::/48,no-resolve
-  - IP-CIDR6,2001:b28:f23f::/48,no-resolve

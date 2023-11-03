@@ -1,7 +1,7 @@
 # 内容: 📺 国内媒体 规则集
 # 备注: 本列表为国内媒体直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月24日21:46:42
-# 数量: 244条
+# 更新: 2023年11月03日12:43:10
+# 数量: 246条
 
 # 资讯
 DOMAIN-SUFFIX,0xzx.com
@@ -184,14 +184,20 @@ USER-AGENT,Bilibili*
 USER-AGENT,bili*
 USER-AGENT,bili-inter*
 DOMAIN,apiintl.biliapi.net
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.cn
@@ -199,12 +205,6 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
-DOMAIN,p-bstarstatic.akamaized.net
-DOMAIN,p.bstarstatic.com
-DOMAIN,upos-bstar-mirrorakam.akamaized.net
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,bilibili.tv
 IP-CIDR,103.151.150.0/23,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,128.1.62.200/32,no-resolve

@@ -397,7 +397,6 @@ payload:
   - DOMAIN-SUFFIX,glassdoor.com
   - DOMAIN-SUFFIX,go.wofun.me
   - DOMAIN-SUFFIX,go2map.com
-  - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,godic.net
   - DOMAIN-SUFFIX,got001.com
   - DOMAIN-SUFFIX,growsumo.com
@@ -747,7 +746,6 @@ payload:
   - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,sollico.com
   - DOMAIN-SUFFIX,songw.top
-  - DOMAIN-SUFFIX,sony.com
   - DOMAIN-SUFFIX,soso.com
   - DOMAIN-SUFFIX,soufunimg.com
   - DOMAIN-SUFFIX,spcloud.info
