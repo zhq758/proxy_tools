@@ -754,6 +754,7 @@ payload:
   - DOMAIN-SUFFIX,squarespace.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,sspai.com
+  - DOMAIN-SUFFIX,starchart.cc
   - DOMAIN-SUFFIX,startssl.com
   - DOMAIN-SUFFIX,stash.wiki
   - DOMAIN-SUFFIX,static-ecst.licdn.com
