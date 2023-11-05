@@ -137,11 +137,13 @@ payload:
   - DOMAIN-SUFFIX,ft.com
   - DOMAIN-SUFFIX,gzhyhd.com
   - DOMAIN-SUFFIX,h5xb.me
+  - DOMAIN-SUFFIX,haokongbu123.com
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,hl91.one
   - DOMAIN-SUFFIX,hshtcm.com
   - DOMAIN-SUFFIX,hz.netease.com
   - DOMAIN-SUFFIX,im9.com
+  - DOMAIN-SUFFIX,img1.mandudu.com
   - DOMAIN-SUFFIX,inter.iqiyi.com
   - DOMAIN-SUFFIX,inter.ptqy.gitv.tv
   - DOMAIN-SUFFIX,intl.iqiyi.com
@@ -152,6 +154,7 @@ payload:
   - DOMAIN-SUFFIX,jsdrtzn.com
   - DOMAIN-SUFFIX,kefw355s.online
   - DOMAIN-SUFFIX,laban4652rznc.online
+  - DOMAIN-SUFFIX,lain.bgm.tv
   - DOMAIN-SUFFIX,liangzipic.com
   - DOMAIN-SUFFIX,m3u8.pw
   - DOMAIN-SUFFIX,m4c7r.com
@@ -170,12 +173,14 @@ payload:
   - DOMAIN-SUFFIX,szgpmy.com
   - DOMAIN-SUFFIX,tiantiandy.com
   - DOMAIN-SUFFIX,v.smtcdns.com
+  - DOMAIN-SUFFIX,vdm3.com
   - DOMAIN-SUFFIX,vqlwe8.com
   - DOMAIN-SUFFIX,vv.video.qq.com
   - DOMAIN-SUFFIX,x5d3b.com
   - DOMAIN-SUFFIX,xcyy668.com
   - DOMAIN-SUFFIX,xinsheng168.com
   - DOMAIN-SUFFIX,xl720.com
+  - DOMAIN-SUFFIX,xl720.dnscf.vip
   - DOMAIN-SUFFIX,xunleidianying.com
   - DOMAIN-SUFFIX,xunleimi.net
   - DOMAIN-SUFFIX,xvasd6.com
