@@ -8,10 +8,13 @@ DOMAIN-SUFFIX,0xzx.com
 DOMAIN-SUFFIX,ft.com
 
 # 动漫
+# ＞ Bangumi番组计划
 DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,lain.bgm.tv
 # > 樱花动漫网
 DOMAIN-SUFFIX,cdn.yinghuazy.xyz
 DOMAIN-SUFFIX,yhdm52.com
+DOMAIN-SUFFIX,vdm3.com
 
 # 影视资源
 DOMAIN-SUFFIX,216441.xyz
@@ -32,7 +35,6 @@ DOMAIN-SUFFIX,smdy91.com
 DOMAIN-SUFFIX,szgpmy.com
 DOMAIN-SUFFIX,x5d3b.com
 DOMAIN-SUFFIX,xinsheng168.com
-DOMAIN-SUFFIX,xl720.com
 DOMAIN-SUFFIX,xunleidianying.com
 DOMAIN-SUFFIX,xunleimi.net
 DOMAIN-SUFFIX,ygdy8.net
@@ -103,29 +105,35 @@ DOMAIN,v.gsuus.com
 DOMAIN-SUFFIX,jisihan.com
 DOMAIN-SUFFIX,jitaiwelding.com
 DOMAIN-SUFFIX,m3u8.pw
-# > Javdb
-DOMAIN-KEYWORD,javdb
-DOMAIN-SUFFIX,jdbstatic.com
-# > SiFang Club
-DOMAIN,fabu2023a01.xyz
-DOMAIN,heavyucuc321ucz.xyz
-DOMAIN,herehere000aaa.xyz
-DOMAIN,mmpp111h.xyz
-DOMAIN,mmpp222h.xyz
-DOMAIN,mmpp999h.xyz
-DOMAIN,octavius0315qrdt.life
-DOMAIN,octavius1954afrc.life
-DOMAIN,osmond1594ufyd.life
-DOMAIN,osmond2345yhsj.life
-DOMAIN,t22.cdn2020.com
-DOMAIN-SUFFIX,fghio3456sa.online
-DOMAIN-SUFFIX,kefw355s.online
-DOMAIN-SUFFIX,laban4652rznc.online
-DOMAIN-SUFFIX,pipisf.xyz
-DOMAIN-SUFFIX,sfpic2023c.xyz
 # > 天狼影院
 DOMAIN,c2.monidai.com
 DOMAIN-SUFFIX,jsdrtzn.com
+# > 2048
+DOMAIN,bbs.64j8.org
+DOMAIN,bbs.zgogc.com
+DOMAIN,d4j7dvjq.net
+DOMAIN,get.datapps.org
+DOMAIN,iuy.zxcvbnasd.cfd
+DOMAIN,pb.u9zn.world
+# > 迅雷电影天堂
+DOMAIN-SUFFIX,xl720.com
+DOMAIN-SUFFIX,xl720.dnscf.vip
+# ＞ 好恐怖
+DOMAIN-SUFFIX,haokongbu123.com
+DOMAIN-SUFFIX,img1.mandudu.com
+
+# Porn
+# > 杏吧视频
+DOMAIN-SUFFIX,h5xb.me
+DOMAIN-SUFFIX,xvasd6.com
+# > 第一会所
+IP-CIDR,104.194.212.37/32,no-resolve
+# > 8X8X
+DOMAIN-SUFFIX,82lzona.top
+DOMAIN-SUFFIX,8vwgnb.top
+DOMAIN-SUFFIX,ncww8j.com
+DOMAIN-SUFFIX,p8olrc.com
+DOMAIN-SUFFIX,vqlwe8.com
 # > 66m.io
 DOMAIN-SUFFIX,383546.xyz
 DOMAIN-SUFFIX,660kqhm.top
@@ -154,24 +162,26 @@ DOMAIN-SUFFIX,8hznvd.top
 DOMAIN-SUFFIX,8pxxrs.top
 DOMAIN-SUFFIX,8rrhwg.top
 DOMAIN-SUFFIX,dsg.bio
-# > 2048
-DOMAIN,bbs.64j8.org
-DOMAIN,bbs.zgogc.com
-DOMAIN,d4j7dvjq.net
-DOMAIN,get.datapps.org
-DOMAIN,iuy.zxcvbnasd.cfd
-DOMAIN,pb.u9zn.world
-# > 杏吧视频
-DOMAIN-SUFFIX,h5xb.me
-DOMAIN-SUFFIX,xvasd6.com
-# > 第一会所
-IP-CIDR,104.194.212.37/32,no-resolve
-# > 8X8X
-DOMAIN-SUFFIX,82lzona.top
-DOMAIN-SUFFIX,8vwgnb.top
-DOMAIN-SUFFIX,ncww8j.com
-DOMAIN-SUFFIX,p8olrc.com
-DOMAIN-SUFFIX,vqlwe8.com
+# > Javdb
+DOMAIN-KEYWORD,javdb
+DOMAIN-SUFFIX,jdbstatic.com
+# > SiFang Club
+DOMAIN,fabu2023a01.xyz
+DOMAIN,heavyucuc321ucz.xyz
+DOMAIN,herehere000aaa.xyz
+DOMAIN,mmpp111h.xyz
+DOMAIN,mmpp222h.xyz
+DOMAIN,mmpp999h.xyz
+DOMAIN,octavius0315qrdt.life
+DOMAIN,octavius1954afrc.life
+DOMAIN,osmond1594ufyd.life
+DOMAIN,osmond2345yhsj.life
+DOMAIN,t22.cdn2020.com
+DOMAIN-SUFFIX,fghio3456sa.online
+DOMAIN-SUFFIX,kefw355s.online
+DOMAIN-SUFFIX,laban4652rznc.online
+DOMAIN-SUFFIX,pipisf.xyz
+DOMAIN-SUFFIX,sfpic2023c.xyz
 
 # 抖音
 DOMAIN-SUFFIX,ecombdapi.com
