@@ -32,8 +32,12 @@ payload:
   - DOMAIN-SUFFIX,antradar.com
   - DOMAIN-SUFFIX,api.myip.la
   - DOMAIN-SUFFIX,cdnst.net
+  - DOMAIN-SUFFIX,cellmaps.com
   - DOMAIN-SUFFIX,chaip.org
+  - DOMAIN-SUFFIX,ekahau.cloud
+  - DOMAIN-SUFFIX,ekahau.com
   - DOMAIN-SUFFIX,ez2o.com
+  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ip125.com
@@ -49,12 +53,18 @@ payload:
   - DOMAIN-SUFFIX,mudgee.host
   - DOMAIN-SUFFIX,nop.hu
   - DOMAIN-SUFFIX,nsx.de
+  - DOMAIN-SUFFIX,ookla.com
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,pingtest.net
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,sojson.com
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN-SUFFIX,speed.dler.io
   - DOMAIN-SUFFIX,speed.ffq-test.com
   - DOMAIN-SUFFIX,stdio.be
   - DOMAIN-SUFFIX,steffann.nl
   - DOMAIN-SUFFIX,tool.lu
   - DOMAIN-SUFFIX,tunnelbroker.net
   - DOMAIN-SUFFIX,vyncke.org
+  - DOMAIN-SUFFIX,webtest.net
   - DOMAIN-SUFFIX,wtfismyip.com
