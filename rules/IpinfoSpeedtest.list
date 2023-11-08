@@ -49,6 +49,16 @@ DOMAIN-SUFFIX,speed.ffq-test.com
 DOMAIN,cdn.ziffstatic.com
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,cellmaps.com
+DOMAIN-SUFFIX,ekahau.cloud
+DOMAIN-SUFFIX,ekahau.com
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ookla.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,pingtest.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-SUFFIX,webtest.net
 
 # IPv6测试
 DOMAIN,ipv4.duiadns.net
