@@ -21,6 +21,8 @@ payload:
   - DOMAIN,gllto.glpals.com
   - DOMAIN,good.boyy.cc
   - DOMAIN,gravatar.wp-china-yes.net
+  - DOMAIN,grs.dbankcloud.asia
+  - DOMAIN,grs.platform.dbankcloud.ru
   - DOMAIN,img1.wsimg.com
   - DOMAIN,ios.sxqifeng.com
   - DOMAIN,iosding.com
@@ -39,6 +41,7 @@ payload:
   - DOMAIN,static.nvidiagrid.net
   - DOMAIN,stats.mailgrate.com
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
+  - DOMAIN,stun.voipraider.com
   - DOMAIN,t.arcade.show
   - DOMAIN,time.is
   - DOMAIN,ts-ocsp.ws.symantec.com
