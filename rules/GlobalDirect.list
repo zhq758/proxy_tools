@@ -455,6 +455,12 @@ DOMAIN-SUFFIX,t1.hloli.org
 DOMAIN-SUFFIX,tr.burnabyhighstar.com
 DOMAIN-SUFFIX,tr.ready4.icu
 
+# 全球路由服务
+DOMAIN,grs.platform.dbankcloud.ru
+DOMAIN,grs.dbankcloud.asia
+# Stun服务
+DOMAIN,stun.voipraider.com
+
 # 其他
 DOMAIN,1-b.net
 DOMAIN,api.revenuecat.com
