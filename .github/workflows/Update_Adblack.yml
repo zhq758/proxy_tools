@@ -11,16 +11,20 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@master
 
-    - name: Download
+    - name: Download Rule
       run: |
+        echo 下载anti-AD
         curl -o new_surge.txt https://anti-ad.net/surge.txt
+        echo 下载自用黑名单
         curl -o Blacklist.txt https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt
+        echo 下载自用白名单
         curl -o Allowlist.txt https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Allowlist.txt
 
     - name: Process Rule File
       run: |
+        echo 开始处理规则文件
         echo 处理黑名单，添加进主规则
         sed -i -e '/^[#!]/d' -e '/^[[:space:]]*$/d' -e 's/||\|^@//g' -e 's/\^//g' -e 's/^/DOMAIN-SUFFIX,/' Blacklist.txt
         cat Blacklist.txt >> new_surge.txt
@@ -45,7 +49,7 @@ jobs:
         mv new_surge.txt rules/Adblack.txt
         mv new_surge2.txt rules/Adblack2.txt
 
-    - name: Commit and push
+    - name: Commit And Push
       run: |
         git config --global user.email "long632450362@qq.com" && git config --global user.name "Bot"
         git add rules/Adblack.txt rules/Adblack2.txt && git commit -m "自动更新广告拦截规则"
