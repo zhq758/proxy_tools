@@ -1,4 +1,4 @@
-name: Update Adblack File
+name: Adblack_update
 
 on:
   workflow_dispatch:
