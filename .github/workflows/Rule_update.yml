@@ -68,7 +68,7 @@ jobs:
            mv "rules/classical/$(basename $file .list).yaml.sorted" "rules/classical/$(basename $file .list).yaml"
           done
 
-          echo 更新README文件
+          echo 更新README.md
           new_date=$(TZ='Asia/Shanghai' date +'%Y年%m月%d日%H:%M:%S')
           count_1=$(grep -v -e '^$' -e '^#' -e '^!' rules/*.list | grep -v 'Adblack.list' | wc -l)
           sed -i "s/最近更新: .*/最近更新: $new_date/" README.md
