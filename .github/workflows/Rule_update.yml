@@ -13,33 +13,31 @@ jobs:
         run: sudo timedatectl set-timezone Asia/Shanghai
       
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@master
 
       - name: Get last commit files
         id: last_commit
         run: |
           echo "sha=$(git rev-parse HEAD)" >> $GITHUB_ENV
 
-      - name: Get changed files
+      - name: Process Rule File
         id: file_list
         run: |
           COMMIT=${{ env.sha }}
           URL="https://api.github.com/repos/${{ github.repository }}/compare/${COMMIT}^...${COMMIT}"
           FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[] | select(.filename | test("^rules/.*\\.list$")) | .filename')
 
-      - name: Process Rule File
-        run: |
           echo 更新规则文件
           for file in $FILES; do
             current_date=$(TZ=Asia/Shanghai date '+%Y年%m月%d日%H:%M:%S')
             count=$(grep -v -e '^$' -e '^#' -e '^!' $file | wc -l)
             count_with_unit="${count}条"
-            echo 修改数量和日期
+            # 修改数量和日期
             sed -i "s/^# 更新: .*/# 更新: $current_date/" $file
             sed -i "s/^# 数量: .*/# 数量: $count_with_unit/" $file
-            echo 修正字符
+            # 修正字符
             sed -i 's/＞/>/g' $file
-            echo 修改规则正序
+            # 修改规则正序
             temp_file=$(mktemp)
             domain_list=""
             while IFS= read -r line || [[ -n $line ]]; do
@@ -57,13 +55,12 @@ jobs:
               echo "$domain_list" | sort | sed '/^$/d' >> "$temp_file"
             fi
             mv "$temp_file" "$file"
-
-           echo 转换Classical规则
+           # 转换Classical规则
            mkdir -p rules/classical
            cp "$file" "rules/classical/$(basename $file .list).yaml"
            sed -i '1s/^/payload:\n/' "rules/classical/$(basename $file .list).yaml"
            sed -i '1!{/^DOMAIN\|^IP\|^PROCESS/!d; s/^/  - /}' "rules/classical/$(basename $file .list).yaml"
-           echo 排序Classical规则
+           # 排序Classical规则
            { head -n 1 "rules/classical/$(basename $file .list).yaml"; tail -n +2 "rules/classical/$(basename $file .list).yaml" | sort; } > "rules/classical/$(basename $file .list).yaml.sorted"
            mv "rules/classical/$(basename $file .list).yaml.sorted" "rules/classical/$(basename $file .list).yaml"
           done
