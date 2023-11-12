@@ -6,11 +6,11 @@ on:
     - cron: "0 20 * * *"
 
 jobs:
-  update-surge:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
+    - name: Checkout
       uses: actions/checkout@master
 
     - name: Download Rule
@@ -24,7 +24,6 @@ jobs:
 
     - name: Process Rule File
       run: |
-        echo 开始处理规则文件
         echo 处理黑名单，添加进主规则
         sed -i -e '/^[#!]/d' -e '/^[[:space:]]*$/d' -e 's/||\|^@//g' -e 's/\^//g' -e 's/^/DOMAIN-SUFFIX,/' Blacklist.txt
         cat Blacklist.txt >> new_surge.txt
