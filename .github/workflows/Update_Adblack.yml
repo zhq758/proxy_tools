@@ -19,36 +19,35 @@ jobs:
         curl -o Blacklist.txt https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt
         curl -o Allowlist.txt https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Allowlist.txt
 
-    - name: Add Blacklist
+    - name: Process Rule File
       run: |
+        echo 处理黑名单，添加进主规则
         sed -i -e '/^[#!]/d' -e '/^[[:space:]]*$/d' -e 's/||\|^@//g' -e 's/\^//g' -e 's/^/DOMAIN-SUFFIX,/' Blacklist.txt
         cat Blacklist.txt >> new_surge.txt
-
-    - name: Remove Blacklist Based on Whitelist
-      run: |
+        
+        echo 处理白名单，删除对应规则
         awk '/^[^!#]/{print "DOMAIN-SUFFIX,"$1}' Allowlist.txt > allowlist.txt
         sed -i 's/\^//g' allowlist.txt
         while IFS= read -r line; do
           sed -i "/$line/d" new_surge.txt
         done < allowlist.txt
-
-    - name: Remove Original Comments, Add New Comments
-      run: |
+        
+        echo 添加注释数量时间备注
         sed -i '/^[#!]/d' new_surge.txt
         new_version=$(TZ=Asia/Shanghai date '+%Y年%m月%d日%H:%M:%S')
         rule_count=$(grep -E 'DOMAIN-SUFFIX' new_surge.txt | wc -l)
         sed -i "1i\\# 内容: 🚫 广告过滤 规则集\\n# 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD\\n# 更新: $new_version\\n# 数量: $rule_count条" new_surge.txt
-
-    - name: Copy Adblack.txt to Adblack2.txt
-      run: |
+     
+        echo 创建DOMAIN-SET格式规则
         cp new_surge.txt new_surge2.txt
         sed -i 's/DOMAIN-SUFFIX,/\./g' new_surge2.txt
 
-    - name: Replace old Surge.txt with modified version
-      run: |
         mv new_surge.txt rules/Adblack.txt
         mv new_surge2.txt rules/Adblack2.txt
-        git config --global user.email "632450362@qq.com" && git config --global user.name "Bot"
+
+    - name: Commit and push
+      run: |
+        git config --global user.email "long632450362@qq.com" && git config --global user.name "Bot"
         git add rules/Adblack.txt rules/Adblack2.txt && git commit -m "自动更新广告拦截规则"
         git push
 
