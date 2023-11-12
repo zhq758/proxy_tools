@@ -1,6 +1,6 @@
 # 内容: Ⓜ️ 微软服务 规则集
 # 备注: 本列表为微软服务直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年11月12日17:19:58
+# 更新: 2023年11月12日16:48:37
 # 数量: 101条
 
 DOMAIN-SUFFIX,appcenter.ms
@@ -21,10 +21,8 @@ DOMAIN,s1325.t.eloqua.com
 DOMAIN,sapphire.bingviz.com
 DOMAIN,sb.scorecardresearch.com
 
-
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
-DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
