@@ -13,7 +13,7 @@ jobs:
         run: sudo timedatectl set-timezone Asia/Shanghai
       
       - name: Checkout
-        uses: actions/checkout@V3
+        uses: actions/checkout@v3
 
       - name: Get last commit files
         id: last_commit
