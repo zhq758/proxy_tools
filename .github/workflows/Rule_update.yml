@@ -77,7 +77,7 @@ jobs:
       - name: Commit And Push
         run: |
           git config --global user.email "long632450362@qq.com" && git config --global user.name "Bot"
-          git add -A && git commit --allow-empty-message -m ""
+          git add -A && git commit -m "日常更新" && git commit -m "README.md" README.md
           git push
 
       - name: Cleanup Workflow
