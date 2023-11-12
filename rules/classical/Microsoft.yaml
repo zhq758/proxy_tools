@@ -5,7 +5,6 @@ payload:
   - DOMAIN,sb.scorecardresearch.com
   - DOMAIN,sharepoint-df.com
   - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
