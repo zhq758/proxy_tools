@@ -781,6 +781,7 @@ payload:
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,t1.hloli.org
   - DOMAIN-SUFFIX,taihe.com
+  - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,taobaocdn.com
   - DOMAIN-SUFFIX,tbcache.com
