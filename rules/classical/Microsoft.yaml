@@ -3,7 +3,6 @@ payload:
   - DOMAIN,s1325.t.eloqua.com
   - DOMAIN,sapphire.bingviz.com
   - DOMAIN,sb.scorecardresearch.com
-  - DOMAIN,sharepoint-df.com
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,onedrive
@@ -26,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-SUFFIX,cloudapp.net
   - DOMAIN-SUFFIX,cloudappsecurity.com
+  - DOMAIN-SUFFIX,default.exp-tas.com
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,gfx.ms
   - DOMAIN-SUFFIX,hotmail.com
@@ -69,6 +69,7 @@ payload:
   - DOMAIN-SUFFIX,public-trust.com
   - DOMAIN-SUFFIX,sfbassets.com
   - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,sharepoint-df.com
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,skydrive.wns.windows.com
