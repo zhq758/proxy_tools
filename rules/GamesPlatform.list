@@ -1,7 +1,7 @@
 # 内容: 🎮 游戏平台 规则集
 # 备注: 本列表为游戏及平台直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年11月03日12:43:10
-# 数量: 80条
+# 更新: 2023年11月14日14:07:21
+# 数量: 84条
 
 # 原神
 DOMAIN-SUFFIX,hoyoverse.com
@@ -36,9 +36,9 @@ DOMAIN-SUFFIX,g0.gsf.easbar.com
 
 # King Games
 DOMAIN-SUFFIX,king.com
-DOMAIN-SUFFIX,midasplayer.com
-DOMAIN-SUFFIX,midasplayer.cloud
 DOMAIN-SUFFIX,kinggames-multisite.onvanilla.net
+DOMAIN-SUFFIX,midasplayer.cloud
+DOMAIN-SUFFIX,midasplayer.com
 
 # Supercell
 DOMAIN-SUFFIX,supercell.com

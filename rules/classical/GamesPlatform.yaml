@@ -31,7 +31,9 @@ payload:
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,igame.gcloudcs.com
   - DOMAIN-SUFFIX,king.com
+  - DOMAIN-SUFFIX,kinggames-multisite.onvanilla.net
   - DOMAIN-SUFFIX,mbgame.anticheatexpert.com
+  - DOMAIN-SUFFIX,midasplayer.cloud
   - DOMAIN-SUFFIX,midasplayer.com
   - DOMAIN-SUFFIX,nintendo-europe.com
   - DOMAIN-SUFFIX,nintendo.be
@@ -68,6 +70,8 @@ payload:
   - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,stryder.respawn.com
+  - DOMAIN-SUFFIX,supercell.com
+  - DOMAIN-SUFFIX,supercell.net
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,unrealengine.com
   - DOMAIN-SUFFIX,valve.net
