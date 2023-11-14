@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年11月13日08:24:02
-# 数量: 1216条
+# 更新: 2023年11月14日13:06:19
+# 数量: 1218条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -211,9 +211,9 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,oliverhou.com
 DOMAIN-SUFFIX,pc841.com
-DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
+DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,runtufenxiang.com
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,songw.top
@@ -414,8 +414,8 @@ DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
 
 # 生活出行
-DOMAIN-SUFFIX,unfccc.int
 DOMAIN-SUFFIX,bioscompass.com
+DOMAIN-SUFFIX,unfccc.int
 # > 招聘
 DOMAIN-SUFFIX,glassdoor.com
 # > Agoda

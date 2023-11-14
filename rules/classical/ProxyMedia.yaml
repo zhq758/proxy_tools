@@ -8,6 +8,9 @@ payload:
   - DOMAIN,bahamut.akamaized.net
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN,bcbolthboa-a.akamaihd.net
+  - DOMAIN,cbsi.live.ott.irdeto.com
+  - DOMAIN,cbsplaylistserver.aws.syncbak.com
+  - DOMAIN,cbsservice.aws.syncbak.com
   - DOMAIN,cdn.registerdisney.go.com
   - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
   - DOMAIN,content.jwplatform.com
@@ -24,7 +27,9 @@ payload:
   - DOMAIN,d3c7rimkq79yfu.cloudfront.net
   - DOMAIN,dai3fd1oh325y.cloudfront.net
   - DOMAIN,dfp6rglgjqszk.cloudfront.net
+  - DOMAIN,discovery-us.conax.cloud
   - DOMAIN,dmqdd6hw24ucf.cloudfront.net
+  - DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
   - DOMAIN,edge.api.brightcove.com
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net
@@ -42,6 +47,7 @@ payload:
   - DOMAIN,itvpnpmobile-a.akamaihd.net
   - DOMAIN,kktv-theater.kk.stream
   - DOMAIN,ktpx.amazon.com
+  - DOMAIN,link.theplatform.com
   - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
   - DOMAIN,mytvsuperlimited.hb.omtrdc.net
   - DOMAIN,mytvsuperlimited.sc.omtrdc.net
@@ -112,6 +118,9 @@ payload:
   - DOMAIN-SUFFIX,braze.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,c4assets.com
+  - DOMAIN-SUFFIX,cbsaavideo.com
+  - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,cbsivideo.com
   - DOMAIN-SUFFIX,cdn.registerdisney.go.com
   - DOMAIN-SUFFIX,cdn.stripcash.com
   - DOMAIN-SUFFIX,cdn13.com
@@ -136,6 +145,9 @@ payload:
   - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
   - DOMAIN-SUFFIX,disco-api.com
   - DOMAIN-SUFFIX,discovery.com
+  - DOMAIN-SUFFIX,discoveryplus.co.uk
+  - DOMAIN-SUFFIX,discoveryplus.com
+  - DOMAIN-SUFFIX,discoveryplus.in
   - DOMAIN-SUFFIX,disney-plus.net
   - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
   - DOMAIN-SUFFIX,disney.demdex.net
@@ -144,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
   - DOMAIN-SUFFIX,disneystreaming.com
   - DOMAIN-SUFFIX,dmc.nico
+  - DOMAIN-SUFFIX,dnitv.com
   - DOMAIN-SUFFIX,doppiocdn.com
   - DOMAIN-SUFFIX,doppiocdn.net
   - DOMAIN-SUFFIX,doppiocdn.org
@@ -158,7 +171,9 @@ payload:
   - DOMAIN-SUFFIX,fox.com
   - DOMAIN-SUFFIX,foxdcg.com
   - DOMAIN-SUFFIX,fullxhcdn.com
+  - DOMAIN-SUFFIX,fwmrm.net
   - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN-SUFFIX,getblueshift.com
   - DOMAIN-SUFFIX,go.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,gvt2.com
@@ -212,6 +227,7 @@ payload:
   - DOMAIN-SUFFIX,kktv.com.tw
   - DOMAIN-SUFFIX,kktv.me
   - DOMAIN-SUFFIX,linetv.tw
+  - DOMAIN-SUFFIX,litix.io
   - DOMAIN-SUFFIX,litv.tv
   - DOMAIN-SUFFIX,livejasmin.com
   - DOMAIN-SUFFIX,lovense-api.com
@@ -219,6 +235,7 @@ payload:
   - DOMAIN-SUFFIX,makemehappy.mom
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,megaxh.com
+  - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,mudvod.tv
   - DOMAIN-SUFFIX,muscdn.com
@@ -245,11 +262,13 @@ payload:
   - DOMAIN-SUFFIX,olevodtv.com
   - DOMAIN-SUFFIX,p-cdn.us
   - DOMAIN-SUFFIX,pandora.com
+  - DOMAIN-SUFFIX,paramountplus.com
   - DOMAIN-SUFFIX,pbs.org
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,pplusstatic.com
   - DOMAIN-SUFFIX,prod.hjholdings.tv
   - DOMAIN-SUFFIX,profile.line-scdn.net
   - DOMAIN-SUFFIX,pscdn.co
