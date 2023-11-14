@@ -34,10 +34,15 @@ DOMAIN-SUFFIX,stryder.respawn.com
 DOMAIN-SUFFIX,easebar.com
 DOMAIN-SUFFIX,g0.gsf.easbar.com
 
-# 糖果苏打传奇
+# King Games
 DOMAIN-SUFFIX,king.com
 DOMAIN-SUFFIX,midasplayer.com
+DOMAIN-SUFFIX,midasplayer.cloud
+DOMAIN-SUFFIX,kinggames-multisite.onvanilla.net
 
+# Supercell
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,supercell.net
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
