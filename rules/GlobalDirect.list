@@ -211,6 +211,7 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,oliverhou.com
 DOMAIN-SUFFIX,pc841.com
+DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,pianshen.com
 DOMAIN-SUFFIX,quchao.net
 DOMAIN-SUFFIX,runtufenxiang.com
@@ -413,6 +414,7 @@ DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenovomm.com
 
 # 生活出行
+DOMAIN-SUFFIX,unfccc.int
 DOMAIN-SUFFIX,bioscompass.com
 # > 招聘
 DOMAIN-SUFFIX,glassdoor.com

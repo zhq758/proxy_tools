@@ -8,6 +8,35 @@ DOMAIN-SUFFIX,lovense-api.com
 DOMAIN-SUFFIX,lovense.com
 IP-CIDR,104.19.128.100/32,no-resolve
 
+# ParamountPlus
+DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,link.theplatform.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+USER-AGENT,PPlus*
+
+# DiscoveryPlus
+DOMAIN,discovery-us.conax.cloud
+DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
+DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discovery.com
+DOMAIN-SUFFIX,discoveryplus.co.uk
+DOMAIN-SUFFIX,discoveryplus.com
+DOMAIN-SUFFIX,discoveryplus.in
+DOMAIN-SUFFIX,dnitv.com
+DOMAIN-SUFFIX,fwmrm.net
+DOMAIN-SUFFIX,getblueshift.com
+DOMAIN-SUFFIX,litix.io
+DOMAIN-SUFFIX,mobile-collector.newrelic.com
+DOMAIN-SUFFIX,uplynk.com
+USER-AGENT,DPlus*
+USER-AGENT,discovery+*
+
 # Porn
 # > PornDude
 DOMAIN-SUFFIX,assets.tpdfiles.com
@@ -149,10 +178,6 @@ DOMAIN-SUFFIX,indaznlab.com
 USER-AGENT,Deezer*
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
-# DiscoveryPlus
-DOMAIN-SUFFIX,disco-api.com
-DOMAIN-SUFFIX,discovery.com
-DOMAIN-SUFFIX,uplynk.com
 # DisneyPlus
 USER-AGENT,Disney*
 USER-AGENT,Disney+*
