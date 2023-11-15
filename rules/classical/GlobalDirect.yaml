@@ -365,6 +365,7 @@ payload:
   - DOMAIN-SUFFIX,filesweb.com
   - DOMAIN-SUFFIX,fir.im
   - DOMAIN-SUFFIX,flexclip.com
+  - DOMAIN-SUFFIX,flybace.com
   - DOMAIN-SUFFIX,fontawesome.com
   - DOMAIN-SUFFIX,fonts.com
   - DOMAIN-SUFFIX,fonts.net
@@ -498,6 +499,7 @@ payload:
   - DOMAIN-SUFFIX,jomodns.com
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jumei.com
+  - DOMAIN-SUFFIX,jwtechtips.top
   - DOMAIN-SUFFIX,kaikeba.com
   - DOMAIN-SUFFIX,kakocloud.pro
   - DOMAIN-SUFFIX,kanimg.com
