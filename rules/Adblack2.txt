@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2023年11月16日04:15:36
-# 数量: 74829条
+# 更新: 2023年11月16日15:05:03
+# 数量: 74828条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -9133,7 +9133,6 @@
 .fclick.baidu.com
 .fclog.baidu.com
 .fcm.baidu.com
-.feed-image.baidu.com
 .goutong.baidu.com
 .hao123union.baidu.com
 .hijack.baidu.com
