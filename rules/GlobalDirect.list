@@ -405,7 +405,7 @@ DOMAIN-SUFFIX,gateworks.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,intel.com
 # > Nvidia
-DOMAIN,static.nvidiagrid.net
+DOMAIN-SUFFIX,nvidiagrid.net
 DOMAIN-SUFFIX,nvidia.com
 # > 罗技
 DOMAIN-SUFFIX,logi.com
