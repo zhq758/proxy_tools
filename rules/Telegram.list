@@ -4,6 +4,8 @@
 # 数量: 13条
 
 IP-CIDR,5.28.195.80/32,no-resolve
+DOMAIN-KEYWORD,nicegram
+DOMAIN-SUFFIX,mbrx.app
 
 
 # ------------------------------------------------
