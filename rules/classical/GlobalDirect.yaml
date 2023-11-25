@@ -620,7 +620,6 @@ payload:
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,nruan.com
   - DOMAIN-SUFFIX,nsloon.com
-  - DOMAIN-SUFFIX,nssurge.com
   - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-SUFFIX,nuomi.com
   - DOMAIN-SUFFIX,nvidia.com
@@ -1149,7 +1148,6 @@ payload:
   - IP-CIDR,212.64.0.0/17,no-resolve
   - IP-CIDR,221.226.128.146/32,no-resolve
   - IP-CIDR,223.252.192.0/19,no-resolve
-  - IP-CIDR,35.190.88.7/32,no-resolve
   - IP-CIDR,41.222.240.0/22,no-resolve
   - IP-CIDR,41.223.119.0/24,no-resolve
   - IP-CIDR,42.186.0.0/16,no-resolve
