@@ -395,9 +395,7 @@ DOMAIN-SUFFIX,nsloon.com
 DOMAIN-SUFFIX,sollico.com
 DOMAIN-SUFFIX,zwjpai.com
 # > Surge
-DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,surge-activation.com
-IP-CIDR,35.190.88.7/32,no-resolve
 
 # 电脑类
 DOMAIN-SUFFIX,asus.com
