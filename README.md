@@ -16,9 +16,11 @@ https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_
 https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/Loon_config_mphin.conf
 ```
 ## 策略组内容及顺序
-> 规则集非碎片化，建议添加所有规则集确保完整性，注意规则集的先后顺序
+> 规则集非碎片化，建议添加所有规则集确保完整性，注意规则集优先级
 - **🎯 全球直连**：
   - [https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/LocalAreaNetwork.list](https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/LocalAreaNetwork.list)
+- **🚫 广告拦截**：(⚠️低性能设备不建议添加)
+  - [https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Adblack.txt](https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Adblack.txt)
 - **📢 谷歌服务**：
   - [https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Google.list](https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/Google.list)
 - **🤖 AI｜奈飞**：
@@ -41,14 +43,9 @@ https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/Loon_config_mphin.co
   - [https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyGFWlist.list](https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyGFWlist.list)
 - **🎯 全球直连**：
   - [https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GlobalDirect.list](https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/GlobalDirect.list)
-- **🎯 全球直连[]GEOIP,CN**
-- **🐟 漏网之鱼[]FINAL**
-## 进阶玩法:
-* Loon及Stash策略组图标集:
-     > QX及其他未测试应该也支持
-```
-    https://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
-```
+- **🎯 全球直连**：GEOIP,CN
+- **🐟 漏网之鱼**：FINAL
+
 ## 致谢
 - [@ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
 - [@Loon0x00/LoonExampleConfig](https://github.com/Loon0x00/LoonExampleConfig)
