@@ -39,6 +39,7 @@ DOMAIN,sm.ms
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,wirewax.com
+DOMAIN-SUFFIX,imyfone.com
 # > Surge
 DOMAIN-SUFFIX,nssurge.com
 # > Docker
