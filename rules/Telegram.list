@@ -3,10 +3,11 @@
 # 更新: 2023年11月21日14:39:54
 # 数量: 15条
 
-DOMAIN-KEYWORD,nicegram
-DOMAIN-SUFFIX,mbrx.app
 IP-CIDR,5.28.195.80/32,no-resolve
 
+# Nicegram
+DOMAIN-KEYWORD,nicegram
+DOMAIN-SUFFIX,mbrx.app
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
