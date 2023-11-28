@@ -13,6 +13,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
+    - name: Set up time zone
+      run: sudo timedatectl set-timezone Asia/Shanghai
+
     - name: Download Rule
       run: |
         echo 下载anti-AD
