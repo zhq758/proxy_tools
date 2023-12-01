@@ -6,6 +6,7 @@
 # OpenAi
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,api.statsig.com
 
 
 # ------------------------------------------------
