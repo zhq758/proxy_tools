@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2023年11月29日04:15:37
-# 数量: 75211条
+# 更新: 2023年12月01日18:24:27
+# 数量: 75210条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -60706,7 +60706,6 @@ DOMAIN-SUFFIX,lb.statsevent.com
 DOMAIN-SUFFIX,statsforads.com
 DOMAIN-SUFFIX,statsforever.com
 DOMAIN-SUFFIX,tag.statshop.fr
-DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,statsinsight.com
 DOMAIN-SUFFIX,statsit.com
