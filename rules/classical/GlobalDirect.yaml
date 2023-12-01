@@ -131,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,adaway.org
   - DOMAIN-SUFFIX,adblockplus.org
   - DOMAIN-SUFFIX,adguard-dns.com
+  - DOMAIN-SUFFIX,adguard-dns.io
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,adguard.info
   - DOMAIN-SUFFIX,adobe.com
