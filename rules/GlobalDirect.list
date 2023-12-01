@@ -372,6 +372,7 @@ DOMAIN,version.pm2.io
 DOMAIN,zlc1.chaoyi996.com
 
 # DNS
+DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
