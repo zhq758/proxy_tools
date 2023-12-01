@@ -1,12 +1,12 @@
 # 内容: 🤖 AI｜奈飞 规则集
 # 备注: 本列表为OpenAi和Netflix代理域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年11月16日18:25:24
-# 数量: 45条
+# 更新: 2023年12月01日18:13:39
+# 数量: 46条
 
 # OpenAi
+DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,api.statsig.com
 
 
 # ------------------------------------------------
