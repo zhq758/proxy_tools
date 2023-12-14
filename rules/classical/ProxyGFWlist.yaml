@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN,sm.ms
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
   - DOMAIN-KEYWORD,appledaily
@@ -192,7 +191,6 @@ payload:
   - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,admob.com
   - DOMAIN-SUFFIX,adpl.org.hk
-  - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,adsense.com
   - DOMAIN-SUFFIX,adult-sex-games.com
   - DOMAIN-SUFFIX,adultfriendfinder.com
@@ -516,7 +514,6 @@ payload:
   - DOMAIN-SUFFIX,bemywife.cc
   - DOMAIN-SUFFIX,beric.me
   - DOMAIN-SUFFIX,berlinerbericht.de
-  - DOMAIN-SUFFIX,berlintwitterwall.com
   - DOMAIN-SUFFIX,berm.co.nz
   - DOMAIN-SUFFIX,bestforchina.org
   - DOMAIN-SUFFIX,bestgore.com
@@ -985,6 +982,7 @@ payload:
   - DOMAIN-SUFFIX,cmcn.org
   - DOMAIN-SUFFIX,cmi.org.tw
   - DOMAIN-SUFFIX,cmoinc.org
+  - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,cms.gov
   - DOMAIN-SUFFIX,cmu.edu
   - DOMAIN-SUFFIX,cmule.com
@@ -1663,7 +1661,6 @@ payload:
   - DOMAIN-SUFFIX,fillthesquare.org
   - DOMAIN-SUFFIX,filmingfortibet.org
   - DOMAIN-SUFFIX,filthdump.com
-  - DOMAIN-SUFFIX,financetwitter.com
   - DOMAIN-SUFFIX,finchvpn.com
   - DOMAIN-SUFFIX,findmespot.com
   - DOMAIN-SUFFIX,findyoutube.com
@@ -4467,7 +4464,6 @@ payload:
   - DOMAIN-SUFFIX,sijihuisuo.club
   - DOMAIN-SUFFIX,sijihuisuo.com
   - DOMAIN-SUFFIX,silkbook.com
-  - DOMAIN-SUFFIX,simbolostwitter.com
   - DOMAIN-SUFFIX,simplecd.org
   - DOMAIN-SUFFIX,simpleproductivityblog.com
   - DOMAIN-SUFFIX,sina.com.hk
@@ -4522,6 +4518,7 @@ payload:
   - DOMAIN-SUFFIX,slyip.com
   - DOMAIN-SUFFIX,slyip.net
   - DOMAIN-SUFFIX,sm-miracle.com
+  - DOMAIN-SUFFIX,sm.ms
   - DOMAIN-SUFFIX,smartdnsproxy.com
   - DOMAIN-SUFFIX,smarthide.com
   - DOMAIN-SUFFIX,smartmailcloud.com
@@ -4833,6 +4830,7 @@ payload:
   - DOMAIN-SUFFIX,telegramdownload.com
   - DOMAIN-SUFFIX,telegraph.co.uk
   - DOMAIN-SUFFIX,telghub.com
+  - DOMAIN-SUFFIX,tellapart.com
   - DOMAIN-SUFFIX,tellme.pw
   - DOMAIN-SUFFIX,tenacy.com
   - DOMAIN-SUFFIX,tensorflow.org
@@ -5122,7 +5120,6 @@ payload:
   - DOMAIN-SUFFIX,turansam.org
   - DOMAIN-SUFFIX,turbobit.net
   - DOMAIN-SUFFIX,turbohide.com
-  - DOMAIN-SUFFIX,turbotwitter.com
   - DOMAIN-SUFFIX,turkistantimes.com
   - DOMAIN-SUFFIX,turntable.fm
   - DOMAIN-SUFFIX,tushycash.com
@@ -5212,16 +5209,6 @@ payload:
   - DOMAIN-SUFFIX,twitpic.com
   - DOMAIN-SUFFIX,twitstat.com
   - DOMAIN-SUFFIX,twittbot.net
-  - DOMAIN-SUFFIX,twitter.com
-  - DOMAIN-SUFFIX,twitter.jp
-  - DOMAIN-SUFFIX,twitter4j.org
-  - DOMAIN-SUFFIX,twittercounter.com
-  - DOMAIN-SUFFIX,twitterfeed.com
-  - DOMAIN-SUFFIX,twittergadget.com
-  - DOMAIN-SUFFIX,twitterkr.com
-  - DOMAIN-SUFFIX,twittermail.com
-  - DOMAIN-SUFFIX,twitterrific.com
-  - DOMAIN-SUFFIX,twittertim.es
   - DOMAIN-SUFFIX,twitthat.com
   - DOMAIN-SUFFIX,twitturk.com
   - DOMAIN-SUFFIX,twitturly.com
@@ -5234,9 +5221,12 @@ payload:
   - DOMAIN-SUFFIX,twstar.net
   - DOMAIN-SUFFIX,twt.tl
   - DOMAIN-SUFFIX,twtkr.com
+  - DOMAIN-SUFFIX,twtrdns.net
   - DOMAIN-SUFFIX,twtrland.com
   - DOMAIN-SUFFIX,twttr.com
+  - DOMAIN-SUFFIX,twttr.net
   - DOMAIN-SUFFIX,twurl.nl
+  - DOMAIN-SUFFIX,twvid.com
   - DOMAIN-SUFFIX,twyac.org
   - DOMAIN-SUFFIX,txxx.com
   - DOMAIN-SUFFIX,tycool.com
@@ -5710,6 +5700,7 @@ payload:
   - DOMAIN-SUFFIX,x-berry.com
   - DOMAIN-SUFFIX,x-wall.org
   - DOMAIN-SUFFIX,x.co
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,x.company
   - DOMAIN-SUFFIX,x1949x.com
   - DOMAIN-SUFFIX,x24hr.com
@@ -5994,15 +5985,11 @@ payload:
   - IP-CIDR,129.134.0.0/17,no-resolve
   - IP-CIDR,13.32.0.0/15,no-resolve
   - IP-CIDR,13.35.0.0/17,no-resolve
-  - IP-CIDR,140.82.113.25/32,no-resolve
-  - IP-CIDR,140.82.113.26/32,no-resolve
-  - IP-CIDR,140.82.114.25/32,no-resolve
   - IP-CIDR,147.92.128.0/17,no-resolve
   - IP-CIDR,157.240.0.0/17,no-resolve
   - IP-CIDR,158.85.224.160/27,no-resolve
   - IP-CIDR,158.85.46.128/27,no-resolve
   - IP-CIDR,158.85.5.192/27,no-resolve
-  - IP-CIDR,172.217.160.74/32,no-resolve
   - IP-CIDR,173.192.222.160/27,no-resolve
   - IP-CIDR,173.192.231.32/27,no-resolve
   - IP-CIDR,173.194.0.0/16,no-resolve
@@ -6020,8 +6007,6 @@ payload:
   - IP-CIDR,180.163.151.34/32,no-resolve
   - IP-CIDR,184.173.128.0/17,no-resolve
   - IP-CIDR,185.60.216.0/22,no-resolve
-  - IP-CIDR,20.205.243.166/32,no-resolve
-  - IP-CIDR,20.205.243.168/32,no-resolve
   - IP-CIDR,203.104.128.0/19,no-resolve
   - IP-CIDR,203.208.39.0/24,no-resolve
   - IP-CIDR,203.208.40.0/24,no-resolve

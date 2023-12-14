@@ -1,15 +1,15 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外常规代理域名，不含Telegram、OpenAi及媒体，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年12月01日08:48:59
-# 数量: 6058条
+# 更新: 2023年12月14日13:08:37
+# 数量: 6043条
 
 # Twitter
-DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,x.com
 
 # Github
 DOMAIN-SUFFIX,ghcr.io
