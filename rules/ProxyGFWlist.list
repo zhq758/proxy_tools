@@ -3,17 +3,16 @@
 # 更新: 2023年12月01日08:48:59
 # 数量: 6058条
 
-# Github
-IP-CIDR,140.82.113.25/32,no-resolve
-IP-CIDR,140.82.113.26/32,no-resolve
-IP-CIDR,140.82.114.25/32,no-resolve
-IP-CIDR,20.205.243.166/32,no-resolve
-IP-CIDR,20.205.243.168/32,no-resolve
-# > 镜像仓库
-DOMAIN-SUFFIX,ghcr.io
+# Twitter
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
 
-# Google
-IP-CIDR,172.217.160.74/32,no-resolve
+# Github
+DOMAIN-SUFFIX,ghcr.io
 
 # 知识交流
 DOMAIN-SUFFIX,bulianglin.com
@@ -34,7 +33,7 @@ IP-CIDR,34.120.195.249/32,no-resolve
 # > CDN
 DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
 # > 图床
-DOMAIN,sm.ms
+DOMAIN-SUFFIX,sm.ms
 
 # 工具
 DOMAIN-SUFFIX,adguard-vpn.com
@@ -284,7 +283,6 @@ DOMAIN-SUFFIX,addyoutube.com
 DOMAIN-SUFFIX,adelaidebbs.com
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adpl.org.hk
-DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adult-sex-games.com
 DOMAIN-SUFFIX,adultfriendfinder.com
@@ -601,7 +599,6 @@ DOMAIN-SUFFIX,bell.wiki
 DOMAIN-SUFFIX,bemywife.cc
 DOMAIN-SUFFIX,beric.me
 DOMAIN-SUFFIX,berlinerbericht.de
-DOMAIN-SUFFIX,berlintwitterwall.com
 DOMAIN-SUFFIX,berm.co.nz
 DOMAIN-SUFFIX,bestforchina.org
 DOMAIN-SUFFIX,bestgore.com
@@ -1720,7 +1717,6 @@ DOMAIN-SUFFIX,filesor.com
 DOMAIN-SUFFIX,fillthesquare.org
 DOMAIN-SUFFIX,filmingfortibet.org
 DOMAIN-SUFFIX,filthdump.com
-DOMAIN-SUFFIX,financetwitter.com
 DOMAIN-SUFFIX,finchvpn.com
 DOMAIN-SUFFIX,findmespot.com
 DOMAIN-SUFFIX,findyoutube.com
@@ -4463,7 +4459,6 @@ DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,sijihuisuo.club
 DOMAIN-SUFFIX,sijihuisuo.com
 DOMAIN-SUFFIX,silkbook.com
-DOMAIN-SUFFIX,simbolostwitter.com
 DOMAIN-SUFFIX,simplecd.org
 DOMAIN-SUFFIX,simpleproductivityblog.com
 DOMAIN-SUFFIX,sina.com.hk
@@ -5104,7 +5099,6 @@ DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,turansam.org
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,turbohide.com
-DOMAIN-SUFFIX,turbotwitter.com
 DOMAIN-SUFFIX,turkistantimes.com
 DOMAIN-SUFFIX,turntable.fm
 DOMAIN-SUFFIX,tushycash.com
@@ -5189,16 +5183,6 @@ DOMAIN-SUFFIX,twitonmsn.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitstat.com
 DOMAIN-SUFFIX,twittbot.net
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,twitter4j.org
-DOMAIN-SUFFIX,twittercounter.com
-DOMAIN-SUFFIX,twitterfeed.com
-DOMAIN-SUFFIX,twittergadget.com
-DOMAIN-SUFFIX,twitterkr.com
-DOMAIN-SUFFIX,twittermail.com
-DOMAIN-SUFFIX,twitterrific.com
-DOMAIN-SUFFIX,twittertim.es
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twitturk.com
 DOMAIN-SUFFIX,twitturly.com
