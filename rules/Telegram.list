@@ -9,6 +9,9 @@ IP-CIDR,5.28.195.80/32,no-resolve
 DOMAIN-KEYWORD,nicegram
 DOMAIN-SUFFIX,mbrx.app
 
+# Swiftgram
+DOMAIN,api.swiftgram.app
+
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
 DOMAIN-SUFFIX,t.me
