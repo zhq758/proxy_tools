@@ -52,7 +52,9 @@ DOMAIN-SUFFIX,007.tg
 DOMAIN-SUFFIX,godaddy.com
 
 # VPN相关
-DOMAIN-SUFFIX,bajie.pw
+DOMAIN-SUFFIX,bajie.run
+DOMAIN-SUFFIX,bajie.wiki
+DOMAIN-SUFFIX,bajie.one
 DOMAIN-SUFFIX,ktmcloud.shop
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,xf.gl
