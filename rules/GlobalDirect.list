@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年12月01日08:48:59
-# 数量: 1220条
+# 更新: 2023年12月17日12:12:43
+# 数量: 1219条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -307,7 +307,7 @@ DOMAIN-SUFFIX,mozilla.org
 DOMAIN,chat.lexiao360.com
 DOMAIN,chatai.98dongman.com
 DOMAIN-SUFFIX,lexiao66.com
-# ＞ 抖音电脑版
+# > 抖音电脑版
 DOMAIN-SUFFIX,rtcg.volcvideos.com
 
 # VPN相关
