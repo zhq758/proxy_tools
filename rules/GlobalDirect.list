@@ -303,14 +303,12 @@ DOMAIN-SUFFIX,nmteam.xyz
 # > 浏览器
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.org
-# > 国产GPT
-# > > Chat8
+# > Chat8
 DOMAIN,chat.lexiao360.com
 DOMAIN,chatai.98dongman.com
 DOMAIN-SUFFIX,lexiao66.com
-# > > TDChat
-DOMAIN-SUFFIX,tdchatapp.us
-DOMAIN-SUFFIX,tdvip.us
+# ＞ 抖音电脑版
+DOMAIN-SUFFIX,rtcg.volcvideos.com
 
 # VPN相关
 DOMAIN-SUFFIX,2220.it
