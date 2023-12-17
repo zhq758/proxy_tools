@@ -307,8 +307,6 @@ DOMAIN-SUFFIX,mozilla.org
 DOMAIN,chat.lexiao360.com
 DOMAIN,chatai.98dongman.com
 DOMAIN-SUFFIX,lexiao66.com
-# > 抖音电脑版
-DOMAIN-SUFFIX,rtcg.volcvideos.com
 
 # VPN相关
 DOMAIN-SUFFIX,2220.it

@@ -186,6 +186,8 @@ DOMAIN-SUFFIX,sfpic2023c.xyz
 # 抖音
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,zijieapi.com
+# > 抖音电脑版
+DOMAIN-SUFFIX,rtcg.volcvideos.com
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
