@@ -1,15 +1,12 @@
 payload:
   - DOMAIN,1-b.net
   - DOMAIN,api.revenuecat.com
-  - DOMAIN,bgrem.ai
   - DOMAIN,cdn.cdnjson.com
   - DOMAIN,chat.lexiao360.com
   - DOMAIN,chatai.98dongman.com
-  - DOMAIN,cron.qqe2.com
   - DOMAIN,cs.ioc.ee
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,data.osdknw.com
-  - DOMAIN,dbcha.com
   - DOMAIN,digitalcertvalidation.com
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
@@ -42,15 +39,12 @@ payload:
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
   - DOMAIN,stun.voipraider.com
   - DOMAIN,t.arcade.show
-  - DOMAIN,time.is
   - DOMAIN,ts-ocsp.ws.symantec.com
   - DOMAIN,u.mcashier.xyz
   - DOMAIN,use.typekit.net
   - DOMAIN,utteranc.es
   - DOMAIN,version.pm2.io
   - DOMAIN,vps02.net.orel.ru
-  - DOMAIN,webrate.org
-  - DOMAIN,who.is
   - DOMAIN,wmsjsteam.com
   - DOMAIN,xiazai.cab
   - DOMAIN,xz.ioszhi.com
@@ -207,6 +201,7 @@ payload:
   - DOMAIN-SUFFIX,bdurl.net
   - DOMAIN-SUFFIX,bdxiguaimg.com
   - DOMAIN-SUFFIX,bdxiguastatic.com
+  - DOMAIN-SUFFIX,bgrem.ai
   - DOMAIN-SUFFIX,bing.myan.cf
   - DOMAIN-SUFFIX,bioscompass.com
   - DOMAIN-SUFFIX,biqudu.com
@@ -292,11 +287,13 @@ payload:
   - DOMAIN-SUFFIX,coolapk.com
   - DOMAIN-SUFFIX,coolapkmarket.com
   - DOMAIN-SUFFIX,crisp.chat
+  - DOMAIN-SUFFIX,cron.qqe2.com
   - DOMAIN-SUFFIX,csdn.net
   - DOMAIN-SUFFIX,ctfassets.net
   - DOMAIN-SUFFIX,ctrip.com
   - DOMAIN-SUFFIX,dangdang.com
   - DOMAIN-SUFFIX,dbankcdn.com
+  - DOMAIN-SUFFIX,dbcha.com
   - DOMAIN-SUFFIX,ddz.ee
   - DOMAIN-SUFFIX,dearyou.one
   - DOMAIN-SUFFIX,dfcfw.com
@@ -401,6 +398,7 @@ payload:
   - DOMAIN-SUFFIX,go2map.com
   - DOMAIN-SUFFIX,godic.net
   - DOMAIN-SUFFIX,got001.com
+  - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,growsumo.com
   - DOMAIN-SUFFIX,gtimg.com
   - DOMAIN-SUFFIX,guazi.com
@@ -806,6 +804,7 @@ payload:
   - DOMAIN-SUFFIX,tidio.com
   - DOMAIN-SUFFIX,tietuku.com
   - DOMAIN-SUFFIX,tiexue.net
+  - DOMAIN-SUFFIX,time.is
   - DOMAIN-SUFFIX,tmall.com
   - DOMAIN-SUFFIX,tmall.hk
   - DOMAIN-SUFFIX,tmiaoo.com
@@ -857,6 +856,7 @@ payload:
   - DOMAIN-SUFFIX,wangwangit.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,webflow.com
+  - DOMAIN-SUFFIX,webrate.org
   - DOMAIN-SUFFIX,website-files.com
   - DOMAIN-SUFFIX,webtechsurvey.com
   - DOMAIN-SUFFIX,wechat.com
@@ -870,6 +870,7 @@ payload:
   - DOMAIN-SUFFIX,weiphone.net
   - DOMAIN-SUFFIX,weixin.com
   - DOMAIN-SUFFIX,weiyun.com
+  - DOMAIN-SUFFIX,who.is
   - DOMAIN-SUFFIX,wi-cat.ru
   - DOMAIN-SUFFIX,winscp.net
   - DOMAIN-SUFFIX,wix.com

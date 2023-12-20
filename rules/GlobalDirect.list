@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年12月17日16:06:35
-# 数量: 1212条
+# 更新: 2023年12月20日09:47:56
+# 数量: 1213条
 
 # 网站服务
 DOMAIN,giscus.app
@@ -263,10 +263,9 @@ DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,scene7.com
 # > 在线工具
 DOMAIN-SUFFIX,bgrem.ai
+DOMAIN-SUFFIX,chinafirewalltest.com
 DOMAIN-SUFFIX,cron.qqe2.com
 DOMAIN-SUFFIX,dbcha.com
-DOMAIN-SUFFIX,who.is
-DOMAIN-SUFFIX,chinafirewalltest.com
 DOMAIN-SUFFIX,mainlandip.com
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,metools.info
@@ -274,18 +273,19 @@ DOMAIN-SUFFIX,regex.ai
 DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
 DOMAIN-SUFFIX,webtechsurvey.com
+DOMAIN-SUFFIX,who.is
 # > 时间同步
-DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,time.is
 IP-CIDR,193.182.111.14/32,no-resolve
 IP-CIDR,78.46.102.180/32,no-resolve
 # > 统计分析
-DOMAIN-SUFFIX,webrate.org
 DOMAIN-SUFFIX,codecov.io
 DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,similarweb.io
+DOMAIN-SUFFIX,webrate.org
 # > 消息推送
 DOMAIN-SUFFIX,pushplus.plus
 # > 过滤器
