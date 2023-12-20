@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
   - DOMAIN-SUFFIX,playstationnetwork.com
+  - DOMAIN-SUFFIX,pubg.com
   - DOMAIN-SUFFIX,pubgbluehole.com
   - DOMAIN-SUFFIX,pubgha.com
   - DOMAIN-SUFFIX,pubwxp-mim.vivox.com
