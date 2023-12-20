@@ -116,6 +116,7 @@ IP-CIDR,152.195.38.76/32,no-resolve
 # > CDN
 DOMAIN,cdn.cdnjson.com
 DOMAIN,fast.wistia.net
+DOMAIN-SUFFIX,sanity.io
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,b-cdn.net
