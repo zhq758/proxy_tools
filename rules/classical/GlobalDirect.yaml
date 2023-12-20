@@ -708,6 +708,7 @@ payload:
   - DOMAIN-SUFFIX,s3.bmp.ovh
   - DOMAIN-SUFFIX,sakuras.cloud
   - DOMAIN-SUFFIX,sandai.net
+  - DOMAIN-SUFFIX,sanity.io
   - DOMAIN-SUFFIX,sankuai.com
   - DOMAIN-SUFFIX,scene7.com
   - DOMAIN-SUFFIX,sectigo.com
