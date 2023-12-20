@@ -262,10 +262,10 @@ DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,scene7.com
 # > 在线工具
-DOMAIN,bgrem.ai
-DOMAIN,cron.qqe2.com
-DOMAIN,dbcha.com
-DOMAIN,who.is
+DOMAIN-SUFFIX,bgrem.ai
+DOMAIN-SUFFIX,cron.qqe2.com
+DOMAIN-SUFFIX,dbcha.com
+DOMAIN-SUFFIX,who.is
 DOMAIN-SUFFIX,chinafirewalltest.com
 DOMAIN-SUFFIX,mainlandip.com
 DOMAIN-SUFFIX,mermaid.live
@@ -275,12 +275,12 @@ DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,urlencoder.org
 DOMAIN-SUFFIX,webtechsurvey.com
 # > 时间同步
-DOMAIN,time.is
+DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,ntp.org
 IP-CIDR,193.182.111.14/32,no-resolve
 IP-CIDR,78.46.102.180/32,no-resolve
 # > 统计分析
-DOMAIN,webrate.org
+DOMAIN-SUFFIX,webrate.org
 DOMAIN-SUFFIX,codecov.io
 DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,similarcdn.com
@@ -301,6 +301,7 @@ DOMAIN-SUFFIX,cll46.top
 # > Bot
 DOMAIN-SUFFIX,nmteam.xyz
 # > 浏览器
+DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.org
 # > Chat8
