@@ -1,17 +1,9 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年12月20日11:49:49
-# 数量: 1214条
+# 更新: 2023年12月27日14:08:52
+# 数量: 1215条
 
 # 网站服务
-DOMAIN-SUFFIX,giscus.app
-DOMAIN-SUFFIX,good.boyy.cc
-DOMAIN-SUFFIX,gravatar.wp-china-yes.net
-DOMAIN-SUFFIX,polyfill.io
-DOMAIN-SUFFIX,stats.mailgrate.com
-DOMAIN-SUFFIX,t.arcade.show
-DOMAIN-SUFFIX,use.typekit.net
-DOMAIN-SUFFIX,utteranc.es
 DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
@@ -45,6 +37,9 @@ DOMAIN-SUFFIX,freshping.io
 DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,gangguana.com
 DOMAIN-SUFFIX,getapp.com
+DOMAIN-SUFFIX,giscus.app
+DOMAIN-SUFFIX,good.boyy.cc
+DOMAIN-SUFFIX,gravatar.wp-china-yes.net
 DOMAIN-SUFFIX,growsumo.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,helpscout.com
@@ -67,6 +62,7 @@ DOMAIN-SUFFIX,mux.com
 DOMAIN-SUFFIX,openresty.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,polyfill.io
+DOMAIN-SUFFIX,polyfill.io
 DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,qualified.com
@@ -80,16 +76,20 @@ DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,static-ecst.licdn.com
+DOMAIN-SUFFIX,stats.mailgrate.com
 DOMAIN-SUFFIX,swiftype.com
 DOMAIN-SUFFIX,swiftypecdn.com
+DOMAIN-SUFFIX,t.arcade.show
 DOMAIN-SUFFIX,tailwindui.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,tidio.co
 DOMAIN-SUFFIX,tidio.com
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,uptimerobot.com
+DOMAIN-SUFFIX,use.typekit.net
 DOMAIN-SUFFIX,usemessages.com
 DOMAIN-SUFFIX,userleap.com
+DOMAIN-SUFFIX,utteranc.es
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,website-files.com
 DOMAIN-SUFFIX,wix.com
@@ -114,14 +114,14 @@ DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,verisign.com
 IP-CIDR,152.195.38.76/32,no-resolve
 # > CDN
-DOMAIN-SUFFIX,cdnjson.com
-DOMAIN-SUFFIX,fast.wistia.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,cdnjson.com
 DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,fast.wistia.net
 DOMAIN-SUFFIX,fastgit.org
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,footprint.net
@@ -232,12 +232,11 @@ DOMAIN-SUFFIX,yattazen.com
 DOMAIN-SUFFIX,zengqiangwl.com
 
 # 网站导航
-DOMAIN-SUFFIX,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
+DOMAIN-SUFFIX,xiazai.cab
 DOMAIN-SUFFIX,xiazai.vin
 
 # APP工具
-DOMAIN-SUFFIX,pixocial.com
 DOMAIN-SUFFIX,api.nolanstore.cc
 DOMAIN-SUFFIX,arcadia.cool
 DOMAIN-SUFFIX,boxjs.app
@@ -247,6 +246,7 @@ DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,my-netdata.io
 DOMAIN-SUFFIX,notability.com
+DOMAIN-SUFFIX,pixocial.com
 DOMAIN-SUFFIX,pnpm.io
 DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,rclone.org
@@ -378,16 +378,16 @@ DOMAIN-SUFFIX,freenom.world
 DOMAIN-SUFFIX,namesilo.com
 
 # IOS相关
-DOMAIN-SUFFIX,iosding.com
-DOMAIN-SUFFIX,jabi.cc
-DOMAIN-SUFFIX,jabizb.com
-DOMAIN-SUFFIX,stash.ws
-DOMAIN-SUFFIX,xz.ioszhi.com
 DOMAIN-SUFFIX,api.day.app
 DOMAIN-SUFFIX,comcsoft.com
 DOMAIN-SUFFIX,footprints.net
+DOMAIN-SUFFIX,iosding.com
+DOMAIN-SUFFIX,jabi.cc
+DOMAIN-SUFFIX,jabizb.com
 DOMAIN-SUFFIX,nsloon.com
 DOMAIN-SUFFIX,sollico.com
+DOMAIN-SUFFIX,stash.ws
+DOMAIN-SUFFIX,xz.ioszhi.com
 DOMAIN-SUFFIX,zwjpai.com
 # > Surge
 DOMAIN-SUFFIX,surge-activation.com

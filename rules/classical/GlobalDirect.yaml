@@ -1,7 +1,6 @@
 payload:
   - DOMAIN,1-b.net
   - DOMAIN,api.revenuecat.com
-  - DOMAIN,cdn.cdnjson.com
   - DOMAIN,chat.lexiao360.com
   - DOMAIN,chatai.98dongman.com
   - DOMAIN,cs.ioc.ee
@@ -12,42 +11,27 @@ payload:
   - DOMAIN,dl.steam.ksyna.com
   - DOMAIN,dota2.wmsj.cn
   - DOMAIN,fakermetaverse.xyz
-  - DOMAIN,fast.wistia.net
-  - DOMAIN,giscus.app
   - DOMAIN,git.metauniverse-cn.com
   - DOMAIN,gllto.glpals.com
-  - DOMAIN,good.boyy.cc
-  - DOMAIN,gravatar.wp-china-yes.net
   - DOMAIN,grs.dbankcloud.asia
   - DOMAIN,grs.platform.dbankcloud.ru
   - DOMAIN,img1.wsimg.com
   - DOMAIN,ios.sxqifeng.com
-  - DOMAIN,iosding.com
-  - DOMAIN,jabi.cc
-  - DOMAIN,jabizb.com
   - DOMAIN,kr.kingran.cf
   - DOMAIN,nodejs.org
   - DOMAIN,op.supes.top
-  - DOMAIN,polyfill.io
   - DOMAIN,registry.npmjs.org
   - DOMAIN,shop.ioiox.xyz
   - DOMAIN,st.dl.bscstorage.net
   - DOMAIN,st.dl.eccdnx.com
   - DOMAIN,st.dl.pinyuncloud.com
-  - DOMAIN,stash.ws
-  - DOMAIN,stats.mailgrate.com
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
   - DOMAIN,stun.voipraider.com
-  - DOMAIN,t.arcade.show
   - DOMAIN,ts-ocsp.ws.symantec.com
   - DOMAIN,u.mcashier.xyz
-  - DOMAIN,use.typekit.net
-  - DOMAIN,utteranc.es
   - DOMAIN,version.pm2.io
   - DOMAIN,vps02.net.orel.ru
   - DOMAIN,wmsjsteam.com
-  - DOMAIN,xiazai.cab
-  - DOMAIN,xz.ioszhi.com
   - DOMAIN,xz.pphimalayanrt.com
   - DOMAIN,zlc1.chaoyi996.com
   - DOMAIN-KEYWORD,360buy
@@ -239,6 +223,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.nz.lu
   - DOMAIN-SUFFIX,cdn77.com
   - DOMAIN-SUFFIX,cdn77.org
+  - DOMAIN-SUFFIX,cdnjson.com
   - DOMAIN-SUFFIX,cdnmama.com
   - DOMAIN-SUFFIX,cedexis-test.com
   - DOMAIN-SUFFIX,chaipip.com
@@ -348,6 +333,7 @@ payload:
   - DOMAIN-SUFFIX,ewqcxz.com
   - DOMAIN-SUFFIX,fang.com
   - DOMAIN-SUFFIX,fantasy.tv
+  - DOMAIN-SUFFIX,fast.wistia.net
   - DOMAIN-SUFFIX,fastgit.org
   - DOMAIN-SUFFIX,fastly.com
   - DOMAIN-SUFFIX,feelgood.cn
@@ -390,6 +376,7 @@ payload:
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,ghpym.com
   - DOMAIN-SUFFIX,gifshow.com
+  - DOMAIN-SUFFIX,giscus.app
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitlab.net
@@ -397,7 +384,9 @@ payload:
   - DOMAIN-SUFFIX,go.wofun.me
   - DOMAIN-SUFFIX,go2map.com
   - DOMAIN-SUFFIX,godic.net
+  - DOMAIN-SUFFIX,good.boyy.cc
   - DOMAIN-SUFFIX,got001.com
+  - DOMAIN-SUFFIX,gravatar.wp-china-yes.net
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,growsumo.com
   - DOMAIN-SUFFIX,gtimg.com
@@ -466,6 +455,7 @@ payload:
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,intercomassets.com
   - DOMAIN-SUFFIX,ioiox.com
+  - DOMAIN-SUFFIX,iosding.com
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,iqiyipic.com
@@ -475,6 +465,8 @@ payload:
   - DOMAIN-SUFFIX,ixdzs.com
   - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-SUFFIX,iyideng.vip
+  - DOMAIN-SUFFIX,jabi.cc
+  - DOMAIN-SUFFIX,jabizb.com
   - DOMAIN-SUFFIX,jamesdailylife.com
   - DOMAIN-SUFFIX,jcloudcs.com
   - DOMAIN-SUFFIX,jd.com
@@ -644,9 +636,11 @@ payload:
   - DOMAIN-SUFFIX,pdfwifi.com
   - DOMAIN-SUFFIX,pianshen.com
   - DOMAIN-SUFFIX,pinduoduo.com
+  - DOMAIN-SUFFIX,pixocial.com
   - DOMAIN-SUFFIX,plushare.tk
   - DOMAIN-SUFFIX,png.cm
   - DOMAIN-SUFFIX,pnpm.io
+  - DOMAIN-SUFFIX,polyfill.io
   - DOMAIN-SUFFIX,polyfill.io
   - DOMAIN-SUFFIX,polyv.net
   - DOMAIN-SUFFIX,postimages.org
@@ -760,8 +754,10 @@ payload:
   - DOMAIN-SUFFIX,starchart.cc
   - DOMAIN-SUFFIX,startssl.com
   - DOMAIN-SUFFIX,stash.wiki
+  - DOMAIN-SUFFIX,stash.ws
   - DOMAIN-SUFFIX,static-ecst.licdn.com
   - DOMAIN-SUFFIX,staticfile.org
+  - DOMAIN-SUFFIX,stats.mailgrate.com
   - DOMAIN-SUFFIX,stealth.si
   - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamcontent.com
@@ -779,6 +775,7 @@ payload:
   - DOMAIN-SUFFIX,symcb.com
   - DOMAIN-SUFFIX,symcd.com
   - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,t.arcade.show
   - DOMAIN-SUFFIX,t1.hloli.org
   - DOMAIN-SUFFIX,taihe.com
   - DOMAIN-SUFFIX,tailwindui.com
@@ -837,9 +834,11 @@ payload:
   - DOMAIN-SUFFIX,uptimerobot.com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,urlencoder.org
+  - DOMAIN-SUFFIX,use.typekit.net
   - DOMAIN-SUFFIX,usemessages.com
   - DOMAIN-SUFFIX,userleap.com
   - DOMAIN-SUFFIX,usertrust.com
+  - DOMAIN-SUFFIX,utteranc.es
   - DOMAIN-SUFFIX,uugetting.com
   - DOMAIN-SUFFIX,uxengine.net
   - DOMAIN-SUFFIX,v-56.com
@@ -891,6 +890,7 @@ payload:
   - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,xiaomi.net
   - DOMAIN-SUFFIX,xiaomicp.com
+  - DOMAIN-SUFFIX,xiazai.cab
   - DOMAIN-SUFFIX,xiazai.vin
   - DOMAIN-SUFFIX,ximalaya.com
   - DOMAIN-SUFFIX,xinhuanet.com
@@ -906,6 +906,7 @@ payload:
   - DOMAIN-SUFFIX,xueqiu.com
   - DOMAIN-SUFFIX,xunlei.com
   - DOMAIN-SUFFIX,xxxx.com
+  - DOMAIN-SUFFIX,xz.ioszhi.com
   - DOMAIN-SUFFIX,y4er.com
   - DOMAIN-SUFFIX,yach.me
   - DOMAIN-SUFFIX,yangkeduo.com
