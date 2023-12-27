@@ -4,14 +4,14 @@
 # 数量: 1214条
 
 # 网站服务
-DOMAIN,giscus.app
-DOMAIN,good.boyy.cc
-DOMAIN,gravatar.wp-china-yes.net
-DOMAIN,polyfill.io
-DOMAIN,stats.mailgrate.com
-DOMAIN,t.arcade.show
-DOMAIN,use.typekit.net
-DOMAIN,utteranc.es
+DOMAIN-SUFFIX,giscus.app
+DOMAIN-SUFFIX,good.boyy.cc
+DOMAIN-SUFFIX,gravatar.wp-china-yes.net
+DOMAIN-SUFFIX,polyfill.io
+DOMAIN-SUFFIX,stats.mailgrate.com
+DOMAIN-SUFFIX,t.arcade.show
+DOMAIN-SUFFIX,use.typekit.net
+DOMAIN-SUFFIX,utteranc.es
 DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,abetterinternet.org
 DOMAIN-SUFFIX,algolia.com
@@ -114,8 +114,8 @@ DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,verisign.com
 IP-CIDR,152.195.38.76/32,no-resolve
 # > CDN
-DOMAIN,cdn.cdnjson.com
-DOMAIN,fast.wistia.net
+DOMAIN-SUFFIX,cdnjson.com
+DOMAIN-SUFFIX,fast.wistia.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,amazonwebservicesss.com
 DOMAIN-SUFFIX,b-cdn.net
@@ -232,11 +232,12 @@ DOMAIN-SUFFIX,yattazen.com
 DOMAIN-SUFFIX,zengqiangwl.com
 
 # 网站导航
-DOMAIN,xiazai.cab
+DOMAIN-SUFFIX,xiazai.cab
 DOMAIN-SUFFIX,msn90.com
 DOMAIN-SUFFIX,xiazai.vin
 
 # APP工具
+DOMAIN-SUFFIX,pixocial.com
 DOMAIN-SUFFIX,api.nolanstore.cc
 DOMAIN-SUFFIX,arcadia.cool
 DOMAIN-SUFFIX,boxjs.app
@@ -377,11 +378,11 @@ DOMAIN-SUFFIX,freenom.world
 DOMAIN-SUFFIX,namesilo.com
 
 # IOS相关
-DOMAIN,iosding.com
-DOMAIN,jabi.cc
-DOMAIN,jabizb.com
-DOMAIN,stash.ws
-DOMAIN,xz.ioszhi.com
+DOMAIN-SUFFIX,iosding.com
+DOMAIN-SUFFIX,jabi.cc
+DOMAIN-SUFFIX,jabizb.com
+DOMAIN-SUFFIX,stash.ws
+DOMAIN-SUFFIX,xz.ioszhi.com
 DOMAIN-SUFFIX,api.day.app
 DOMAIN-SUFFIX,comcsoft.com
 DOMAIN-SUFFIX,footprints.net
