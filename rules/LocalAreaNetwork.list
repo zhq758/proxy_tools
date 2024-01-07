@@ -1,16 +1,10 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为本地/局域网直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年10月22日17:33:05
-# 数量: 34条
+# 更新: 2024年01月07日15:06:58
+# 数量: 55条
 
-IP-CIDR,169.254.0.0/16,no-resolve
-IP-CIDR,192.0.0.0/24,no-resolve
-IP-CIDR,192.0.2.0/24,no-resolve
-IP-CIDR,192.88.99.0/24,no-resolve
-IP-CIDR,198.51.100.0/24,no-resolve
-IP-CIDR,203.0.113.0/24,no-resolve
-DOMAIN,cp.cloudflare.com
 DOMAIN,asusrouter.com
+DOMAIN,cp.cloudflare.com
 DOMAIN,detectportal.firefox.com
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
@@ -23,6 +17,12 @@ DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,ts.net
+IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,192.0.0.0/24,no-resolve
+IP-CIDR,192.0.2.0/24,no-resolve
+IP-CIDR,192.88.99.0/24,no-resolve
+IP-CIDR,198.51.100.0/24,no-resolve
+IP-CIDR,203.0.113.0/24,no-resolve
 
 
 # ------------------------------------------------
