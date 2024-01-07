@@ -1,7 +1,7 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外常规代理域名，不含Telegram、OpenAi及媒体，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年12月17日15:19:45
-# 数量: 6044条
+# 更新: 2024年01月07日13:14:28
+# 数量: 6045条
 
 # Twitter
 DOMAIN-SUFFIX,cms-twdigitalassets.com
@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
+DOMAIN-SUFFIX,buzzsprout.com
 DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,dubox.com
@@ -86,7 +87,6 @@ DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
-DOMAIN-SUFFIX,buzzsprout.com
 # 国外域名
 DOMAIN-SUFFIX,ca
 DOMAIN-SUFFIX,eu
