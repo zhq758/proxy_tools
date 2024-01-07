@@ -1,8 +1,4 @@
 payload:
-  - DOMAIN,img-s-msn-com.akamaized.net
-  - DOMAIN,s1325.t.eloqua.com
-  - DOMAIN,sapphire.bingviz.com
-  - DOMAIN,sb.scorecardresearch.com
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,onedrive
@@ -25,10 +21,12 @@ payload:
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-SUFFIX,cloudapp.net
   - DOMAIN-SUFFIX,cloudappsecurity.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,default.exp-tas.com
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,gfx.ms
   - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,livefilestore.com
@@ -67,6 +65,9 @@ payload:
   - DOMAIN-SUFFIX,phonefactor.net
   - DOMAIN-SUFFIX,photos.live.com
   - DOMAIN-SUFFIX,public-trust.com
+  - DOMAIN-SUFFIX,s1325.t.eloqua.com
+  - DOMAIN-SUFFIX,sapphire.bingviz.com
+  - DOMAIN-SUFFIX,sb.scorecardresearch.com
   - DOMAIN-SUFFIX,sfbassets.com
   - DOMAIN-SUFFIX,sfx.ms
   - DOMAIN-SUFFIX,sharepoint-df.com
