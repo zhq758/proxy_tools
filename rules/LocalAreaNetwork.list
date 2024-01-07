@@ -3,9 +3,32 @@
 # 更新: 2023年10月22日17:33:05
 # 数量: 34条
 
+IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,192.0.0.0/24,no-resolve
+IP-CIDR,192.0.2.0/24,no-resolve
+IP-CIDR,192.88.99.0/24,no-resolve
+IP-CIDR,198.51.100.0/24,no-resolve
+IP-CIDR,203.0.113.0/24,no-resolve
+DOMAIN,cp.cloudflare.com
+DOMAIN,asusrouter.com
+DOMAIN,detectportal.firefox.com
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+DOMAIN-SUFFIX,localhost.sec.qq.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,networkcheck.kde.org
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,test.steampowered.com
+DOMAIN-SUFFIX,tplinkwifi.net
+DOMAIN-SUFFIX,ts.net
+
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
+# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
+DOMAIN-SUFFIX,acl4.ssr
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
