@@ -588,8 +588,6 @@ payload:
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mpyit.com
-  - DOMAIN-SUFFIX,msftconnecttest.com
-  - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msn90.com
   - DOMAIN-SUFFIX,msstatic.com
   - DOMAIN-SUFFIX,mubu.com
@@ -834,6 +832,7 @@ payload:
   - DOMAIN-SUFFIX,unfccc.int
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,upaiyun.com
+  - DOMAIN-SUFFIX,update.argotunnel.com
   - DOMAIN-SUFFIX,uptimerobot.com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,urlencoder.org

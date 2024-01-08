@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为直连域名，不含谷歌、苹果、微软、游戏及IP测速相关，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2024年01月07日13:14:27
-# 数量: 1219条
+# 更新: 2024年01月08日13:57:28
+# 数量: 1218条
 
 # 网站服务
 DOMAIN-SUFFIX,6sense.com
@@ -133,12 +133,12 @@ DOMAIN-SUFFIX,unpkg.com
 IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
 # > > Cloudflare
-DOMAIN-SUFFIX,update.argotunnel.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,compute-pipe.com
+DOMAIN-SUFFIX,update.argotunnel.com
 # > 图床
 DOMAIN-SUFFIX,666546.xyz
 DOMAIN-SUFFIX,ax1x.com
