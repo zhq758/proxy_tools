@@ -133,6 +133,7 @@ DOMAIN-SUFFIX,unpkg.com
 IP-CIDR,172.224.26.144/32,no-resolve
 IP-CIDR,192.9.149.24/32,no-resolve
 # > > Cloudflare
+DOMAIN-SUFFIX,update.argotunnel.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareclient.com
@@ -497,8 +498,6 @@ DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,kaikeba.com
 DOMAIN-SUFFIX,laomo.me
 DOMAIN-SUFFIX,mpyit.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,pdfwifi.com
 DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,snapdrop.net
