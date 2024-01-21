@@ -558,6 +558,7 @@ payload:
   - DOMAIN-SUFFIX,mapbox.com
   - DOMAIN-SUFFIX,marvelcdb.com
   - DOMAIN-SUFFIX,matomo.org
+  - DOMAIN-SUFFIX,maxcdn.com
   - DOMAIN-SUFFIX,medallia.com
   - DOMAIN-SUFFIX,meilishuo.com
   - DOMAIN-SUFFIX,meipai.com
