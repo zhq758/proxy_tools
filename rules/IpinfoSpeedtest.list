@@ -4,11 +4,12 @@
 # 数量: 69条
 
 # IP查询
-DOMAIN,2023.ip138.com
-DOMAIN,6.ipchaxun.net
-DOMAIN,ip.900cha.com
-DOMAIN,mip.chinaz.com
-DOMAIN,qifu-api.baidubce.com
+DOMAIN-SUFFIX,2023.ip138.com
+DOMAIN-SUFFIX,6.ipchaxun.net
+DOMAIN-SUFFIX,ip.900cha.com
+DOMAIN-SUFFIX,mip.chinaz.com
+DOMAIN-SUFFIX,qifu-api.baidubce.com
+DOMAIN-SUFFIX,api.ipinfo.be
 DOMAIN-SUFFIX,api.myip.la
 DOMAIN-SUFFIX,chaip.org
 DOMAIN-SUFFIX,ez2o.com
