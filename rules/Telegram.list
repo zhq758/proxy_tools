@@ -3,6 +3,7 @@
 # 更新: 2023年12月16日15:17:52
 # 数量: 16条
 
+# Telegram
 IP-CIDR,5.28.195.80/32,no-resolve
 
 # Nicegram
@@ -14,11 +15,10 @@ DOMAIN,api.swiftgram.app
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
+DOMAIN-KEYWORD,telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telesco.pe
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve

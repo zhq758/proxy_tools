@@ -234,7 +234,6 @@ DOMAIN,hbolb.onwardsmg.com
 DOMAIN,hbounify-prod.evergent.com
 DOMAIN,players.brightcove.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
-DOMAIN-KEYWORD,.hbogoasia.
 DOMAIN-KEYWORD,hbogoasia
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogoasia.com
@@ -459,6 +458,7 @@ USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
+DOMAIN,music.youtube.com
 # Porn
 DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,8teenxxx.com
