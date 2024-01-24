@@ -49,6 +49,7 @@ payload:
   - DOMAIN,ktpx.amazon.com
   - DOMAIN,link.theplatform.com
   - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+  - DOMAIN,music.youtube.com
   - DOMAIN,mytvsuperlimited.hb.omtrdc.net
   - DOMAIN,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN,netflix.com.edgesuite.net
@@ -63,7 +64,6 @@ payload:
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
   - DOMAIN-KEYWORD,-spotify-
-  - DOMAIN-KEYWORD,.hbogoasia.
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,avoddashs
