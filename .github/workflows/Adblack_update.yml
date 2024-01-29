@@ -21,9 +21,9 @@ jobs:
         echo 下载anti-AD
         curl -kfSL -o Adblack.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt
         echo 下载自用黑名单
-        curl -kfSL -o Blacklist.txt https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt
+        curl -kfSL -o Blacklist.txt https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt
         echo 下载自用白名单
-        curl -kfSL -o Allowlist.txt https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Allowlist.txt
+        curl -kfSL -o Allowlist.txt https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt
 
     - name: Process Rule File
       run: |
