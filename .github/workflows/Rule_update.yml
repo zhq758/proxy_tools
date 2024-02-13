@@ -93,7 +93,7 @@ jobs:
                       domain_suffix=".$domain_suffix"
                       domain_suffix_values="$domain_suffix_values        \"$domain_suffix\","$'\n'
                   fi
-                  if [[ "$line" == IP-CIDR,* ]]; then
+                  if [[ "$line" == IP-CIDR,* || "$line" == IP-CIDR6,* ]]; then
                       ip_cidr=$(echo "$line" | cut -d, -f2)
                       ip_cidr=$(echo "$ip_cidr" | sed 's/,no-resolve//g')
                       ip_cidr_values="$ip_cidr_values        \"$ip_cidr\","$'\n'
