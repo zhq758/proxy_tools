@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,sb.scorecardresearch.com
 # 手机连接
 DOMAIN-SUFFIX,default.exp-tas.com
 
-
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
 DOMAIN-KEYWORD,microsoft
