@@ -43,7 +43,7 @@ jobs:
         fi
         echo 添加注释数量时间备注
         version=$(TZ=Asia/Shanghai date '+%Y年%m月%d日%H:%M:%S')
-        count=$(grep -E 'DOMAIN-SUFFIX' Adblack.txt | wc -l)
+        count=$(grep -e '^DOMAIN,' -e '^DOMAIN-SUFFIX,' -e '^IP-CIDR,' -e '^DOMAIN-KEYWORD,' Adblack.txt | wc -l)
         sed -i "1i\\# 内容: 🚫 广告过滤 规则集\\n# 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/\\n# 更新: $version\\n# 数量: $count条" Adblack.txt
         echo 创建DOMAIN-SET格式规则
         cp Adblack.txt Adblack2.txt
