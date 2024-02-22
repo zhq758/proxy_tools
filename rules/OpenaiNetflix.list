@@ -7,7 +7,7 @@
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-
+DOMAIN-SUFFIX,chatgpt.com
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
