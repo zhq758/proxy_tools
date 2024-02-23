@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年02月23日04:13:59
-# 数量: 95285条
+# 更新: 2024年02月24日04:16:23
+# 数量: 95284条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -91873,7 +91873,6 @@ DOMAIN-SUFFIX,xliffnsc.xyz
 DOMAIN-SUFFIX,xliirdr.com
 DOMAIN-SUFFIX,xlirdr.com
 DOMAIN-SUFFIX,xlisting.jp
-DOMAIN-SUFFIX,xlivesex.com
 DOMAIN-SUFFIX,xlivrdr.com
 DOMAIN-SUFFIX,xlkdbbvy.xyz
 DOMAIN-SUFFIX,jpfufu.xlmoto.co.uk
