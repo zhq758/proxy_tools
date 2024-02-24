@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,docker.io
 # > 工具导航
 DOMAIN-SUFFIX,007.tg
+# ＞ Adguard
+DOMAIN-SUFFIX,adtidy.org
 
 # 域名服务
 DOMAIN-SUFFIX,godaddy.com
