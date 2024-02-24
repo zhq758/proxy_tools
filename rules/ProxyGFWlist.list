@@ -1,7 +1,7 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外常规代理域名，不含Telegram、OpenAi及国外媒体，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2024年02月13日10:57:14
-# 数量: 6057条
+# 更新: 2024年02月24日16:43:50
+# 数量: 6058条
 
 # Twitter
 DOMAIN-SUFFIX,cms-twdigitalassets.com
@@ -47,7 +47,7 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,docker.io
 # > 工具导航
 DOMAIN-SUFFIX,007.tg
-# ＞ Adguard
+# > Adguard
 DOMAIN-SUFFIX,adtidy.org
 
 # 域名服务
