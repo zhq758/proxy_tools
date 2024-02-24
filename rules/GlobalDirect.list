@@ -1,7 +1,7 @@
 # 内容: 🎯 全球直连 规则集
 # 备注: 本列表为国内直连域名，其他移步至https://github.com/mphin/ACL4SSR
-# 更新: 2024年02月13日10:57:10
-# 数量: 1200条
+# 更新: 2024年02月24日12:48:08
+# 数量: 1201条
 
 # 网站服务
 DOMAIN-SUFFIX,6sense.com
@@ -434,14 +434,13 @@ DOMAIN-SUFFIX,stripecdn.com
 
 # 下载
 DOMAIN-SUFFIX,cs.ioc.ee
-DOMAIN-SUFFIX,img1.wsimg.com
-DOMAIN-SUFFIX,op.supes.top
 DOMAIN-SUFFIX,deb.debian.org
 DOMAIN-SUFFIX,dl.openwrt.ai
 DOMAIN-SUFFIX,filesweb.com
+DOMAIN-SUFFIX,img1.wsimg.com
+DOMAIN-SUFFIX,op.supes.top
 DOMAIN-SUFFIX,thetradersden.org
 # > > BT
-DOMAIN-SUFFIX,vps02.net.orel.ru
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,abcvg.info
@@ -455,6 +454,7 @@ DOMAIN-SUFFIX,stealth.si
 DOMAIN-SUFFIX,t1.hloli.org
 DOMAIN-SUFFIX,tr.burnabyhighstar.com
 DOMAIN-SUFFIX,tr.ready4.icu
+DOMAIN-SUFFIX,vps02.net.orel.ru
 
 # 全球路由服务
 DOMAIN-SUFFIX,grs.dbankcloud.asia
@@ -463,13 +463,13 @@ DOMAIN-SUFFIX,grs.platform.dbankcloud.ru
 DOMAIN-SUFFIX,stun.voipraider.com
 
 # 其他
+DOMAIN-KEYWORD,xn--
 DOMAIN-SUFFIX,1-b.net
 DOMAIN-SUFFIX,api.revenuecat.com
+DOMAIN-SUFFIX,cdn.nz.lu
 DOMAIN-SUFFIX,data.osdknw.com
 DOMAIN-SUFFIX,gllto.glpals.com
 DOMAIN-SUFFIX,ios.sxqifeng.com
-DOMAIN-KEYWORD,xn--
-DOMAIN-SUFFIX,cdn.nz.lu
 DOMAIN-SUFFIX,marvelcdb.com
 DOMAIN-SUFFIX,xxxx.com
 
