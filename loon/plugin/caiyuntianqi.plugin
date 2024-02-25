@@ -1,0 +1,10 @@
+#!name = caiyuntianqi
+#!desc = 仅供学习和个人使用，不得用于商业目的或其他非法用途
+#!date = 2024-02-07 00:00:00
+
+[Script]
+http-response ^https?:\/\/(biz|wrapper|starplucker)\.(cyapi|caiyunapp)\.(cn|com)\/(.+\/(user\?app_name|activity\?app_name|visitors|operation\/banners|ai\/weather\/quotas|operation\/homefeatures)|p\/v\d\/(vip_info|user_info|entries|privileges)) script-path = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/caiyuntianqi/script/caiyuntianqi.js, requires-body = true, tag = caiyuntianqi
+http-request ^https?:\/\/(api|wrapper)\.(cyapi|caiyunapp)\.(cn|com)\/v\d\/(satellite|nafp\/origin_images) script-path = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/caiyuntianqi/script/caiyuntianqi.js, tag = caiyuntianqi
+
+[Mitm]
+hostname = *.cyapi.cn, *.caiyunapp.com
