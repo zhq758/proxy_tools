@@ -7,6 +7,7 @@
 创建文件名.conf，将下载地址填入即可
 
 可选，覆盖插件值:
+```
 #!name = 
 #!desc = 
 #!openUrl = 
@@ -14,3 +15,4 @@
 #!homepage =
 #!icon = 
 #!date = 
+```
