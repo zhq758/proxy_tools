@@ -1,5 +1,5 @@
 # Loon插件
-- **caiyuntianqi**：
+- **彩云天气解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/caiyuntianqi.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/caiyuntianqi.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/caiyuntianqi.plugin)
 - **1.1.1.1配置管理**：
