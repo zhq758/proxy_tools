@@ -1,6 +1,6 @@
 # 介绍
 * 自用Subconverter订阅转换配置文件，修改自原作者[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)  
-* 自用Loon配置文件和插件仓库
+* 自用Loon配置文件和[插件仓库](https://github.com/mphin/ProxyTools/blob/main/loon/README.md)
 * ACL4SSR规则为基础合并碎片补充剔除重复
 * Adblack广告规则来源于[anti-AD](https://github.com/privacy-protection-tools/anti-AD) 修改Actions每天自动构建
 * 规则数量: 8324条
