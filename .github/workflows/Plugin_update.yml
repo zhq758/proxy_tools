@@ -181,8 +181,8 @@ jobs:
             echo "  - [$raw_link]($raw_link)" >> "$readme_file"
           fi
         }
-        loon_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "Loon*.plugin"))
-        other_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "*.plugin" ! -name "Loon*.plugin"))
+        loon_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "Loon*.plugin" -exec grep -H "#!date" {} + | sort -k3 | awk -F ':' '{print $1}'))
+        other_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "*.plugin" ! -name "Loon*.plugin" -exec grep -H "#!date" {} + | sort -k3 | awk -F ':' '{print $1}'))
         readme_file="tmp/README.md"
         touch "$readme_file" && echo "# Loon插件" > "$readme_file"
         for file in "${loon_plugin_files[@]}"; do
@@ -201,7 +201,7 @@ jobs:
     - name: Commit and push
       run: |
         git config --global user.email "mphin@qq.com" && git config --global user.name "Bot"
-        git add . && git commit -m "自动更新$(date +'%Y-%m-%d %H:%M')" || exit 0
+        git add . && git commit -m "插件更新$(date +'%Y-%m-%d %H:%M')" || exit 0
         git push
 
     - name: Cleanup Workflow
