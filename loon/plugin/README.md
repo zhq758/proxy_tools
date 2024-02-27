@@ -1,49 +1,49 @@
 # Loon插件
-- **插件仓库**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
-- **节点检测工具**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin)
-- **入口落地查询**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin)
-- **跳过代理**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
-- **ScriptHub:重写&规则集转换**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin)
 - **Sub-Store**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Sub-Store.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Sub-Store.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Sub-Store.plugin)
-- **1.1.1.1配置管理**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/1.1.1.1.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/1.1.1.1.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/1.1.1.1.plugin)
-- **Google搜索重定向**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
-- **YouTube去广告**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/YouTube_remove_ads.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/YouTube_remove_ads.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/YouTube_remove_ads.plugin)
-- **TikTok解锁**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin)
-- **BoxJS**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin)
-- **彩云天气解锁**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
-- **修复美团DNS**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin)
-- **GitHub解锁**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin)
-- **美图秀秀SVIP解锁**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin)
+- **ScriptHub:重写&规则集转换**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin)
+- **跳过代理**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
+- **入口落地查询**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin)
+- **节点检测工具**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin)
+- **插件仓库**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
 - **TestFlight账户管理**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
+- **美图秀秀SVIP解锁**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin)
+- **GitHub解锁**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin)
+- **修复美团DNS**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin)
+- **彩云天气解锁**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
+- **BoxJS**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin)
+- **TikTok解锁**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin)
+- **YouTube去广告**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/YouTube_remove_ads.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/YouTube_remove_ads.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/YouTube_remove_ads.plugin)
+- **Google搜索重定向**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
+- **1.1.1.1配置管理**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/1.1.1.1.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/1.1.1.1.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/1.1.1.1.plugin)
