@@ -201,7 +201,7 @@ jobs:
     - name: Commit and push
       run: |
         git config --global user.email "mphin@qq.com" && git config --global user.name "Bot"
-        git add . && git commit -m "插件自动更新$(date +'%Y-%m-%d %H:%M')" || exit 0
+        git add . && git commit -m "插件更新$(date +'%Y-%m-%d %H:%M')" || exit 0
         git push
 
     - name: Cleanup Workflow
