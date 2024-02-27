@@ -54,7 +54,7 @@ jobs:
     - name: Commit And Push
       run: |
         git config --global user.email "mphin@qq.com" && git config --global user.name "Bot"
-        git add rules/Adblack.txt rules/Adblack2.txt && git commit -m "广告规则更新$(date +'%Y-%m-%d %H:%M')" || exit 0
+        git add rules/Adblack.txt rules/Adblack2.txt && git commit -m "广告规则$(date +'%Y-%m-%d %H:%M')" || exit 0
         git push
 
     - name: Cleanup Workflow
