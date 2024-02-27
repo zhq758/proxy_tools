@@ -181,8 +181,8 @@ jobs:
             echo "  - [$raw_link]($raw_link)" >> "$readme_file"
           fi
         }
-        loon_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "Loon*.plugin" -exec grep -H "#!date" {} + | sort -k3 | awk -F ':' '{print $1}'))
-        other_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "*.plugin" ! -name "Loon*.plugin" -exec grep -H "#!date" {} + | sort -k3 | awk -F ':' '{print $1}'))
+        loon_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "Loon*.plugin" -exec grep -H "#!date" {} + | sort -k3 -r | awk -F ':' '{print $1}'))
+        other_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "*.plugin" ! -name "Loon*.plugin" -exec grep -H "#!date" {} + | sort -k3 -r | awk -F ':' '{print $1}'))
         readme_file="tmp/README.md"
         touch "$readme_file" && echo "# Loon插件" > "$readme_file"
         for file in "${loon_plugin_files[@]}"; do
