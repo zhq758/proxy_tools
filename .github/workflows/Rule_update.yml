@@ -142,7 +142,7 @@ jobs:
       - name: Commit And Push
         run: |
           git config --global user.email "mphin@qq.com" && git config --global user.name "Bot"
-          git add . && git commit -m "规则日常更新$(date +'%Y-%m-%d %H:%M')"
+          git add . && git commit -m "规则更新$(date +'%Y-%m-%d %H:%M')"
           git push
 
       - name: Cleanup Workflow
