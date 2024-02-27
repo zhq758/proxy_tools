@@ -9,12 +9,14 @@
 ```
 https://raw.githubusercontent.com/mphin/ProxyTools/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
 ```
-## Loon分流配置文件:
-* [点击一键导入Loon](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/mphin/ProxyTools/main/config/Loon_config_mphin.conf)
-* 通过复制链接从URL下载:
-```
-https://raw.githubusercontent.com/mphin/ProxyTools/main/config/Loon_config_mphin.conf
-```
+## Loon:
+* [插件收集仓库](https://github.com/mphin/ProxyTools/blob/main/loon/README.md)
+* 配置文件
+  -  [点击一键导入Loon](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/mphin/ProxyTools/main/config/Loon_config_mphin.conf)
+  -  通过复制链接从URL下载:
+    ```
+    https://raw.githubusercontent.com/mphin/ProxyTools/main/config/Loon_config_mphin.conf
+    ```
 ## 策略组内容及顺序
 > 规则集非碎片化，建议添加所有规则集确保完整性，注意规则集优先级
 - **🎯 全球直连**：
