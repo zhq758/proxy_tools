@@ -17,12 +17,12 @@
 - **插件仓库**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
-- **BoxJs**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin)
 - **1.1.1.1配置管理**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/1.1.1.1.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/1.1.1.1.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/1.1.1.1.plugin)
+- **BoxJs**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/BoxJS.plugin)
 - **TestFlight账户管理**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
