@@ -1,19 +1,19 @@
 # Loon插件
-- **ScriptHub:重写&规则集转换**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin)
 - **Sub-Store**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Sub-Store.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Sub-Store.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Sub-Store.plugin)
+- **节点检测工具**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin)
+- **ScriptHub:重写&规则集转换**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin)
 - **跳过代理**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
 - **入口落地查询**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin)
-- **节点检测工具**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin)
 - **插件仓库**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
