@@ -4,7 +4,7 @@
 #!author = chavyleung
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
 #!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/BoxJS/icon/BoxJS.png
-#!date = 2024-03-05 04:13:35
+#!date = 2024-03-15 04:14:06
 
 [Rule]
 DOMAIN-SUFFIX, jsdelivr.net, PROXY
