@@ -24,8 +24,8 @@ jobs:
 
     - name: Update Plugin
       run: |
-        plugin_folder="plugin"
-        loon_plugin_folder="loon/plugin"
+        plugin_folder="plugin" #存放配置文件和js
+        loon_plugin_folder="loon/plugin" #存放loon插件
         base_url="https://raw.githubusercontent.com/$GITHUB_REPOSITORY/${GITHUB_REF##*/}/"
         current_year=$(date +'%Y')
         current_date=$(date "+%Y-%m-%d %H:%M:%S")
@@ -35,10 +35,10 @@ jobs:
         mkdir -p "$plugin_folder" "$plugin_folder" "$loon_plugin_folder" tmp
         for conf_file in $plugin_folder/*.conf; do
             if [ -f "$conf_file" ]; then
-                grep -qi '^#!url' "$conf_file" || sed -i '1s/^/#!url = /' "$conf_file"
+                head -n 1 "$conf_file" | grep -q '^http' && sed -i '1s/^/#!url = /' "$conf_file"
                 download_url=$(grep -i "#!url" $conf_file | awk -F '=' '{print $2}' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/%0D//')
                 download_file="tmp/$(basename "$conf_file" .conf)/$(basename "$download_url")"
-                mkdir -p "tmp/$(basename "$conf_file" .conf)/" && wget -O "$download_file" "$download_url"
+                [ -n "$download_url" ] && { mkdir -p "tmp/$(basename "$conf_file" .conf)/" && wget -O "$download_file" "$download_url"; }
                 
                 name=$(grep -i "#!name" $conf_file | awk -F '=' '{print $2}' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/%0D//')
                 [ -z "$name" ] && name=$(grep -i "#!name" $download_file | awk -F '=' '{print $2}' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/%0D//')
@@ -68,7 +68,7 @@ jobs:
                 
                 date=$(grep -i "#!date" $conf_file | awk -F '=' '{print $2}' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/%0D//')
                 [ -z "$date" ] && date=$(awk '/\/\*/,/\*\// || /#/' "$download_file" | grep -oEm 1 "$current_year[-/年.][[:digit:]]{1,2}[-/年.][[:digit:]]{1,2}|$previous_year_1[-/年.][[:digit:]]{1,2}[-/年.][[:digit:]]{1,2}|$previous_year_2[-/年.][[:digit:]]{1,2}[-/年.][[:digit:]]{1,2}" || grep -i "#!date" $download_file | awk -F '=' '{print $2}' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/%0D//')
-                [ -z "$date" ] && date="$current_date" && sed -i "/^#!date/ { s/.*/#!date = $current_date/; b; }; $ a #!date = $current_date" "$conf_file"
+                [ -z "$date" ] && { date="$current_date"; grep -q '^#!date' "$conf_file" && sed -i "s/^#!date.*/#!date = $current_date/" "$conf_file" || echo -e "\n#!date = $current_date" >> "$conf_file"; }
                 date=$(echo "$date" | sed -e 's/[\/年.]/-/g' -e '/[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\} [0-9]\{2\}:[0-9]\{2\}:[0-9]\{2\}/! s/$/ 00:00:00/')
 
                 plugin_file="tmp/$(basename "$conf_file" .conf).plugin"
@@ -87,19 +87,22 @@ jobs:
                 [ -n "$input" ] && echo "$input" | sed 's/^/#!input = /' >> "$plugin_file"
                 echo "#!date = $date" >> "$plugin_file"
 
-                mitm=$(sed -n '/\[Mitm\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
-                [ -z "$mitm" ] &&mitm=$(grep -i "hostname" $download_file | awk -F '=' '{print $2}' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/%0D//' | sed 's/%INSERT% //' | sed 's/%APPEND% //')
+                mitm=$(grep -i "hostname" $conf_file | awk -F '=' '{print $2}' | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//; s/%0D//; s/,$//')
+                [ -z "$mitm" ] &&mitm=$(grep -i "hostname" $download_file | awk -F '=' '{print $2}' | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//; s/%0D//; s/,$//' | sed -e 's/%INSERT% //; s/%APPEND% //')
                 script=$(sed -n '/\[Script\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d')
-                [ -z "$script" ] && script=$(sed -n '/\[Script\]/,/^\[/p;/\[rewrite_local\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
+                [ -z "$script" ] && script=$(sed -n '/\[Script\]/,/^\[/p;/\[rewrite_local\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d')
                 rewrite=$(sed -n '/\[Rewrite\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
                 [ -z "$rewrite" ] && rewrite=$(sed -n '/\[URL Rewrite\]/,/^\[/p;/\[Rewrite\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
                 general=$(sed -n '/\[General\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
                 [ -z "$general" ] && general=$(sed -n '/\[General\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d' | sed '/always-raw-tcp-hosts/d')
                 rule=$(sed -n '/\[Rule\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
                 [ -z "$rule" ] && rule=$(sed -n '/\[Rule\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
+                host=$(sed -n '/\[Host\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
+                [ -z "$host" ] && host=$(sed -n '/\[Host\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
                 
                 [ -n "$general" ] && echo -e "\n[General]\n$general" >> "$plugin_file"
                 [ -n "$rewrite" ] && echo -e "\n[Rewrite]\n$rewrite" >> "$plugin_file"
+                [ -n "$host" ] && echo -e "\n[Host]\n$host" >> "$plugin_file"
                 [ -n "$rule" ] && echo -e "\n[Rule]\n$rule" >> "$plugin_file"
                 [ -n "$script" ] && echo -e "\n[Script]\n$script" >> "$plugin_file"
                 [ -n "$mitm" ] && echo -e "\n[Mitm]\nhostname = $mitm" >> "$plugin_file"
@@ -124,16 +127,17 @@ jobs:
                                 previous_line_number=$((line_number - 1))
                                 previous_line=$(sed -n "${previous_line_number}p" "$plugin_file")
                                 if [[ "$previous_line" == "#"* ]]; then
-                                   comment_value=$(echo "$previous_line" | sed 's/^# *//')
+                                    comment_value=$(echo "$previous_line" | sed 's/^# *//')
                                     sed -i -e "${line_number}s/$/ $comment_value/" "$plugin_file"
                                 else
-                                    name_value=$(grep -m 1 '#!name = ' "$plugin_file" | sed 's/^#!name = //')
+                                    name_value=$(echo "$previous_line" | grep -o 'tag = [^ ]*' | sed 's/tag = //' || grep -m 1 '#!name = ' "$plugin_file" | sed 's/^#!name = //')
                                     sed -i -e "${line_number}s/$/ $name_value/" "$plugin_file"
                                 fi
                             fi
                         fi
                     done
                 done
+                sed -i '/^# /d' "$plugin_file"
 
                 # script下载
                 mkdir -p "tmp/$(basename "$conf_file" .conf)/script"
@@ -145,7 +149,7 @@ jobs:
                     if [ -f "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" ] && [ -f "$plugin_folder/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" ]; then
                         if ! cmp -s "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" "$plugin_folder/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")"; then
                             sed -i "s/#!date.*/#!date = $current_date/" "$plugin_file"
-                            sed -i "/^#!date/ { s/.*/#!date = $current_date/; b; }; $ a #!date = $current_date" "$conf_file"
+                            grep -q '^#!date' "$conf_file" && sed -i "s/^#!date.*/#!date = $current_date/" "$conf_file" || echo -e "\n#!date = $current_date" >> "$conf_file"
                         fi
                     fi
                     full_url="$base_url$plugin_folder/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")"
@@ -161,7 +165,7 @@ jobs:
                 if [ -f "plugin_new.tmp" ] && [ -f "plugin_old.tmp" ]; then
                     if ! cmp -s "plugin_new.tmp" "plugin_old.tmp"; then
                         sed -i "s/#!date.*/#!date = $current_date/" "$plugin_file"
-                        sed -i "/^#!date/ { s/.*/#!date = $current_date/; b; }; $ a #!date = $current_date" "$conf_file"
+                        grep -q '^#!date' "$conf_file" && sed -i "s/^#!date.*/#!date = $current_date/" "$conf_file" || echo -e "\n#!date = $current_date" >> "$conf_file"
                     fi
                 fi
                 rm -f "plugin_new.tmp" "plugin_old.tmp"
