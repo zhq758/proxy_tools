@@ -1,13 +1,11 @@
-#!name = Google搜索重定向
-#!desc = 将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。
-#!author = 可莉🅥
-#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
+#!name = Google重定向
+#!desc = 将google.cn/google.com.hk重定向回google.com
 #!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/Google/icon/Google.png
-#!date = 2023-11-14 14:41:32
+#!date = 2024-03-17 10:51:34
 
 [Rewrite]
-^https?:\/\/(www.)?(g|google)\.cn 302 https://www.google.com
-^https?:\/\/(ditu|maps).google\.cn 302 https://maps.google.com
+^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
+^https?:\/\/(www.)?(g|google)\.com.hk https://www.google.com 302
 
 [Mitm]
-hostname = www.google.cn
+hostname = *.google.cn, *.google.com.hk
