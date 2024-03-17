@@ -17,6 +17,9 @@
 - **插件仓库**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
+- **网易云音乐黑胶VIP**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin)
 - **Google搜索重定向**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
