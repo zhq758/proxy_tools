@@ -3,8 +3,8 @@
 * 自用Loon配置文件和[插件仓库](https://github.com/mphin/ProxyTools/blob/main/loon/README.md)
 * ACL4SSR规则为基础合并碎片补充剔除重复
 * Adblack广告规则来源于[anti-AD](https://github.com/privacy-protection-tools/anti-AD) 修改Actions每天自动构建
-* 规则数量: 8324条
-* 最近更新: 2024年03月17日06:06:16
+* 规则数量: 8325条
+* 最近更新: 2024年03月19日23:14:54
 ## ⚙Clash订阅转换远程配置:
 ```
 https://raw.githubusercontent.com/mphin/ProxyTools/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
