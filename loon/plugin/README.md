@@ -17,21 +17,24 @@
 - **插件仓库**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
-- **寻简-思维导图&流程图会员解锁**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin)
 - **网易云音乐黑胶VIP**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin)
-- **Google搜索重定向**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
 - **美图秀秀SVIP解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin)
 - **GitHub解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin)
+- **修复美团DNS**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin)
+- **寻简-思维导图&流程图会员解锁**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin)
+- **Google搜索重定向**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
 - **彩云天气解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
@@ -44,9 +47,6 @@
 - **TestFlight账户管理**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
-- **修复美团DNS**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/FixMeiTuanDNS.plugin)
 - **TikTok解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin)
