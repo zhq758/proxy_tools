@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
 DOMAIN-SUFFIX,sm.ms
 
 # 工具
+DOMAIN-SUFFIX,whatsmydns.net
 DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,imyfone.com
