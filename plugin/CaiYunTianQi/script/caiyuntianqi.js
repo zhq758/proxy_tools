@@ -1,3 +1,6 @@
+/*
+脚本引用https://raw.githubusercontent.com/chxm1023/Rewrite/main/caiyuntianqi.js
+*/
 /*************************************
 
 项目名称：彩云天气/彩云天气Pro

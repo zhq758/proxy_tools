@@ -1,3 +1,6 @@
+/*
+脚本引用https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/rule-parser.js
+*/
 /****************************
    支持QX & Surge & Clash 规则集解析
    适用app: Surge Shadowrocket Stash Loon

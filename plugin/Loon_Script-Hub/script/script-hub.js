@@ -1,3 +1,6 @@
+/*
+脚本引用https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/script-hub.js
+*/
 const NAME = `script-hub`
 
 const $ = new Env(NAME)

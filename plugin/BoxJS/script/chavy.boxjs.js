@@ -1,3 +1,6 @@
+/*
+脚本引用https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js
+*/
 const $ = new Env('BoxJs')
 
 // 为 eval 准备的上下文环境

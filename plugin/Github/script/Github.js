@@ -1,4 +1,7 @@
 /*
+脚本引用https://raw.githubusercontent.com/Yu9191/Rewrite/main/Github.js
+*/
+/*
 GitHub 1.142.1
 除了Ai功能，其他功能都可用
 

@@ -1,3 +1,6 @@
+/*
+脚本引用https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/Node_detection_tool/LocationDetection.js
+*/
 /* 测试 api
  * 地理位置查询
  * 感谢并修改自https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js

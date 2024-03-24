@@ -1,3 +1,6 @@
+/*
+脚本引用https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js
+*/
 ﻿/********************************
 TestFlight账户管理脚本
 

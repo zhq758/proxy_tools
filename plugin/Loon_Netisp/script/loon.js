@@ -1,3 +1,6 @@
+/*
+脚本引用https://raw.githubusercontent.com/Keywos/rule/master/script/netisp/js/loon.js
+*/
 /**
  * @key
  * 2023-10-23 19:17:25

@@ -1,3 +1,6 @@
+/*
+脚本引用https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/script-converter.js
+*/
 const TITLE = `Script Hub: 脚本转换`
 const NAME = `script-converter`
 

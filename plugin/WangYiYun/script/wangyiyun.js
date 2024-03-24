@@ -1,4 +1,7 @@
 /*
+脚本引用https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js
+*/
+/*
  *
  *
 脚本功能：网易云音乐黑胶vip++++

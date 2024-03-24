@@ -1,3 +1,6 @@
+/*
+脚本引用https://raw.githubusercontent.com/chxm1023/Rewrite/main/mtxx.js
+*/
 /*************************************
 
 项目名称：美图秀秀 解锁SVIP

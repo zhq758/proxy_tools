@@ -1,3 +1,6 @@
+/*
+脚本引用https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/TikTok/TikTok_remove_watermark.js
+*/
 var watermark = (data) => {
 	try {
 		let body = JSON.parse(data);

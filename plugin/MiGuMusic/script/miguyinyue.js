@@ -1,4 +1,7 @@
 /*
+脚本引用https://raw.githubusercontent.com/WeiGiegie/666/main/miguyinyue.js
+*/
+/*
  *
  *
 脚本功能：咪咕音乐

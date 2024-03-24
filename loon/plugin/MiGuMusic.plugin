@@ -1,7 +1,7 @@
 #!name = 咪咕音乐解锁
 #!desc = 仅供学习和个人使用，不得用于商业目的或其他非法用途
 #!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/MiGuMusic/icon/MiGuMusic.png
-#!date = 2024-03-21 13:52:23
+#!date = 2024-03-24 10:43:00
 
 [Rewrite]
 ^https://app\.c\.nf\.migu\.cn/member/api/marketing/text reject

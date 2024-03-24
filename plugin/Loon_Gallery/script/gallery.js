@@ -1,3 +1,6 @@
+/*
+脚本引用https://raw.githubusercontent.com/Loon0x00/Loon-Gallery/master/backend/gallery.js
+*/
 /**
  * Loon plugin gallery
 
