@@ -92,6 +92,7 @@ payload:
   - DOMAIN-SUFFIX,abema.tv
   - DOMAIN-SUFFIX,aboutamazon.com
   - DOMAIN-SUFFIX,ahcdn.com
+  - DOMAIN-SUFFIX,airav.io
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,amazon.jobs
@@ -100,6 +101,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,ameba.jp
   - DOMAIN-SUFFIX,assets.tpdfiles.com
+  - DOMAIN-SUFFIX,avhd101.com
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,bam.nr-data.net
   - DOMAIN-SUFFIX,bamgrid.com
@@ -174,6 +176,7 @@ payload:
   - DOMAIN-SUFFIX,fwmrm.net
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,getblueshift.com
+  - DOMAIN-SUFFIX,ggjav.com
   - DOMAIN-SUFFIX,go.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,gvt2.com
