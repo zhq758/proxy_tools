@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年03月26日04:14:46
-# 数量: 97158条
+# 更新: 2024年03月28日04:14:31
+# 数量: 97157条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -15734,7 +15734,6 @@ DOMAIN-SUFFIX,dm.bytedance.com
 DOMAIN-SUFFIX,tnc3-aliec2.bytedance.com
 DOMAIN-SUFFIX,tnc3-alisc1.bytedance.com
 DOMAIN-SUFFIX,tnc3-bjlgy.bytedance.com
-DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
 DOMAIN-SUFFIX,p3-tt.byteimg.com
 DOMAIN-SUFFIX,p6-ad-sign.byteimg.com
 DOMAIN-SUFFIX,explore.bytelab.uk
