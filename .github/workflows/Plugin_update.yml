@@ -125,7 +125,8 @@ jobs:
 
                 # http-request
                 sed -i '/script-request-\(header\|body\)/ s/^/http-request /' "$plugin_file"
-                sed -i '/script-request-\(header\|body\)/ s/$/, tag =/' "$plugin_file"
+                sed -i '/script-request-header/ s/$/, tag =/' "$plugin_file"
+                sed -i '/script-request-body/ s/$/, requires-body = true, tag =/' "$plugin_file"
                 sed -i 's/url script-request-\(header\|body\)/script-path =/' "$plugin_file"
 
                 #tag=
