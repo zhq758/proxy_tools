@@ -5,44 +5,51 @@ on:
       - main
     paths:
       - 'rules/*.list'
-  #workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Set up time zone
-        run: sudo timedatectl set-timezone Asia/Shanghai
+        run: |
+          sudo timedatectl set-timezone Asia/Shanghai
       
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@main
 
       - name: Get last commit files
         id: last_commit
         run: |
           echo "sha=$(git rev-parse HEAD)" >> $GITHUB_ENV
 
-      - name: Process Rule File
+      - name: Get changed files
         id: file_list
         run: |
           COMMIT=${{ env.sha }}
           URL="https://api.github.com/repos/${{ github.repository }}/compare/${COMMIT}^...${COMMIT}"
           FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[] | select(.filename | test("^rules/.*\\.list$")) | .filename')
-          download_tag=$(curl -sL https://api.github.com/repos/SagerNet/sing-box/releases/latest | jq -r '.tag_name')
+          if [ -z "$FILES" ]; then
+            FILES=$(find rules -maxdepth 1 -name '*.list')
+          fi
+          echo FILES=$FILES >> $GITHUB_OUTPUT
           
+      - name: Process Rule File
+        run: |
+          download_tag=$(curl -sL https://api.github.com/repos/SagerNet/sing-box/releases/latest | jq -r '.tag_name')
           wget -O sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/${download_tag}/sing-box-${download_tag#v}-linux-amd64.tar.gz"
           tar -zxvf sing-box.tar.gz
           cp sing-box-${download_tag#v}-linux-amd64/sing-box .
           
           echo 更新规则文件
+          FILES="${{ steps.file_list.outputs.FILES }}"
           for file in $FILES; do
               #修正字符
               sed -i 's/＞/>/g' $file
-              #获取变量
+              #修改数量和日期
               current_date=$(TZ=Asia/Shanghai date '+%Y年%m月%d日%H:%M:%S')
               count=$(grep -e '^DOMAIN,' -e '^DOMAIN-SUFFIX,' -e '^IP-CIDR,' -e '^IP-CIDR6,' -e '^DOMAIN-KEYWORD,' $file | wc -l)
               count_with_unit="${count}条"
-              #修改数量和日期
               sed -i "s/^# 更新: .*/# 更新: $current_date/" $file
               sed -i "s/^# 数量: .*/# 数量: $count_with_unit/" $file
               #修改规则正序
