@@ -20,6 +20,9 @@
 - **跳过代理**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
+- **Documents解锁**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin)
 - **AdGuard**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Adguard.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Adguard.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Adguard.plugin)

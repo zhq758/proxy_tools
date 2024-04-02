@@ -1,0 +1,9 @@
+#!name = Documents解锁
+#!desc = 仅供学习和个人使用，不得用于商业目的或其他非法用途
+#!date = 2024-04-02 15:42:54
+
+[Script]
+^https:\/\/license\.pdfexpert\.com\/api\/2\.0\/documents\/subscription\/refresh url script-request-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Documents.js
+
+[Mitm]
+hostname = license.pdfexpert.com
