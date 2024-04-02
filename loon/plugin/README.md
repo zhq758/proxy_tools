@@ -17,15 +17,15 @@
 - **跳过代理**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_General.plugin)
+- **Documents解锁**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin)
 - **网易云音乐黑胶VIP**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin)
 - **咪咕音乐解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MiGuMusic.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MiGuMusic.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MiGuMusic.plugin)
-- **Documents解锁**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin)
 - **彩云天气解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
