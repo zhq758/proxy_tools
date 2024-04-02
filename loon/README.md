@@ -26,12 +26,12 @@
 - **咪咕音乐解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MiGuMusic.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MiGuMusic.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MiGuMusic.plugin)
-- **彩云天气解锁**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
 - **Documents解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Documents.plugin)
+- **彩云天气解锁**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin)
 - **AdGuard**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Adguard.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Adguard.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Adguard.plugin)

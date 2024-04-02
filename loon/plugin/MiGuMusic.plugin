@@ -1,7 +1,7 @@
 #!name = 咪咕音乐解锁
 #!desc = 仅供学习和个人使用，不得用于商业目的或其他非法用途
 #!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/MiGuMusic/icon/MiGuMusic.png
-#!date = 2024-04-02 16:00:35
+#!date = 2024-04-02 16:07:48
 
 [Rewrite]
 ^https://app\.c\.nf\.migu\.cn/member/api/marketing/text reject
@@ -10,7 +10,7 @@
 
 [Script]
 http-response ^https?:\/\/(u|c|app).(musicapp|c.nf).migu.cn.*(user\/(queryUserInfo.do|member\/center))|column\/(startup-pic-with-ad|marketing\/advertising)|resource\/skin\/list\/.*$ script-path = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/MiGuMusic/script/miguyinyue.js, requires-body = true, tag = 咪咕音乐vip、音质、下载
-^https?:\/\/app.(c|pd).nf.migu.cn\/.*\/(listen-url|music\/batchQueryMusicPolicy|download-url).*$ url script-request-header https://raw.githubusercontent.com/WeiGiegie/666/main/migu.js
+http-request ^https?:\/\/app.(c|pd).nf.migu.cn\/.*\/(listen-url|music\/batchQueryMusicPolicy|download-url).*$ script-path = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/MiGuMusic/script/migu.js, tag = 咪咕音乐vip、音质、下载
 
 [Mitm]
 hostname = app.pd.nf.migu.cn, c.musicapp.migu.cn, u.musicapp.migu.cn, app.c.nf.migu.cn, app.c.nf.migu.cn, h5.nf.migu.cn
