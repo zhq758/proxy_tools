@@ -6,7 +6,7 @@
 #!author = NobyDa
 #!homepage = https://github.com/NobyDa/Script/tree/master
 #!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/TF_Account/icon/TF_Account.png
-#!date = 2024-04-04 16:14:34
+#!date = 2024-04-05 04:13:52
 
 [General]
 skip-proxy = iosapps.itunes.apple.com

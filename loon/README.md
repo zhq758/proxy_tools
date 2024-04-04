@@ -20,6 +20,9 @@
 - **插件仓库**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Gallery.plugin)
+- **TestFlight账户管理**：
+  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
+  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
 - **YouTube去广告**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/YouTube_remove_ads.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/YouTube_remove_ads.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/YouTube_remove_ads.plugin)
@@ -29,9 +32,6 @@
 - **TikTok解锁**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TikTok_redirect.plugin)
-- **TestFlight账户管理**：
-  - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/TF_Account.plugin)
 - **Google搜索重定向**：
   - [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
   - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Google.plugin)
