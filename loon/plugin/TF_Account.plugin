@@ -1,9 +1,12 @@
+/*
+插件引用https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Account.plugin
+*/
 #!name = TestFlight账户管理
 #!desc = 自动存储/合并多个TestFlight账户列表, 并可分享/导出TestFlight APP.
 #!author = NobyDa
 #!homepage = https://github.com/NobyDa/Script/tree/master
 #!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/TF_Account/icon/TF_Account.png
-#!date = 2024-03-26 04:14:02
+#!date = 2024-04-04 16:14:34
 
 [General]
 skip-proxy = iosapps.itunes.apple.com

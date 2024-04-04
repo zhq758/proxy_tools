@@ -1,3 +1,6 @@
+/*
+插件引用https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Loon.plugin
+*/
 #!name = Sub-Store
 #!desc = 高级订阅管理工具. 定时任务默认为每天 23 点 55 分
 #!openUrl = https://sub.store
@@ -6,7 +9,7 @@
 #!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/Loon_Sub-Store/icon/Loon_Sub-Store.png
 #!select = 节点缓存有效期,1分钟,5分钟,10分钟,30分钟,1小时,2小时,3小时,6小时,12小时,24小时,48小时,72小时,参数传入
 #!select = 响应头缓存有效期,1分钟,5分钟,10分钟,30分钟,1小时,2小时,3小时,6小时,12小时,24小时,48小时,72小时,参数传入
-#!date = 2024-04-03 04:13:17
+#!date = 2024-04-04 16:14:34
 
 [Rule]
 DOMAIN,sub-store.vercel.app,PROXY
