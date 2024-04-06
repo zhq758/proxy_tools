@@ -1,6 +1,6 @@
 # 内容: 🎥 国外媒体 规则集
 # 备注: 本列表为国外媒体域名，其他移步至https://github.com/mphin/ProxyTools
-# 更新: 2024年04月02日13:20:03
+# 更新: 2024年04月06日15:21:33
 # 数量: 368条
 
 DOMAIN-SUFFIX,hytto.com
@@ -80,8 +80,8 @@ DOMAIN-SUFFIX,sifangclub.com
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,sis001.us
 # > 调侃网
-DOMAIN-SUFFIX,tiaokan.love
 DOMAIN-SUFFIX,tiaokan.blog
+DOMAIN-SUFFIX,tiaokan.love
 DOMAIN-SUFFIX,tiaokan.vip
 DOMAIN-SUFFIX,tiaokan01.com
 DOMAIN-SUFFIX,tiaokan02.com
