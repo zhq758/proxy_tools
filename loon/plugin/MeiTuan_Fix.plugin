@@ -1,9 +1,9 @@
 #!name = 美团修复DNS
-#!desc = 保持插件开启状态
+#!desc = 解决美团系APP部分图片异常（无法加载或者缓慢）
 #!author = cntrump
 #!homepage = https://github.com/cntrump/rules
 #!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/MeiTuan_Fix/icon/MeiTuan_Fix.png
-#!date = 2024-03-20 04:47:33
+#!date = 2024-04-08 03:47:27
 
 [Rewrite]
 http(s)?://route-stats.d.meituan.net(.*)? http$1://route-stats.dreport.meituan.net$2 302

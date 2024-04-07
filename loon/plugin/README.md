@@ -22,6 +22,7 @@
 
 | 插件名称 | 更新时间 | 安装地址 |
 | - | - | - |
+| [美团修复DNS](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuan_Fix.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuan_Fix.plugin) |
 | [寻简解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin) |
 | [网易云音乐解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin) |
 | [美图秀秀解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuXiuXiu.plugin) |
@@ -31,7 +32,6 @@
 | [咪咕音乐解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MiGuMusic.plugin) | 2024/04/02 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MiGuMusic.plugin) |
 | [彩云天气解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin) | 2024/04/02 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin) |
 | [GitHub解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin) | 2024/03/24 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Github.plugin) |
-| [美团修复DNS](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuan_Fix.plugin) | 2024/03/20 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuan_Fix.plugin) |
 </ul>
 </details>
 
