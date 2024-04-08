@@ -19,6 +19,7 @@
 | [BoxJs](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_BoxJS.plugin) | 2024/04/04 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_BoxJS.plugin) |
 | [1.1.1.1配置管理](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_1.1.1.1.plugin) | 2024/04/04 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_1.1.1.1.plugin) |
 | [QQ链接解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_QQ_Links.plugin) | 2024/01/12 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_QQ_Links.plugin) |
+| [京东比价](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_JD_Price.plugin) | 2023/09/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_JD_Price.plugin) |
 #### APP插件:
 <details>
 <summary>👆︎点击查看</summary>
