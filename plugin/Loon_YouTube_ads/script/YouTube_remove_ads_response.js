@@ -1,7 +1,4 @@
 /*
-脚本引用https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/YouTube/YouTube_remove_ads_response.js
-*/
-/*
 脚本作者：Maasea
 引用地址：https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/dist/youtube.response.beta.js
 */
