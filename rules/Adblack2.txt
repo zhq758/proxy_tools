@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年04月08日04:13:57
-# 数量: 98187条
+# 更新: 2024年04月10日04:18:04
+# 数量: 98186条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -69822,7 +69822,6 @@
 .mark.l.qq.com
 .rlog.video.qq.com
 .ad.browser.qq.com
-.rdelivery.qq.com
 .aedns.weixin.qq.com
 .date.ab.qq.com
 .report.nfa.qq.com
