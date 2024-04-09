@@ -3,7 +3,7 @@ name: Adblack_update
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 20 * * *"
+    - cron: "0 21 * * *"
 
 jobs:
   update:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@main
 
     - name: Set up time zone
       run: sudo timedatectl set-timezone Asia/Shanghai
