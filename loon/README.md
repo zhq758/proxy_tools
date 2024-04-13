@@ -5,13 +5,13 @@
 #### 常用插件:
 | 插件名称 | 更新时间 | 安装地址 |
 | - | - | - |
+| [TikTok解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_TikTok.plugin) | 2024/04/14 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_TikTok.plugin) |
+| [TestFlight账户管理](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_TF_Account.plugin) | 2024/04/14 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_TF_Account.plugin) |
 | [BoxJs](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_BoxJS.plugin) | 2024/04/12 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_BoxJS.plugin) |
 | [Sub-Store](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Sub-Store.plugin) | 2024/04/10 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Sub-Store.plugin) |
 | [YouTube去广告](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_YouTube_ads.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_YouTube_ads.plugin) |
 | [微信外部链接跳转](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_WeixinLinks.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_WeixinLinks.plugin) |
-| [TikTok解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_TikTok.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_TikTok.plugin) |
 | [Script-Hub](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Script-Hub.plugin) |
-| [TestFlight账户管理](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_TF_Account.plugin) | 2024/04/06 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_TF_Account.plugin) |
 | [节点检测工具](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin) | 2024/04/04 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Node_tool.plugin) |
 | [入口落地查询](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin) | 2024/04/04 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Netisp.plugin) |
 | [Google重定向](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Google.plugin) | 2024/04/04 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/Loon_Google.plugin) |
@@ -27,7 +27,7 @@
 
 | 插件名称 | 更新时间 | 安装地址 |
 | - | - | - |
-| [彩云天气解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin) | 2024/04/13 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin) |
+| [彩云天气解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin) | 2024/04/14 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/CaiYunTianQi.plugin) |
 | [美团修复DNS](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuan_Fix.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/MeiTuan_Fix.plugin) |
 | [寻简解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/XunJian.plugin) |
 | [网易云音乐解锁](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin) | 2024/04/08 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/plugin/WangYiYun.plugin) |
