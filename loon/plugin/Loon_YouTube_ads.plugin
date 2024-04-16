@@ -10,7 +10,7 @@
 #!select = 隐藏选段按钮, true, false
 #!select = 字幕翻译语言, zh-Hans, zh-Hant, ja, ko, en, off
 #!select = 歌词翻译语言, zh-Hans, zh-Hant, ja, ko, en, off
-#!date = 2024-04-08 13:56:05
+#!date = 2024-04-17 04:13:48
 
 [Rewrite]
 ^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad reject-dict
