@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年04月20日05:08:41
-# 数量: 99908条
+# 更新: 2024年04月21日07:16:09
+# 数量: 99907条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -11072,7 +11072,6 @@
 .log.music.baidu.com
 .lxbjs.baidu.com
 .miao.baidu.com
-.mime.baidu.com
 .mine.baidu.com
 .mipengine.baidu.com
 .mobads-logs.baidu.com
