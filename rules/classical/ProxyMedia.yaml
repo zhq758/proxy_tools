@@ -238,6 +238,7 @@ payload:
   - DOMAIN-SUFFIX,makemehappy.mom
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,megaxh.com
+  - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,mudvod.tv
@@ -255,6 +256,7 @@ payload:
   - DOMAIN-SUFFIX,nivod.tv
   - DOMAIN-SUFFIX,nivodi.tv
   - DOMAIN-SUFFIX,nivodz.com
+  - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,nsimg.net
   - DOMAIN-SUFFIX,ocnttv.com
   - DOMAIN-SUFFIX,olehd.com
