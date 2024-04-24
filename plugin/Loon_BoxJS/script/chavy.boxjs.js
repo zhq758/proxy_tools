@@ -6,7 +6,7 @@ const $ = new Env('BoxJs')
 // 为 eval 准备的上下文环境
 const $eval_env = {}
 
-$.version = '0.19.0'
+$.version = '0.19.1'
 $.versionType = 'beta'
 
 // 发出的请求需要需要 Surge、QuanX 的 rewrite
@@ -828,7 +828,7 @@ async function apiRunScript() {
     script_text = opts.script
   }
   if (opts.argument) {
-    script_text = `globalThis.$argument="${opts.argument}";${script_text}`
+    script_text = `globalThis.$argument=\`${opts.argument}\`;${script_text}`
   }
   if (
     $.isSurge() &&
