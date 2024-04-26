@@ -9,7 +9,7 @@ on:
       - main
     paths:
       - 'plugin/*'
-      - '.github/workflows/Plugin_update.yml'
+      #- '.github/workflows/Plugin_update.yml'
       
 jobs:
   Plugin_update:
@@ -21,7 +21,20 @@ jobs:
 
     - name: Checkout repository
       uses: actions/checkout@main
+      
+    - name: Get last commit files
+      id: last_commit
+      run: |
+         echo "sha=$(git rev-parse HEAD)" >> $GITHUB_ENV
 
+    - name: Get changed files
+      id: file_conf
+      run: |
+        COMMIT=${{ env.sha }}
+        URL="https://api.github.com/repos/${{ github.repository }}/compare/${COMMIT}^...${COMMIT}"
+        conf_File=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[] | select(.filename | test("^plugin/.*\\.conf$")) | .filename')
+        echo conf_File=$conf_File >> $GITHUB_OUTPUT
+          
     - name: Update Plugin
       run: |
         plugin_folder="plugin" #存放配置文件和js
@@ -31,11 +44,16 @@ jobs:
         current_date=$(date "+%Y-%m-%d %H:%M:%S")
         previous_year_1=$((current_year - 1))
         previous_year_2=$((current_year - 2))
+        conf_File="${{ steps.file_conf.outputs.conf_File }}"
+        [ -z "$conf_File" ] && conf_File=$(find "$plugin_folder" -maxdepth 1 -name '*.conf')
 
         mkdir -p "$plugin_folder" "$plugin_folder" "$loon_plugin_folder" tmp
-        for conf_file in $plugin_folder/*.conf; do
+        for conf_file in $conf_File; do
             if [ -f "$conf_file" ]; then
-                head -n 1 "$conf_file" | grep -q '^http' && sed -i '1s/^/#!url = /' "$conf_file"
+                grep -q '^#!url' "$conf_file" || sed -i "1i #!url = $(grep "^http" $conf_file)" $conf_file && sed -i '/^http/d' $conf_file
+                grep -q '^#!tag' "$conf_file" || sed -i '2i\#!tag = ' "$conf_file"
+                grep -q '^# ===' "$conf_file" || sed -i '3i\# =============================== 以下值将会覆盖插件中的默认参数 ===============================' "$conf_file"
+                
                 download_url=$(grep -i "#!url" $conf_file | awk -F '=' '{print $2}' | sed 's/^[[:space:]]*//; s/[[:space:]]*$//; s/%0D//')
                 download_file="tmp/$(basename "$conf_file" .conf)/$(basename "$download_url")"
                 [ -n "$download_url" ] && { mkdir -p "tmp/$(basename "$conf_file" .conf)/" && wget -O "$download_file" "$download_url"; }
@@ -159,7 +177,7 @@ jobs:
                   if [[ "$line" == *"script-path"* ]]; then
                     script_download_url=$(echo "$line" | sed -n 's/^.*script-path\s*=\s*\([^,]*\).*$/\1/p')
                     wget -O "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" "$script_download_url"
-                    if ! head -n 10 "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" | grep -q -P '(?=.*(?:来源|引用))(?=.*http).*'; then
+                    if ! head -n 5 "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" | grep -q -P '(?=.*(?:来源|引用))(?=.*http).*'; then
                         sed -i '1i\/*\n脚本引用'"$script_download_url"'\n*/' "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")"
                     fi
                     # 对比script内容更新date值
@@ -200,23 +218,30 @@ jobs:
         process_plugin_file() {
           local file="$1"
           plugin_name=$(grep -i "#!name" "$file" | awk -F '=' '{print $2}' | tr -d '[:space:]')
-          plugin_date=$(grep -i "#!date" "$file" | awk -F '=' '{print $2}' | xargs -I{} date -d "{}" +%Y/%m/%d)
+          plugin_date=$(grep -i "#!date" "$file" | awk -F '=' '{print $2}' | xargs -I{} date -d "{}" +%-Y/%m/%d)
           if [ -n "$plugin_name" ]; then
             install_link="https://www.nsloon.com/openloon/import?plugin=$base_url$file"
             raw_link="$base_url$file"
-            echo "| [$plugin_name]($raw_link) | $plugin_date | [点击安装]($install_link) |" >> "$readme_file"
+            echo "| ✅[$plugin_name]($raw_link) | $plugin_date | [导入]($install_link) |" >> "$readme_file"
           fi
         }
-        loon_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "Loon*.plugin" -exec grep -H "#!date" {} + | sort -k3 -r | awk -F ':' '{print $1}'))
-        other_plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "*.plugin" ! -name "Loon*.plugin" -exec grep -H "#!date" {} + | sort -k3 -r | awk -F ':' '{print $1}'))
+        plugin_files=($(find "$loon_plugin_folder/" -maxdepth 1 -type f -name "*.plugin" -exec grep -H "#!date" {} + | sort -k3 -r | awk -F ':' '{print $1}'))
         readme_file="tmp/README.md"
-        touch "$readme_file" && echo -e "## 🎈Loon插件\n#### 常用插件:\n| 插件名称 | 更新时间 | 安装地址 |\n| - | - | - |" > "$readme_file"
-        for file in "${loon_plugin_files[@]}"; do
-           process_plugin_file "$file"
+        touch "$readme_file" && echo -e "## 🎈Loon插件\n| ⚙插件名称 | 📌更新时间 | 链接 |\n| - | - | - |" > "$readme_file"
+        for file in "${plugin_files[@]}"; do
+            file_base_name=$(basename "$file" .plugin)
+            conf_file="plugin/$file_base_name.conf"
+            if [ -f "$conf_file" ] && grep -qE "^#!tag\s*=\s*(常用插件|)$" "$conf_file"; then
+                process_plugin_file "$file"
+            fi
         done
-        echo -e "#### APP插件:\n<details>\n<summary>👆︎点击查看</summary>\n<ul>\n\n| 插件名称 | 更新时间 | 安装地址 |\n| - | - | - |" >> "$readme_file"
-        for file in "${other_plugin_files[@]}"; do
-           process_plugin_file "$file"
+        echo -e "#### 🔓解锁插件:\n<details>\n<summary>👆︎点击查看</summary>\n<ul>\n\n| 🔓插件名称 | 📌更新时间 | 链接 |\n| - | - | - |" >> "$readme_file"
+        for file in "${plugin_files[@]}"; do
+            file_base_name=$(basename "$file" .plugin)
+            conf_file="plugin/$file_base_name.conf"
+            if [ -f "$conf_file" ] && grep -qE "^#!tag\s*=\s*.*解锁.*$" "$conf_file"; then
+                process_plugin_file "$file"
+            fi
         done
         echo -e "</ul>\n</details>\n\n## ⚠️免责声明" >> "$readme_file"
         sed -n '/^## ⚠️免责声明$/,/^##/{/^##/!p}' README.md >> "$readme_file"
