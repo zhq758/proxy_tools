@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'plugin/*'
+      - 'scripts/*'
       #- '.github/workflows/Plugin_update.yml'
       
 jobs:
@@ -32,12 +32,12 @@ jobs:
       run: |
         COMMIT=${{ env.sha }}
         URL="https://api.github.com/repos/${{ github.repository }}/compare/${COMMIT}^...${COMMIT}"
-        conf_File=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[] | select(.filename | test("^plugin/.*\\.conf$")) | .filename')
+        conf_File=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[] | select(.filename | test("^scripts/.*\\.conf$")) | .filename')
         echo conf_File=$conf_File >> $GITHUB_OUTPUT
           
     - name: Update Plugin
       run: |
-        plugin_folder="plugin" #存放配置文件和js
+        script_folder="scripts" #存放配置和脚本
         loon_plugin_folder="loon/plugin" #存放生成后的Loon插件
         base_url="https://raw.githubusercontent.com/$GITHUB_REPOSITORY/${GITHUB_REF##*/}/"
         current_year=$(date +'%Y')
@@ -45,9 +45,9 @@ jobs:
         previous_year_1=$((current_year - 1))
         previous_year_2=$((current_year - 2))
         conf_File="${{ steps.file_conf.outputs.conf_File }}"
-        [ -z "$conf_File" ] && conf_File=$(find "$plugin_folder" -maxdepth 1 -name '*.conf')
+        [ -z "$conf_File" ] && conf_File=$(find "$script_folder" -maxdepth 1 -name '*.conf')
 
-        mkdir -p "$plugin_folder" "$plugin_folder" "$loon_plugin_folder" tmp
+        mkdir -p "$script_folder" "$script_folder" "$loon_plugin_folder" tmp
         for conf_file in $conf_File; do
             if [ -f "$conf_file" ]; then
                 grep -q '^#!url' "$conf_file" || sed -i "1i #!url = $(grep "^http" $conf_file)" $conf_file && sed -i '/^http/d' $conf_file
@@ -99,11 +99,11 @@ jobs:
                 if [ -n "$icon" ]; then
                     mkdir -p "tmp/$(basename "$conf_file" .conf)/icon"
                     wget -O "tmp/$(basename "$conf_file" .conf)/icon/$(basename "$conf_file" .conf).png" "$icon"
-                    icon="$base_url$plugin_folder/$(basename "$conf_file" .conf)/icon/$(basename "$conf_file" .conf).png"
+                    icon="$base_url$script_folder/$(basename "$conf_file" .conf)/icon/$(basename "$conf_file" .conf).png"
                     echo "#!icon = $icon" >> "$plugin_file"
                 else
-                    icon_folder="$plugin_folder/$(basename "$conf_file" .conf)/icon"
-                    find "$plugin_folder/$(basename "$conf_file" .conf)" -type f -name "*.png" -print0 | while IFS= read -r -d '' file; do
+                    icon_folder="$script_folder/$(basename "$conf_file" .conf)/icon"
+                    find "$script_folder/$(basename "$conf_file" .conf)" -type f -name "*.png" -print0 | while IFS= read -r -d '' file; do
                         mkdir -p "tmp/$(basename "$conf_file" .conf)/icon"
                         mv "$file" "tmp/$(basename "$conf_file" .conf)/icon/$(basename "$conf_file" .conf).png"
                         icon="$base_url$icon_folder/$(basename "$conf_file" .conf).png"
@@ -181,13 +181,13 @@ jobs:
                         sed -i '1i\/*\n脚本引用'"$script_download_url"'\n*/' "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")"
                     fi
                     # 对比script内容更新date值
-                    if [ -f "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" ] && [ -f "$plugin_folder/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" ]; then
-                        if ! cmp -s "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" "$plugin_folder/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")"; then
+                    if [ -f "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" ] && [ -f "$script_folder/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" ]; then
+                        if ! cmp -s "tmp/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")" "$script_folder/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")"; then
                             sed -i "s/#!date.*/#!date = $current_date/" "$plugin_file"
                             grep -q '^#!date' "$conf_file" && sed -i "s/^#!date.*/#!date = $current_date/" "$conf_file" || echo -e "\n#!date = $current_date" >> "$conf_file"
                         fi
                     fi
-                    full_url="$base_url$plugin_folder/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")"
+                    full_url="$base_url$script_folder/$(basename "$conf_file" .conf)/script/$(basename "$script_download_url")"
                     sed -i "s#$(sed 's/[&/\]/\\&/g' <<< "$script_download_url")#$full_url#" "$plugin_file"
                   fi
                 done < "$plugin_file"
@@ -230,7 +230,7 @@ jobs:
         touch "$readme_file" && echo -e "## 🎈Loon插件\n| ⚙插件名称 | 📌更新时间 | 链接 |\n| - | - | - |" > "$readme_file"
         for file in "${plugin_files[@]}"; do
             file_base_name=$(basename "$file" .plugin)
-            conf_file="plugin/$file_base_name.conf"
+            conf_file="$script_folder/$file_base_name.conf"
             if [ -f "$conf_file" ] && grep -qE "^#!tag\s*=\s*(常用插件|)$" "$conf_file"; then
                 process_plugin_file "$file"
             fi
@@ -238,7 +238,7 @@ jobs:
         echo -e "#### 🔓解锁插件:\n<details>\n<summary>👆︎点击查看</summary>\n<ul>\n\n| 🔓插件名称 | 📌更新时间 | 链接 |\n| - | - | - |" >> "$readme_file"
         for file in "${plugin_files[@]}"; do
             file_base_name=$(basename "$file" .plugin)
-            conf_file="plugin/$file_base_name.conf"
+            conf_file="$script_folder/$file_base_name.conf"
             if [ -f "$conf_file" ] && grep -qE "^#!tag\s*=\s*.*解锁.*$" "$conf_file"; then
                 process_plugin_file "$file"
             fi
@@ -249,7 +249,7 @@ jobs:
         cat $readme_file >> loon/README.md
         
         mv -f tmp/README.md "$loon_plugin_folder/"
-        cp -fr tmp/* plugin/
+        cp -fr tmp/* $script_folder/
         rm -fr tmp
 
     - name: Commit and push
