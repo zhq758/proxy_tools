@@ -1,5 +1,5 @@
 # 内容: 📲 电报消息 规则集
-# 备注: 本列表为Telegram域名，其他移步至https://github.com/mphin/ProxyTools
+# 备注: 本列表为Telegram相关域名，其他移步至https://github.com/mphin/ProxyTools
 # 更新: 2024年04月02日13:20:03
 # 数量: 15条
 
@@ -11,7 +11,10 @@ DOMAIN-KEYWORD,nicegram
 DOMAIN-SUFFIX,mbrx.app
 
 # Swiftgram
-DOMAIN,api.swiftgram.app
+DOMAIN-SUFFIX,swiftgram.app
+
+# Telegram工具
+DOMAIN-SUFFIX,tgstat.com
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
