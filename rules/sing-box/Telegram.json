@@ -2,13 +2,10 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "api.swiftgram.app"
-      ]
-    },
-    {
       "domain_suffix": [
         "mbrx.app",
+        "swiftgram.app",
+        "tgstat.com",
         "t.me",
         "tdesktop.com",
         "telegra.ph",

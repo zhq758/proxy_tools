@@ -1597,6 +1597,7 @@ payload:
   - DOMAIN-SUFFIX,fanqiang.network
   - DOMAIN-SUFFIX,fanqiang.tk
   - DOMAIN-SUFFIX,fanqiangdang.com
+  - DOMAIN-SUFFIX,fanqiangdang.org
   - DOMAIN-SUFFIX,fanqianghou.com
   - DOMAIN-SUFFIX,fanqiangyakexi.net
   - DOMAIN-SUFFIX,fanqiangzhe.com
@@ -5776,6 +5777,7 @@ payload:
   - DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
   - DOMAIN-SUFFIX,xn--i2ru8q2qg.com
   - DOMAIN-SUFFIX,xn--lmq622c7qjhl4a.com
+  - DOMAIN-SUFFIX,xn--mes358a9urctx.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,xn--oiq.cc
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c

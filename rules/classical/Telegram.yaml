@@ -1,12 +1,13 @@
 payload:
-  - DOMAIN,api.swiftgram.app
   - DOMAIN-KEYWORD,nicegram
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-SUFFIX,mbrx.app
+  - DOMAIN-SUFFIX,swiftgram.app
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tdesktop.com
   - DOMAIN-SUFFIX,telegra.ph
   - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,tgstat.com
   - IP-CIDR,109.239.140.0/24,no-resolve
   - IP-CIDR,149.154.160.0/20,no-resolve
   - IP-CIDR,5.28.195.80/32,no-resolve
