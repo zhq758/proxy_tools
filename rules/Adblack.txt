@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年05月11日05:08:48
-# 数量: 100339条
+# 更新: 2024年05月13日05:09:13
+# 数量: 100336条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -6806,7 +6806,6 @@ DOMAIN-SUFFIX,ilce.alicdn.com
 DOMAIN-SUFFIX,proxy-mob-cld.alicdn.com
 DOMAIN-SUFFIX,strip.alicdn.com
 DOMAIN-SUFFIX,unidesk.alicdn.com
-DOMAIN-SUFFIX,httpdns.alicdn.com
 DOMAIN-SUFFIX,rd.alice.it
 DOMAIN-SUFFIX,a8.aliceandolivia.jp
 DOMAIN-SUFFIX,alidongxi.com
@@ -13207,7 +13206,6 @@ DOMAIN-SUFFIX,bilicaxers.com
 DOMAIN-SUFFIX,line1-log.biligame.net
 DOMAIN-SUFFIX,bilingualfestive.com
 DOMAIN-SUFFIX,bilingualwalking.com
-DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,tentflooring.biljax.com
 DOMAIN-SUFFIX,bilkedsquit.com
 DOMAIN-SUFFIX,mhmetr.billabongstore.jp
@@ -50346,7 +50344,6 @@ DOMAIN-SUFFIX,cv.kuvings.jp
 DOMAIN-SUFFIX,kuvoansub.com
 DOMAIN-SUFFIX,img.kuwanpx.com
 DOMAIN-SUFFIX,kuwhetsa.net
-DOMAIN-SUFFIX,deliver.kuwo.cn
 DOMAIN-SUFFIX,ecomgxh.kuwo.cn
 DOMAIN-SUFFIX,log.kuwo.cn
 DOMAIN-SUFFIX,log1.kuwo.cn
