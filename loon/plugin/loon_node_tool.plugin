@@ -9,5 +9,5 @@
 #!date = 2024-04-17 04:13:48
 
 [Script]
-generic script-path = https://raw.githubusercontent.com/mphin/proxy_tools/main/scripts/loon_node_tool/script/LocationDetection.js, timeout = 10, tag = 地理位置查询, img-url = location.circle.system
-generic script-path = https://raw.githubusercontent.com/mphin/proxy_tools/main/scripts/loon_node_tool/script/NodeUnlockDetection.js, timeout = 20, tag = 节点解锁查询, img-url = play.circle.system
+generic script-path = https://raw.githubusercontent.com/mphin/proxy_tools/main/scripts/loon_node_tool/script/locationdetection.js, timeout = 10, tag = 地理位置查询, img-url = location.circle.system
+generic script-path = https://raw.githubusercontent.com/mphin/proxy_tools/main/scripts/loon_node_tool/script/nodeunlockdetection.js, timeout = 20, tag = 节点解锁查询, img-url = play.circle.system

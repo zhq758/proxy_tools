@@ -2,7 +2,6 @@
 #!desc = 非一次性解锁，每次使用前需要启用该插件
 #!author = chxm1023
 #!homepage = https://t.me/chxm1023
-#!icon = https://raw.githubusercontent.com/mphin/proxy_tools/main/scripts/MeiTuXiuXiu/icon/MeiTuXiuXiu.png
 #!date = 2024-04-08 02:03:08
 
 [Script]

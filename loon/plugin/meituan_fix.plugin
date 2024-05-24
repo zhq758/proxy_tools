@@ -2,7 +2,6 @@
 #!desc = 解决美团系APP部分图片异常（无法加载或者缓慢）
 #!author = cntrump
 #!homepage = https://github.com/cntrump/rules
-#!icon = https://raw.githubusercontent.com/mphin/proxy_tools/main/scripts/meituan_fix/icon/meituan_fix.png
 #!date = 2024-04-08 03:47:27
 
 [Rewrite]
