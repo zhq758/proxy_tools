@@ -1,6 +1,3 @@
-## 🎈Loon配置
-  - [点击导入](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/config/Loon_config_mphin.conf)
-  - [https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/config/Loon_config_mphin.conf](https://raw.githubusercontent.com/mphin/ProxyTools/main/loon/config/Loon_config_mphin.conf)
 ## 🎈Loon插件
 | ⚙插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
