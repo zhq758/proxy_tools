@@ -31,7 +31,7 @@ jobs:
       run: |
         COMMIT=${{ env.sha }}
         URL="https://api.github.com/repos/${{ github.repository }}/compare/${COMMIT}^...${COMMIT}"
-        conf_File=($(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[] | select(.filename | test("^scripts/.*\\/.*\\.conf$")) | .filename'))
+        conf_File=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[] | select(.filename | test("^scripts/.*\\.conf$")) | .filename' | tr '\n' ' ')
         echo "conf_File=${conf_File}" >> $GITHUB_OUTPUT
           
     - name: Update Plugin
@@ -58,7 +58,7 @@ jobs:
                 [ -z "$script_name" ] && script_name=$(basename "$remote_url" | sed 's/\.[^.]*$//' | awk '{print tolower($0)}')
                 if [[ $remote_url == http* ]]; then
                     download_file="$script_folder/$script_name/files/$(basename "$remote_url" | awk '{print tolower($0)}')"
-                    mkdir -p "$script_folder/$script_name/files/" && wget -O "$download_file" "$remote_url"
+                    mkdir -p "$script_folder/$script_name/files/" && wget -O "$download_file" "$remote_url" --tries=2
                 
                     name=$(extract_value "^#!name" $conf_file)
                     [ -z "$name" ] && name=$(extract_value "^#!name" $download_file)
@@ -101,7 +101,7 @@ jobs:
                     [ -n "$homepage" ] && echo "#!homepage = $homepage" >> "$plugin_file"
                     if [ -n "$icon" ]; then
                         icon_file="$script_folder/$script_name/icon/$script_name.png"
-                        [ ! -e "$icon_file" ] && mkdir -p "$script_folder/$script_name/icon" && wget -O "$icon_file" "$icon"
+                        [ ! -e "$icon_file" ] && mkdir -p "$script_folder/$script_name/icon" && wget -O "$icon_file" "$icon" --tries=2
                         echo "#!icon = $base_url$icon_file" >> "$plugin_file"
                     fi
                     [ -n "$select" ] && echo "$select" | sed 's/^/#!select = /' >> "$plugin_file"
@@ -113,7 +113,7 @@ jobs:
                     script=$(sed -n '/\[Script\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d')
                     [ -z "$script" ] && script=$(sed -n '/\[Script\]/,/^\[/p;/\[rewrite_local\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d')
                     rewrite=$(sed -n '/\[Rewrite\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
-                    [ -z "$rewrite" ] && rewrite=$(sed -n '/\[URL Rewrite\]/,/^\[/p;/\[Rewrite\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
+                    [ -z "$rewrite" ] && rewrite=$(sed -n '/\[.*Rewrite\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
                     general=$(sed -n '/\[General\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
                     [ -z "$general" ] && general=$(sed -n '/\[General\]/,/^\[/p' "$download_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d' | sed '/always-raw-tcp-hosts/d')
                     rule=$(sed -n '/\[Rule\]/,/^\[/p' "$conf_file" | sed '/^\[/d; /^[[:space:]]*$/d; /^#/d')
@@ -173,7 +173,7 @@ jobs:
                         script_basename=$(basename "$script_download_url" | awk '{print tolower($0)}')
                         script_tmp_path="tmp/$script_folder/$script_name/script/$script_basename"
                         script_folder_path="$script_folder/$script_name/script/$script_basename"
-                        wget -O "$script_tmp_path" "$script_download_url"
+                        wget -O "$script_tmp_path" "$script_download_url" --tries=2
                         if head -n 5 "$script_tmp_path" | awk '/来源|引用/ && /http/ {exit 1}'; then
                             sed -i '1i\/*\n脚本引用'"$script_download_url"'\n*/' "$script_tmp_path"
                         fi
@@ -218,8 +218,8 @@ jobs:
             fi
         done
             
-        # Update loon/readme.md
         if [ -n "$(find "$loon_plugin_folder" -name '*.plugin' | head -n 1)" ]; then
+            echo '更新readme.md'
             process_plugin_file() {
                 local file="$1"
                 plugin_name=$(extract_value "^#!name" "$file")
@@ -254,8 +254,8 @@ jobs:
             sed -i '/## 🎈Loon插件/,$d' loon/readme.md ; cat $readme_file >> loon/readme.md
         fi
         
-        #创建示例
         if [ ! -f "$script_folder/script.conf" ]; then
+            echo '创建script示例'
             cat <<EOF > "$script_folder/script.conf"
         ## 用于 Loon 插件定时下载到仓库，以防止原作者删除库的脚本配置文件。
         # 支持将 Quantumult X 脚本转换为 Loon 插件，并覆盖原插件中的参数。
