@@ -1,6 +1,6 @@
 # 介绍
 * 自用Subconverter订阅转换配置文件，修改自原作者[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)  
-* 自用Loon配置文件和[插件仓库](https://github.com/mphin/proxy_tools/blob/main/loon/README.md)
+* 自用Loon配置文件和[插件仓库](https://github.com/mphin/proxy_tools/blob/main/loon/readme.md)
 * ACL4SSR规则为基础合并碎片补充剔除重复
 * Adblack广告规则来源于[anti-AD](https://github.com/privacy-protection-tools/anti-AD) 修改Actions每天自动构建
 * 规则数量: 8341条
@@ -10,7 +10,7 @@
 https://raw.githubusercontent.com/mphin/proxy_tools/main/config/ACL4SSR_Online_Full_MultiMode_777.ini
 ```
 ## 🎈Loon:
-* 【插件仓库】[🔗链接地址](https://github.com/mphin/proxy_tools/blob/main/loon/README.md)
+* 【插件仓库】[🔗链接地址](https://github.com/mphin/proxy_tools/blob/main/loon/readme.md)
 * 【配置文件】
   -  [点击一键导入Loon](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/mphin/proxy_tools/main/config/Loon_config_mphin.conf)
   -  通过复制链接从URL下载:
