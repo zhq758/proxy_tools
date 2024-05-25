@@ -43,6 +43,7 @@ jobs:
         current_date=$(date "+%Y-%m-%d %H:%M:%S")
         previous_year_1=$((current_year - 1))
         previous_year_2=$((current_year - 2))
+        echo 'user_agent = "Loon/699 CFNetwork/1496.0.7 Darwin/23.5.0"' >> ~/.wgetrc
         mkdir -p "$script_folder" "$script_folder" "$loon_plugin_folder" tmp
         
         extract_value() {
