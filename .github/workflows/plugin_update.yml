@@ -22,11 +22,13 @@ jobs:
       uses: actions/checkout@main
       
     - name: Get last commit files
+      if: github.event_name == 'push'
       id: last_commit
       run: |
          echo "sha=$(git rev-parse HEAD)" >> $GITHUB_ENV
 
     - name: Get changed files
+      if: github.event_name == 'push'
       id: file_conf
       run: |
         COMMIT=${{ env.sha }}
@@ -50,8 +52,12 @@ jobs:
             grep -i "$1" "$2" | awk -F '=' '{print $2}' | sed 's/^[[:space:]]*//; s/[[:space:]]*$//; s/%0D//'
         }
         
-        conf_File="${{ steps.file_conf.outputs.conf_File }}" && IFS=' ' read -r -a conf_File <<< "$conf_File"
-        [ ${#conf_File[@]} -eq 0 ] && conf_File=($(find "$script_folder" -name '*.conf'))
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event_name }}" = "schedule" ]; then
+            conf_File=($(find "$script_folder" -name '*.conf'))
+        else
+            conf_File="${{ steps.file_conf.outputs.conf_File }}" && IFS=' ' read -r -a conf_File <<< "$conf_File"
+            [ ${#conf_File[@]} -eq 0 ] && conf_File=($(find "$script_folder" -name '*.conf'))
+        fi
         for conf_file in "${conf_File[@]}"; do
             if [ -e "$conf_file" ]; then
                 remote_url=$(extract_value "^remote_url" $conf_file)
@@ -220,7 +226,7 @@ jobs:
         done
             
         if [ -n "$(find "$loon_plugin_folder" -name '*.plugin' | head -n 1)" ]; then
-            echo '更新readme.md'
+            echo '开始更新readme.md'
             process_plugin_file() {
                 local file="$1"
                 plugin_name=$(extract_value "^#!name" "$file")
