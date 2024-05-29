@@ -1,7 +1,7 @@
 ## 🎈Loon插件
 | ⚙插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
-| ✅[Sub-Store](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) | 2024/05/29 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) |
+| ✅[Sub-Store](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) | 2024/05/30 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) |
 | ✅[Script-Hub](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/script_hub.plugin) | 2024/05/29 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/script_hub.plugin) |
 | ✅[百度搜索防跳转](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/baidu_redirect.plugin) | 2024/05/25 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/baidu_redirect.plugin) |
 | ✅[YouTube去广告](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) | 2024/05/25 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) |
@@ -25,15 +25,15 @@
 
 | 🔓插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
+| ✅[酷我音乐&畅听解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/kuwo.plugin) | 2024/05/30 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/kuwo.plugin) |
+| ✅[Documents解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/documents.plugin) | 2024/05/30 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/documents.plugin) |
 | ✅[网易云音乐解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/wangyiyun.plugin) | 2024/05/25 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/wangyiyun.plugin) |
 | ✅[芒果TV解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/mangguotv.plugin) | 2024/05/25 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/mangguotv.plugin) |
 | ✅[Gp4o解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/gp4o.plugin) | 2024/05/19 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/gp4o.plugin) |
-| ✅[酷我音乐&畅听解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/kuwo.plugin) | 2024/05/16 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/kuwo.plugin) |
 | ✅[彩云天气解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/caiyuntianqi.plugin) | 2024/04/26 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/caiyuntianqi.plugin) |
 | ✅[寻简解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/xunjian.plugin) | 2024/04/08 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/xunjian.plugin) |
 | ✅[美图秀秀解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/meituxiuxiu.plugin) | 2024/04/08 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/meituxiuxiu.plugin) |
 | ✅[Adguard解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/adguard.plugin) | 2024/04/08 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/adguard.plugin) |
-| ✅[Documents解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/documents.plugin) | 2024/04/02 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/documents.plugin) |
 | ✅[咪咕音乐解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/miguyinyue.plugin) | 2024/04/02 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/miguyinyue.plugin) |
 | ✅[GitHub解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/github.plugin) | 2024/03/24 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/github.plugin) |
 </ul>

@@ -5,7 +5,7 @@
 #!homepage = https://napi.ltd
 #!icon = https://raw.githubusercontent.com/mphin/proxy_tools/main/scripts/kuwo/icon/kuwo.png
 #!select = 选择试听音质,至臻音质,无损音质,超品音质
-#!date = 2024-05-16 00:00:00
+#!date = 2024-05-30 04:10:40
 
 [Rule]
 USER-AGENT,KWPlayer*,PROXY
