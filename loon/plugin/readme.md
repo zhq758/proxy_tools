@@ -1,8 +1,8 @@
 ## 🎈Loon插件
 | ⚙插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
+| ✅[Sub-Store](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) | 2024/06/14 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) |
 | ✅[YouTube去广告](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) | 2024/06/12 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) |
-| ✅[Sub-Store](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) | 2024/06/12 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) |
 | ✅[Script-Hub](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/script_hub.plugin) | 2024/05/29 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/script_hub.plugin) |
 | ✅[百度搜索防跳转](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/baidu_redirect.plugin) | 2024/05/25 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/baidu_redirect.plugin) |
 | ✅[TikTok解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/tiktok_redirect.plugin) | 2024/05/25 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/tiktok_redirect.plugin) |
