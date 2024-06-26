@@ -4,7 +4,7 @@
 #!author = 影子
 #!homepage = https://napi.ltd
 #!icon = https://raw.githubusercontent.com/mphin/proxy_tools/main/scripts/kuwo/icon/kuwo.png
-#!date = 2024-06-21 04:19:07
+#!date = 2024-06-27 04:22:24
 
 [Rule]
 USER-AGENT,KWPlayer*,PROXY
