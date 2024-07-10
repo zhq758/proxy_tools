@@ -28,9 +28,9 @@
 
 | 🔓插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
+| ✅[Documents解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/documents.plugin) | 2024/07/11 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/documents.plugin) |
 | ✅[酷我音乐&畅听解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/kuwo.plugin) | 2024/06/27 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/kuwo.plugin) |
 | ✅[网易云音乐解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/wangyiyun.plugin) | 2024/06/18 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/wangyiyun.plugin) |
-| ✅[Documents解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/documents.plugin) | 2024/05/30 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/documents.plugin) |
 | ✅[芒果TV解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/mangguotv.plugin) | 2024/05/25 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/mangguotv.plugin) |
 | ✅[Gp4o解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/gp4o.plugin) | 2024/05/19 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/gp4o.plugin) |
 | ✅[彩云天气解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/caiyuntianqi.plugin) | 2024/04/26 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/caiyuntianqi.plugin) |
