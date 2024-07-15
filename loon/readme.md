@@ -4,7 +4,7 @@
 ## 🎈Loon插件
 | ⚙插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
-| ✅[BoxJs](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) | 2024/07/13 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) |
+| ✅[BoxJs](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) | 2024/07/16 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) |
 | ✅[Sub-Store](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) | 2024/07/08 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) |
 | ✅[YouTube去广告](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) | 2024/07/01 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) |
 | ✅[微信外部链接跳转](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/weixin_redirect.plugin) | 2024/07/01 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/weixin_redirect.plugin) |
