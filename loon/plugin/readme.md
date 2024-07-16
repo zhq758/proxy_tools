@@ -1,6 +1,7 @@
 ## 🎈Loon插件
 | ⚙插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
+| ✅[1.1.1.1配置管理](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/1.1.1.1.plugin) | 2024/07/17 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/1.1.1.1.plugin) |
 | ✅[BoxJs](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) | 2024/07/16 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) |
 | ✅[Sub-Store](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) | 2024/07/08 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) |
 | ✅[YouTube去广告](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) | 2024/07/01 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/youtube_remove_ads.plugin) |
@@ -9,7 +10,6 @@
 | ✅[QQ链接解锁](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/qq_redirect.plugin) | 2024/07/01 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/qq_redirect.plugin) |
 | ✅[节点检测工具](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/loon_node_tool.plugin) | 2024/07/01 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/loon_node_tool.plugin) |
 | ✅[京东比价](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/jd_price.plugin) | 2024/07/01 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/jd_price.plugin) |
-| ✅[1.1.1.1配置管理](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/1.1.1.1.plugin) | 2024/07/01 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/1.1.1.1.plugin) |
 | ✅[Script-Hub](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/script_hub.plugin) | 2024/06/22 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/script_hub.plugin) |
 | ✅[百度搜索防跳转](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/baidu_redirect.plugin) | 2024/05/25 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/baidu_redirect.plugin) |
 | ✅[Google重定向](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/google_redirect.plugin) | 2024/04/17 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/google_redirect.plugin) |
