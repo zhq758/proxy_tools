@@ -4,7 +4,7 @@
 ## 🎈Loon插件
 | ⚙插件名称 | 📌更新时间 | 链接 |
 | - | - | - |
-| ✅[BoxJs](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) | 2024/07/23 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) |
+| ✅[BoxJs](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) | 2024/07/24 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/boxjs.plugin) |
 | ✅[Script-Hub](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/script_hub.plugin) | 2024/07/22 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/script_hub.plugin) |
 | ✅[Sub-Store](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) | 2024/07/21 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/sub_store.plugin) |
 | ✅[1.1.1.1配置管理](https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/1.1.1.1.plugin) | 2024/07/17 | [导入](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/mphin/proxy_tools/main/loon/plugin/1.1.1.1.plugin) |
