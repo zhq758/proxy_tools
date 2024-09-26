@@ -107,6 +107,10 @@ DOMAIN-SUFFIX,njav.tv
 # > MISSAV
 DOMAIN-SUFFIX,missav.com
 
+# Emby
+# > Misty
+DOMAIN-SUFFIX,misty.cx
+
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
