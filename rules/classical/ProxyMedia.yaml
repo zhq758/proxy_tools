@@ -246,6 +246,7 @@ payload:
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,megaxh.com
   - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,misty.cx
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,mudvod.tv
