@@ -111,6 +111,9 @@ DOMAIN-SUFFIX,missav.com
 # > Misty
 DOMAIN-SUFFIX,misty.cx
 
+# Jellyfin
+# > 探花TV
+DOMAIN-SUFFIX,tanhuatv.site
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
