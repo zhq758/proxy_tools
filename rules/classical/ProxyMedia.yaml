@@ -172,6 +172,7 @@ payload:
   - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,fivetiu.com
   - DOMAIN-SUFFIX,flixcdn.com
   - DOMAIN-SUFFIX,flzbcdn.xyz
   - DOMAIN-SUFFIX,fox.com
